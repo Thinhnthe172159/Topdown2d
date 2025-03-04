@@ -1,0 +1,3250 @@
+fileFormatVersion: 2
+guid: 6060e656b55bb244cbe4e61f5f75a78c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6962915926200481020
+    second: Pipe_ladder_0
+  - first:
+      213: 3573286003525416607
+    second: Pipe_ladder_1
+  - first:
+      213: -1619920403170315113
+    second: Pipe_ladder_2
+  - first:
+      213: -4421531133243255478
+    second: Pipe_ladder_3
+  - first:
+      213: -1309328724976918750
+    second: Pipe_ladder_4
+  - first:
+      213: -7413176520617835716
+    second: Pipe_ladder_5
+  - first:
+      213: 5117419224569846118
+    second: Pipe_ladder_6
+  - first:
+      213: -5512032685998516726
+    second: Pipe_ladder_7
+  - first:
+      213: -3717856670521082186
+    second: Pipe_ladder_8
+  - first:
+      213: 1251892701951781026
+    second: Pipe_ladder_9
+  - first:
+      213: -4669838002335628326
+    second: Pipe_ladder_10
+  - first:
+      213: -3331958338045607825
+    second: Pipe_ladder_11
+  - first:
+      213: 7999892212745586047
+    second: Pipe_ladder_12
+  - first:
+      213: 8712685102269947440
+    second: Pipe_ladder_13
+  - first:
+      213: -255731078297178445
+    second: Pipe_ladder_14
+  - first:
+      213: -5246360429842278092
+    second: Pipe_ladder_15
+  - first:
+      213: 2877153495946409225
+    second: Pipe_ladder_16
+  - first:
+      213: -2687384311424988189
+    second: Pipe_ladder_17
+  - first:
+      213: -9008372792061030392
+    second: Pipe_ladder_18
+  - first:
+      213: 3381881830795804665
+    second: Pipe_ladder_19
+  - first:
+      213: 5292000836054054625
+    second: Pipe_ladder_20
+  - first:
+      213: -1708152294381106374
+    second: Pipe_ladder_21
+  - first:
+      213: -1944147062979589605
+    second: Pipe_ladder_22
+  - first:
+      213: -996412228933653098
+    second: Pipe_ladder_23
+  - first:
+      213: 9195054341012525334
+    second: Pipe_ladder_24
+  - first:
+      213: 1979829304317595529
+    second: Pipe_ladder_25
+  - first:
+      213: 4546450194694705663
+    second: Pipe_ladder_26
+  - first:
+      213: -8784135464119796931
+    second: Pipe_ladder_27
+  - first:
+      213: 8070614034335194258
+    second: Pipe_ladder_28
+  - first:
+      213: -6321982319924419377
+    second: Pipe_ladder_29
+  - first:
+      213: -6492458998523378547
+    second: Pipe_ladder_30
+  - first:
+      213: 139654255919014830
+    second: Pipe_ladder_31
+  - first:
+      213: 2543820715857947720
+    second: Pipe_ladder_32
+  - first:
+      213: 9022886863515136940
+    second: Pipe_ladder_33
+  - first:
+      213: 8617552718084780241
+    second: Pipe_ladder_34
+  - first:
+      213: 3759791390227903074
+    second: Pipe_ladder_35
+  - first:
+      213: -2729014299150265483
+    second: Pipe_ladder_36
+  - first:
+      213: -460946748350554834
+    second: Pipe_ladder_37
+  - first:
+      213: -631093001324945043
+    second: Pipe_ladder_38
+  - first:
+      213: 5283012357136319375
+    second: Pipe_ladder_39
+  - first:
+      213: -5772725012598713686
+    second: Pipe_ladder_40
+  - first:
+      213: -1236776350237933960
+    second: Pipe_ladder_41
+  - first:
+      213: -4112667910897678121
+    second: Pipe_ladder_42
+  - first:
+      213: 3262279721920265638
+    second: Pipe_ladder_43
+  - first:
+      213: -4619616234153358334
+    second: Pipe_ladder_44
+  - first:
+      213: -3660875631458381558
+    second: Pipe_ladder_45
+  - first:
+      213: -7798454002645035939
+    second: Pipe_ladder_46
+  - first:
+      213: 5958525797907427610
+    second: Pipe_ladder_47
+  - first:
+      213: 7369647584444789309
+    second: Pipe_ladder_48
+  - first:
+      213: -5010185336541172010
+    second: Pipe_ladder_49
+  - first:
+      213: 5358039895709551248
+    second: Pipe_ladder_50
+  - first:
+      213: -5821563129906838183
+    second: Pipe_ladder_51
+  - first:
+      213: -5539781858015148234
+    second: Pipe_ladder_52
+  - first:
+      213: 4386368281163924183
+    second: Pipe_ladder_53
+  - first:
+      213: 353046949342725884
+    second: Pipe_ladder_54
+  - first:
+      213: -6889775218613815980
+    second: Pipe_ladder_55
+  - first:
+      213: -550183098294535188
+    second: Pipe_ladder_56
+  - first:
+      213: -70997154574395543
+    second: Pipe_ladder_57
+  - first:
+      213: -105522242684463185
+    second: Pipe_ladder_58
+  - first:
+      213: -8362668410855181980
+    second: Pipe_ladder_59
+  - first:
+      213: -7633135557685354465
+    second: Pipe_ladder_60
+  - first:
+      213: 1651518324323062685
+    second: Pipe_ladder_61
+  - first:
+      213: 1500009582353533826
+    second: Pipe_ladder_62
+  - first:
+      213: -1010022753972757145
+    second: Pipe_ladder_63
+  - first:
+      213: -6620728867071640959
+    second: Pipe_ladder_64
+  - first:
+      213: 5117902885275366579
+    second: Pipe_ladder_65
+  - first:
+      213: -6521080322157862060
+    second: Pipe_ladder_66
+  - first:
+      213: 7286569234660316531
+    second: Pipe_ladder_67
+  - first:
+      213: -8939442355194453489
+    second: Pipe_ladder_68
+  - first:
+      213: 3178295527779762678
+    second: Pipe_ladder_69
+  - first:
+      213: 7615179957717370256
+    second: Pipe_ladder_70
+  - first:
+      213: 6424069866164081862
+    second: Pipe_ladder_71
+  - first:
+      213: -1362682913533806554
+    second: Pipe_ladder_72
+  - first:
+      213: 6384797659994882248
+    second: Pipe_ladder_73
+  - first:
+      213: -211116817887768922
+    second: Pipe_ladder_74
+  - first:
+      213: -1070656983995354522
+    second: Pipe_ladder_75
+  - first:
+      213: -1467378974412442409
+    second: Pipe_ladder_76
+  - first:
+      213: 3331090281338315538
+    second: Pipe_ladder_77
+  - first:
+      213: -8302597031708504794
+    second: Pipe_ladder_78
+  - first:
+      213: -459476432905715540
+    second: Pipe_ladder_79
+  - first:
+      213: 7013749520146611698
+    second: Pipe_ladder_80
+  - first:
+      213: 4947025022480242479
+    second: Pipe_ladder_81
+  - first:
+      213: 5583073024971025142
+    second: Pipe_ladder_82
+  - first:
+      213: 3661020426071339474
+    second: Pipe_ladder_83
+  - first:
+      213: 5808679694836396677
+    second: Pipe_ladder_84
+  - first:
+      213: -8805063279345366093
+    second: Pipe_ladder_85
+  - first:
+      213: 8558216849025873065
+    second: Pipe_ladder_86
+  - first:
+      213: -3031196257172165387
+    second: Pipe_ladder_87
+  - first:
+      213: -4665904123171783100
+    second: Pipe_ladder_88
+  - first:
+      213: -2039488001656336815
+    second: Pipe_ladder_89
+  - first:
+      213: 8594658525471230780
+    second: Pipe_ladder_90
+  - first:
+      213: -1838676577865984243
+    second: Pipe_ladder_91
+  - first:
+      213: -520868061200372413
+    second: Pipe_ladder_92
+  - first:
+      213: 5842109814432975038
+    second: Pipe_ladder_93
+  - first:
+      213: -6570881442648233528
+    second: Pipe_ladder_94
+  - first:
+      213: -7173211849944872770
+    second: Pipe_ladder_95
+  - first:
+      213: -1298587428615805394
+    second: Pipe_ladder_96
+  - first:
+      213: 3626476195926274997
+    second: Pipe_ladder_97
+  - first:
+      213: -8730368345767605033
+    second: Pipe_ladder_98
+  - first:
+      213: 4100519402714930478
+    second: Pipe_ladder_99
+  - first:
+      213: -8671136167350627607
+    second: Pipe_ladder_100
+  - first:
+      213: 2188795739394622746
+    second: Pipe_ladder_101
+  - first:
+      213: -1056662755473586864
+    second: Pipe_ladder_102
+  - first:
+      213: -5514317049236661599
+    second: Pipe_ladder_103
+  - first:
+      213: 4051941761516678747
+    second: Pipe_ladder_104
+  - first:
+      213: 2018448933478906109
+    second: Pipe_ladder_105
+  - first:
+      213: -6211157447408009711
+    second: Pipe_ladder_106
+  - first:
+      213: 8720863305524591214
+    second: Pipe_ladder_107
+  - first:
+      213: 2481017359832921815
+    second: Pipe_ladder_108
+  - first:
+      213: -2801719239916094246
+    second: Pipe_ladder_109
+  - first:
+      213: 7101139892591285036
+    second: Pipe_ladder_110
+  - first:
+      213: -9094802716966130567
+    second: Pipe_ladder_111
+  - first:
+      213: -5054605683693684351
+    second: Pipe_ladder_112
+  - first:
+      213: 329148857239468610
+    second: Pipe_ladder_113
+  - first:
+      213: -6257329675001116126
+    second: Pipe_ladder_114
+  - first:
+      213: 9084226295898905048
+    second: Pipe_ladder_115
+  - first:
+      213: -9023693292688620710
+    second: Pipe_ladder_116
+  - first:
+      213: 8066998918681870441
+    second: Pipe_ladder_117
+  - first:
+      213: 7039060102586968163
+    second: Pipe_ladder_118
+  - first:
+      213: 926357413219413032
+    second: Pipe_ladder_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pipe_ladder_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 456
+        width: 163
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4f61ec42f31a060800000000000000
+      internalID: 6962915926200481020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 426
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96f10920bcd69130800000000000000
+      internalID: 3573286003525416607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 426
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79430acd9f2e489e0800000000000000
+      internalID: -1619920403170315113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 426
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4594bf4cd093a2c0800000000000000
+      internalID: -4421531133243255478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_4
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 426
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f1985367454dde0800000000000000
+      internalID: -1309328724976918750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 426
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33ce4f2b3b1f1990800000000000000
+      internalID: -7413176520617835716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 426
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6699d37eba9b40740800000000000000
+      internalID: 5117419224569846118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 426
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0657b0e9735183b0800000000000000
+      internalID: -5512032685998516726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 426
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be36c36e05876cc0800000000000000
+      internalID: -3717856670521082186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 426
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a86db497cd9f5110800000000000000
+      internalID: 1251892701951781026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_10
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 426
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad34a282417613fb0800000000000000
+      internalID: -4669838002335628326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 426
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6004668b8182c1d0800000000000000
+      internalID: -3331958338045607825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 426
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f754d1e0593550f60800000000000000
+      internalID: 7999892212745586047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 426
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e53a050fca9e870800000000000000
+      internalID: 8712685102269947440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 426
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bea11070f5737cf0800000000000000
+      internalID: -255731078297178445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 426
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439d5974cfe2137b0800000000000000
+      internalID: -5246360429842278092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_16
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 426
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905b82a5cd3bde720800000000000000
+      internalID: 2877153495946409225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 426
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb4e86053e74bad0800000000000000
+      internalID: -2687384311424988189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_18
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 426
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80098ec8ca4dbf280800000000000000
+      internalID: -9008372792061030392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_19
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 426
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff7eec6b9bdeee20800000000000000
+      internalID: 3381881830795804665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 378
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e67210e8b6f07940800000000000000
+      internalID: 5292000836054054625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 382
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b4527d98c6b48e0800000000000000
+      internalID: -1708152294381106374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_22
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 378
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a8bf7fb800505e0800000000000000
+      internalID: -1944147062979589605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_23
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 349
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ded846b580c22f0800000000000000
+      internalID: -996412228933653098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_24
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 377
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6111776a4356b9f70800000000000000
+      internalID: 9195054341012525334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_25
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 381
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f42cf3344c97b10800000000000000
+      internalID: 1979829304317595529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 377
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff198cb2d5c381f30800000000000000
+      internalID: 4546450194694705663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 349
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b7a32f55b781680800000000000000
+      internalID: -8784135464119796931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_28
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 348
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cd4db44b4900070800000000000000
+      internalID: 8070614034335194258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_29
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 366
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4ea98439ec348a0800000000000000
+      internalID: -6321982319924419377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_30
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 369
+        width: 100
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84c93a70f626e5a0800000000000000
+      internalID: -6492458998523378547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_31
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 339
+        width: 98
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3ac6b4ec620f100800000000000000
+      internalID: 139654255919014830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_32
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 392
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c2efc96777d4320800000000000000
+      internalID: 2543820715857947720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_33
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 359
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3bb5c0ccbb73d70800000000000000
+      internalID: 9022886863515136940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 351
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d035a21a82b79770800000000000000
+      internalID: 8617552718084780241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_35
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 359
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2623b1469567d2430800000000000000
+      internalID: 3759791390227903074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 358
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573df2034f7902ad0800000000000000
+      internalID: -2729014299150265483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_37
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 350
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d9134ef536a99f0800000000000000
+      internalID: -460946748350554834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_38
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 358
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61aacb4248ed37f0800000000000000
+      internalID: -631093001324945043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_39
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 347
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f830c1b8fb7015940800000000000000
+      internalID: 5283012357136319375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_40
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 347
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa29a0eaf2923efa0800000000000000
+      internalID: -5772725012598713686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_41
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 323
+        width: 68
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87eb671567616dee0800000000000000
+      internalID: -1236776350237933960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_42
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 322
+        width: 68
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8cbcb235edce6c0800000000000000
+      internalID: -4112667910897678121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_43
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 251
+        width: 27
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad740f6f12f54d20800000000000000
+      internalID: 3262279721920265638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_44
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 251
+        width: 27
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c49a4c283d3efb0800000000000000
+      internalID: -4619616234153358334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_45
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 249
+        width: 27
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a011a046205f13dc0800000000000000
+      internalID: -3660875631458381558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_46
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 260
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d549e1f076356c390800000000000000
+      internalID: -7798454002645035939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_47
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 285
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11f541c4afe0b250800000000000000
+      internalID: 5958525797907427610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_48
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 267
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32b5a69e6f364660800000000000000
+      internalID: 7369647584444789309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_49
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 283
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dea7944bfe387ab0800000000000000
+      internalID: -5010185336541172010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 267
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a8324a5e49b5a40800000000000000
+      internalID: 5358039895709551248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_51
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 259
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95544646d27a53fa0800000000000000
+      internalID: -5821563129906838183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_52
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 286
+        width: 63
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6378adb40cdbe13b0800000000000000
+      internalID: -5539781858015148234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_53
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 268
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d201d436b28fdc30800000000000000
+      internalID: 4386368281163924183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_54
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 285
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6cb94745646e400800000000000000
+      internalID: 353046949342725884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_55
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 268
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455fb3831f99260a0800000000000000
+      internalID: -6889775218613815980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_56
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 301
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebfab8136b5d58f0800000000000000
+      internalID: -550183098294535188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_57
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 304
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967978dc674c30ff0800000000000000
+      internalID: -70997154574395543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_58
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 286
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7d3e0541c198ef0800000000000000
+      internalID: -105522242684463185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_59
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 286
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461b89c3365d1fb80800000000000000
+      internalID: -8362668410855181980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_60
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 288
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10e2c107a7a11690800000000000000
+      internalID: -7633135557685354465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_61
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 288
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9313557a2f5be610800000000000000
+      internalID: 1651518324323062685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_62
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 251
+        width: 65
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b4ddb84ca11d410800000000000000
+      internalID: 1500009582353533826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_63
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 249
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d546618adabf1f0800000000000000
+      internalID: -1010022753972757145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_64
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 276
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a350c6c227e14a0800000000000000
+      internalID: -6620728867071640959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_65
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 276
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4f8cfee81760740800000000000000
+      internalID: 5117902885275366579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_66
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 273
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453adf54ff77085a0800000000000000
+      internalID: -6521080322157862060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_67
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 273
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375d73fec181f1560800000000000000
+      internalID: 7286569234660316531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_68
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 185
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02ad888a88b0f380800000000000000
+      internalID: -8939442355194453489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_69
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 185
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1868471f29b1c20800000000000000
+      internalID: 3178295527779762678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_70
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 201
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0950b6813dd8ea960800000000000000
+      internalID: 7615179957717370256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_71
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 170
+        width: 23
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c45001d181e62950800000000000000
+      internalID: 6424069866164081862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_72
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 170
+        width: 23
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628b2552c17c61de0800000000000000
+      internalID: -1362682913533806554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_73
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 170
+        width: 23
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c08db6c4ab5b9850800000000000000
+      internalID: 6384797659994882248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_74
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 227
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae40b76f56f11df0800000000000000
+      internalID: -211116817887768922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_75
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 236
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6627aa845234421f0800000000000000
+      internalID: -1070656983995354522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_76
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 236
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4f447e892d2abe0800000000000000
+      internalID: -1467378974412442409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_77
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 186
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2132de546f86a3e20800000000000000
+      internalID: 3331090281338315538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_78
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 207
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d4dcb1dff37cc80800000000000000
+      internalID: -8302597031708504794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_79
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 196
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0cdf16e9c9f99f0800000000000000
+      internalID: -459476432905715540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_80
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 188
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdb7e33708d55160800000000000000
+      internalID: 7013749520146611698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 188
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2757e72c0d57a440800000000000000
+      internalID: 4947025022480242479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_82
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 188
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faa678f55f0b7d40800000000000000
+      internalID: 5583073024971025142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_83
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 199
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d17e6b3eae8ec230800000000000000
+      internalID: 3661020426071339474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_84
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 170
+        width: 7
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5827fb028639c9050800000000000000
+      internalID: 5808679694836396677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_85
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 168
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb88c149912ec580800000000000000
+      internalID: -8805063279345366093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_86
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 166
+        width: 10
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a433fc71e4e4c670800000000000000
+      internalID: 8558216849025873065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_87
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 181
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc62c660170fe5d0800000000000000
+      internalID: -3031196257172165387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_88
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 179
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44eb056cbe06f3fb0800000000000000
+      internalID: -4665904123171783100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_89
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 175
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e4a99d77842b3e0800000000000000
+      internalID: -2039488001656336815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_90
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 63
+        width: 34
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bce78746c564770800000000000000
+      internalID: 8594658525471230780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_91
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 143
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d079777e465bb76e0800000000000000
+      internalID: -1838676577865984243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_92
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 184
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d2e4d024185c8f0800000000000000
+      internalID: -520868061200372413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_93
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 172
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8c9146ce7531150800000000000000
+      internalID: 5842109814432975038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_94
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 90
+        width: 34
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9eeb5542a8fc4a0800000000000000
+      internalID: -6570881442648233528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_95
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 90
+        width: 34
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8c969e3d1a37c90800000000000000
+      internalID: -7173211849944872770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_96
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 90
+        width: 34
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2621972d9d7afde0800000000000000
+      internalID: -1298587428615805394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_97
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 144
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b37894e2e4d35230800000000000000
+      internalID: 3626476195926274997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_98
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 144
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc0538be3087d680800000000000000
+      internalID: -8730368345767605033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_99
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 137
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d9b69dba8f7e830800000000000000
+      internalID: 4100519402714930478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_100
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 125
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e21602f89fe9a780800000000000000
+      internalID: -8671136167350627607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_101
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 140
+        width: 66
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a154184d02a206e10800000000000000
+      internalID: 2188795739394622746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_102
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 63
+        width: 100
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0558c9482daf551f0800000000000000
+      internalID: -1056662755473586864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_103
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 113
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa5e5d1cd53973b0800000000000000
+      internalID: -5514317049236661599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_104
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 103
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ea5c160936b3830800000000000000
+      internalID: 4051941761516678747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_105
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 106
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8b64d5c98f20c10800000000000000
+      internalID: 2018448933478906109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_106
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 100
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e393fa5398dc9a0800000000000000
+      internalID: -6211157447408009711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_107
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 100
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a3884a8fab60970800000000000000
+      internalID: 8720863305524591214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_108
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 100
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d63b6ec4285e6220800000000000000
+      internalID: 2481017359832921815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_109
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 91
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc7c68023b4e19d0800000000000000
+      internalID: -2801719239916094246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_110
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 99
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23524edb115c8260800000000000000
+      internalID: 7101139892591285036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_111
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 87
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ce9f08d15c8c180800000000000000
+      internalID: -9094802716966130567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_112
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 90
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18974cf39ee6ad9b0800000000000000
+      internalID: -5054605683693684351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_113
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 33
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24afbf9442f519400800000000000000
+      internalID: 329148857239468610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_114
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 3
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a4c0730df7929a0800000000000000
+      internalID: -6257329675001116126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_115
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 3
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d911529fa7a11e70800000000000000
+      internalID: 9084226295898905048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_116
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53483782c665c280800000000000000
+      internalID: -9023693292688620710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_117
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 5
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9604e7796ccb3ff60800000000000000
+      internalID: 8066998918681870441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_118
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 4
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36822576ed3cfa160800000000000000
+      internalID: 7039060102586968163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_ladder_119
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 37
+        width: 154
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c2ef5c8251bdc00800000000000000
+      internalID: 926357413219413032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pipe_ladder_0: 6962915926200481020
+      Pipe_ladder_1: 3573286003525416607
+      Pipe_ladder_10: -4669838002335628326
+      Pipe_ladder_100: -8671136167350627607
+      Pipe_ladder_101: 2188795739394622746
+      Pipe_ladder_102: -1056662755473586864
+      Pipe_ladder_103: -5514317049236661599
+      Pipe_ladder_104: 4051941761516678747
+      Pipe_ladder_105: 2018448933478906109
+      Pipe_ladder_106: -6211157447408009711
+      Pipe_ladder_107: 8720863305524591214
+      Pipe_ladder_108: 2481017359832921815
+      Pipe_ladder_109: -2801719239916094246
+      Pipe_ladder_11: -3331958338045607825
+      Pipe_ladder_110: 7101139892591285036
+      Pipe_ladder_111: -9094802716966130567
+      Pipe_ladder_112: -5054605683693684351
+      Pipe_ladder_113: 329148857239468610
+      Pipe_ladder_114: -6257329675001116126
+      Pipe_ladder_115: 9084226295898905048
+      Pipe_ladder_116: -9023693292688620710
+      Pipe_ladder_117: 8066998918681870441
+      Pipe_ladder_118: 7039060102586968163
+      Pipe_ladder_119: 926357413219413032
+      Pipe_ladder_12: 7999892212745586047
+      Pipe_ladder_13: 8712685102269947440
+      Pipe_ladder_14: -255731078297178445
+      Pipe_ladder_15: -5246360429842278092
+      Pipe_ladder_16: 2877153495946409225
+      Pipe_ladder_17: -2687384311424988189
+      Pipe_ladder_18: -9008372792061030392
+      Pipe_ladder_19: 3381881830795804665
+      Pipe_ladder_2: -1619920403170315113
+      Pipe_ladder_20: 5292000836054054625
+      Pipe_ladder_21: -1708152294381106374
+      Pipe_ladder_22: -1944147062979589605
+      Pipe_ladder_23: -996412228933653098
+      Pipe_ladder_24: 9195054341012525334
+      Pipe_ladder_25: 1979829304317595529
+      Pipe_ladder_26: 4546450194694705663
+      Pipe_ladder_27: -8784135464119796931
+      Pipe_ladder_28: 8070614034335194258
+      Pipe_ladder_29: -6321982319924419377
+      Pipe_ladder_3: -4421531133243255478
+      Pipe_ladder_30: -6492458998523378547
+      Pipe_ladder_31: 139654255919014830
+      Pipe_ladder_32: 2543820715857947720
+      Pipe_ladder_33: 9022886863515136940
+      Pipe_ladder_34: 8617552718084780241
+      Pipe_ladder_35: 3759791390227903074
+      Pipe_ladder_36: -2729014299150265483
+      Pipe_ladder_37: -460946748350554834
+      Pipe_ladder_38: -631093001324945043
+      Pipe_ladder_39: 5283012357136319375
+      Pipe_ladder_4: -1309328724976918750
+      Pipe_ladder_40: -5772725012598713686
+      Pipe_ladder_41: -1236776350237933960
+      Pipe_ladder_42: -4112667910897678121
+      Pipe_ladder_43: 3262279721920265638
+      Pipe_ladder_44: -4619616234153358334
+      Pipe_ladder_45: -3660875631458381558
+      Pipe_ladder_46: -7798454002645035939
+      Pipe_ladder_47: 5958525797907427610
+      Pipe_ladder_48: 7369647584444789309
+      Pipe_ladder_49: -5010185336541172010
+      Pipe_ladder_5: -7413176520617835716
+      Pipe_ladder_50: 5358039895709551248
+      Pipe_ladder_51: -5821563129906838183
+      Pipe_ladder_52: -5539781858015148234
+      Pipe_ladder_53: 4386368281163924183
+      Pipe_ladder_54: 353046949342725884
+      Pipe_ladder_55: -6889775218613815980
+      Pipe_ladder_56: -550183098294535188
+      Pipe_ladder_57: -70997154574395543
+      Pipe_ladder_58: -105522242684463185
+      Pipe_ladder_59: -8362668410855181980
+      Pipe_ladder_6: 5117419224569846118
+      Pipe_ladder_60: -7633135557685354465
+      Pipe_ladder_61: 1651518324323062685
+      Pipe_ladder_62: 1500009582353533826
+      Pipe_ladder_63: -1010022753972757145
+      Pipe_ladder_64: -6620728867071640959
+      Pipe_ladder_65: 5117902885275366579
+      Pipe_ladder_66: -6521080322157862060
+      Pipe_ladder_67: 7286569234660316531
+      Pipe_ladder_68: -8939442355194453489
+      Pipe_ladder_69: 3178295527779762678
+      Pipe_ladder_7: -5512032685998516726
+      Pipe_ladder_70: 7615179957717370256
+      Pipe_ladder_71: 6424069866164081862
+      Pipe_ladder_72: -1362682913533806554
+      Pipe_ladder_73: 6384797659994882248
+      Pipe_ladder_74: -211116817887768922
+      Pipe_ladder_75: -1070656983995354522
+      Pipe_ladder_76: -1467378974412442409
+      Pipe_ladder_77: 3331090281338315538
+      Pipe_ladder_78: -8302597031708504794
+      Pipe_ladder_79: -459476432905715540
+      Pipe_ladder_8: -3717856670521082186
+      Pipe_ladder_80: 7013749520146611698
+      Pipe_ladder_81: 4947025022480242479
+      Pipe_ladder_82: 5583073024971025142
+      Pipe_ladder_83: 3661020426071339474
+      Pipe_ladder_84: 5808679694836396677
+      Pipe_ladder_85: -8805063279345366093
+      Pipe_ladder_86: 8558216849025873065
+      Pipe_ladder_87: -3031196257172165387
+      Pipe_ladder_88: -4665904123171783100
+      Pipe_ladder_89: -2039488001656336815
+      Pipe_ladder_9: 1251892701951781026
+      Pipe_ladder_90: 8594658525471230780
+      Pipe_ladder_91: -1838676577865984243
+      Pipe_ladder_92: -520868061200372413
+      Pipe_ladder_93: 5842109814432975038
+      Pipe_ladder_94: -6570881442648233528
+      Pipe_ladder_95: -7173211849944872770
+      Pipe_ladder_96: -1298587428615805394
+      Pipe_ladder_97: 3626476195926274997
+      Pipe_ladder_98: -8730368345767605033
+      Pipe_ladder_99: 4100519402714930478
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

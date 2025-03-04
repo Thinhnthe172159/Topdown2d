@@ -1,0 +1,4223 @@
+fileFormatVersion: 2
+guid: 1166735c96f42034195cdd0bf8a34b5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2003673626012024057
+    second: Streaming_0
+  - first:
+      213: -376821394984915738
+    second: Streaming_1
+  - first:
+      213: -5883519242198707238
+    second: Streaming_2
+  - first:
+      213: 4565973782612803233
+    second: Streaming_3
+  - first:
+      213: -5135204276647532993
+    second: Streaming_4
+  - first:
+      213: 410621168302985577
+    second: Streaming_5
+  - first:
+      213: 1616205452802309937
+    second: Streaming_6
+  - first:
+      213: -2473311813417452264
+    second: Streaming_7
+  - first:
+      213: -1236872709526105137
+    second: Streaming_8
+  - first:
+      213: 6056588182438205219
+    second: Streaming_9
+  - first:
+      213: 7160487169468684727
+    second: Streaming_10
+  - first:
+      213: 2569135330729947000
+    second: Streaming_11
+  - first:
+      213: -5686337898624521698
+    second: Streaming_12
+  - first:
+      213: -6394772597240429747
+    second: Streaming_13
+  - first:
+      213: -7389735361732854633
+    second: Streaming_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Streaming_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7030cbbf3758134e0800000000000000
+      internalID: -2003673626012024057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec282010f245caf0800000000000000
+      internalID: -376821394984915738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad31293eb6a895ea0800000000000000
+      internalID: -5883519242198707238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aef166b6f89d5f30800000000000000
+      internalID: 4565973782612803233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f366b59fae61cb8b0800000000000000
+      internalID: -5135204276647532993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96194f9e6c1d2b500800000000000000
+      internalID: 410621168302985577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fb45adb4aed6610800000000000000
+      internalID: 1616205452802309937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81db97682080dadd0800000000000000
+      internalID: -2473311813417452264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3525ce2deb5dee0800000000000000
+      internalID: -1236872709526105137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327de0ddcd25d0450800000000000000
+      internalID: 6056588182438205219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b95cea84292f5360800000000000000
+      internalID: 7160487169468684727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f6010b8f667a320800000000000000
+      internalID: 2569135330729947000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ae4a70fc11611b0800000000000000
+      internalID: -5686337898624521698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_13
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43051a24343147a0800000000000000
+      internalID: -6394772597240429747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_14
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c35cb47d2627990800000000000000
+      internalID: -7389735361732854633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d99fc5e3c29a545b777e59cf062591
+      internalID: -868242309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dd78182342f30488438e2ec1cf4fd6
+      internalID: 832783809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_17
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a8fe884d2610d42980f508bc198b1c
+      internalID: -727117609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_18
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c250ba703b7f1748a4f95ee08a9a72b
+      internalID: 2071151313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7973552a00ad042beb73c71242ae5c
+      internalID: 576067158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_20
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ee65072bd3d6443a1ef81bb8217aae
+      internalID: 623346223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_21
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2be5aaa93f36f4bbda2054fb470c0e
+      internalID: 419236420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_22
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421bd0f12e7cc6a4d8352d2934fa669f
+      internalID: 174316372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_23
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f291b3c36b2064d800e0fe241e0dad
+      internalID: -792864872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_24
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfda0ffa37792654a9da55135a571c28
+      internalID: -269180373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_25
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8fe8d9774748d498cc48b84b52fb88
+      internalID: 1258193121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_26
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e55104628c923e42817931fc3a7db2d
+      internalID: -1037774487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_27
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda7f48616f73ed4e86e3ea4edb77902
+      internalID: -2084924896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_28
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e185448eea5887a42b50c5306cb3c0fe
+      internalID: -334914636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c47ee1a35217cc498f608dd5b272d79
+      internalID: -1479505714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_30
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d58c8d843426a44be595b609241f3b
+      internalID: -20136155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_31
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb66f9982cd395246901e6ae86152d41
+      internalID: -1960281720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_32
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ad9bc2e1398344e8a94b1b8287a0a4
+      internalID: 1669323103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_33
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d99d9b4622c2164a8716b64c8dbbd75
+      internalID: -1112466715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_34
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fd5b7a0b71e984691b7aa9eb87cf6f
+      internalID: 1538193634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_35
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d19a875b21e624eb3730c464c35c38
+      internalID: -1392498380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_36
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48d8d5bb31558543a9a823076073fa7
+      internalID: 791936892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_37
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893e684fa26721b4bbd8549a3d3dca82
+      internalID: 2092691662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_38
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c17397f99d80742b63ec1c9fc11627
+      internalID: -827123343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_39
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e41baa013c04f4cb4a7c70274ada49
+      internalID: -1511943339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_40
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd69d1d5a188254e92cb2c6d39b59fd
+      internalID: 1996946626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_41
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf9eef4041ef83449e62cf755353a25
+      internalID: -1345638949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_42
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6daeb21858bc947a11773f8a948089
+      internalID: -709371135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_43
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ea1597084a5744e99be97c4b6b1aaa
+      internalID: 986120279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_44
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f705feb62b08b4ea8b1ae24f25e630
+      internalID: 236802991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_45
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641d26874194e034799fb1904659d494
+      internalID: -36060315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_46
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da60663361523b249a30e1c4f99c11d0
+      internalID: -612365011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_47
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0386833b9a3f9e4ebd510eb6a61a015
+      internalID: -428980455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_48
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a1480a9f6e0914aaf27de1dc3d56a4
+      internalID: 1794894671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_49
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69738cb3ac75d6c4bba1303ab1e4dbd6
+      internalID: 378202472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_50
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737e4f88257de3541a3bc80b54c8786f
+      internalID: 2109368657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_51
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0557b319a64ed4ea7438403b915674
+      internalID: 1731295335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_52
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37254c5a8be71444f8ea88206ae9f174
+      internalID: 1235665050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_53
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f71738449c62c42b17f7b6ba3a1f3b
+      internalID: 1244479899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_54
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2746f2be474de3e4d8af25f5d8b3833b
+      internalID: 68805922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_55
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694b6ead7f1b57b4ba250f59b722b21d
+      internalID: -1821558243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_56
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca83bfc33f8c9e46ad34c71ca1c1e60
+      internalID: -474822669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_57
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799e35b59a256324fbeed4db64d7640e
+      internalID: 627324967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_58
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813477b1437e5cd489e3999c89e4d2f9
+      internalID: 1938978732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_59
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06876d975eaedca498a901772428a967
+      internalID: -545640214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_60
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e3a4638580405469a129d6867f8c89
+      internalID: -2050175028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_61
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c5929439c41af4d9435aa214be6b9a
+      internalID: -1824126159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_62
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fe8b63143c75a4099c19ff04af258c
+      internalID: 116365198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_63
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5820958dcd262724d83936262cbf67cd
+      internalID: -822586458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_64
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f225ef32c843c47488fb9ff44ee93575
+      internalID: 878564555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_65
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043e414b1e3ddfe4b91de8d21f22bbe1
+      internalID: -1119701937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_66
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42d572a0331a4b4f916532222cf5658
+      internalID: 1253467466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_67
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5eab361940e3dd4c90816096f224794
+      internalID: -1523136091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_68
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb3e045435fe3541b2ab051bd055bfb
+      internalID: 1147642526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_69
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fa71ef7493af44c8c1df325450a29c
+      internalID: -185548552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_70
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1171222922574d648bd76aab991529a8
+      internalID: -1731561258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_71
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811d6125b16c53d4099f60a1f3ef90d6
+      internalID: -426624428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_72
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018d1be48c6b13c408ffbb85a924eaa4
+      internalID: 1295768514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_73
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f559e466b5bcda4a93ec1b550202eae
+      internalID: 77368846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_74
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c61ffce6631634baa7cd0aed9b2c64
+      internalID: -2025142482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_75
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ea83659afa7cf40b3e497805382532
+      internalID: 2011483157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_76
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dcec159d092724a9df07684a914829
+      internalID: 437909996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_77
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ecd4745a69a7748917e6ab23d41fb3
+      internalID: -1958751864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_78
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d18b270a1e1f914cad5845a73a7fa59
+      internalID: 2007636449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_79
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb7c88426a76704cac14ba704dc377c
+      internalID: -1033584013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_80
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406b804ebb7b4fa408bca15d9e648c76
+      internalID: -1811538930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_81
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1add0fc06794dae4ca8ab435ec54b2e0
+      internalID: 1615463641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a247ae1b08dd5994cb6e34e9324c9550
+      internalID: 1794933997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_83
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb9a9cd1d5d16240ae5c1986530b51e
+      internalID: 271172700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_84
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e0a5baedd072b498d81aea17abd7d6
+      internalID: -871679623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_85
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25e7a295bc20094fbb997dccb92e842
+      internalID: 20876030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_86
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23682f83c284980499cc0a76623d80d6
+      internalID: -341462995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_87
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc1b7af38f143f409fcd413dd31573b
+      internalID: 173853893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_88
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0c96687d1d21c4eb9826a5919bc6cb
+      internalID: -671492083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_89
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad3503b1f36e4142948269df1e9d31c
+      internalID: -1318092719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_90
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bd0c9482bfd884d8c4780975001195
+      internalID: 1366002520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_91
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb4dddc3fc15fa4e921215d1ba4395f
+      internalID: -76172396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_92
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af52a5413a8ef4b4d8ca38f53f9b76f9
+      internalID: 536620387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_93
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ae2c8a90b8d2c42ac7f5596da0608a
+      internalID: -834938583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_94
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a637598a4af551c49a4c46cb81e26cc3
+      internalID: 1049348067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_95
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41213d02ee031844a7780b41ac85960
+      internalID: -1748097131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_96
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d00a9008f94e9499d0dbce0e7ac240
+      internalID: 1624519458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_97
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c27dbab2f8dc841b74acd3f3cf6cd0
+      internalID: 2082953834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_98
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6459b546f12a748a2c32dfd64ea4b8
+      internalID: -1974608103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_99
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15fca9e6cb9d7e4a99fbde33865522e
+      internalID: 1602085723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_100
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d726a7376fa78fc41903631c20e4893d
+      internalID: 1958731720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_101
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db4e7f23330b9d4387b3b237d20b4ab
+      internalID: 9126888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_102
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffefa557258a0d42a458617445f1208
+      internalID: -2038295146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_103
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7d363cdd7ab6f48a2c9fb00ed361c2
+      internalID: 627199209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_104
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da3f2adab7153845aa84b7ce0f1ef62
+      internalID: -1611582083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_105
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5768dc0e32d50974bb19ae9a44c18da1
+      internalID: -1652148071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_106
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43460d05cd98a11488314516df5eac5c
+      internalID: 1932200621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_107
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365eb8b27b76e844ebf9efa529c0ecc5
+      internalID: 132261860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_108
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2fa638d5bf3ca40b7d456263cfef6f
+      internalID: 120641746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_109
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac4b684671d25a40a24a2daea70221d
+      internalID: 995421370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_110
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32993ed3b5b0bbb4ea2e1d1ba0da4a61
+      internalID: 400702672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_111
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5228880eb5bd0043baece4d12baa7be
+      internalID: -1436337372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_112
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8ecf5b537ae3446a7f9fe3710b9b75
+      internalID: -1188300789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_113
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b05209b954f89749a1153ac1f7e67ba
+      internalID: 911156605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_114
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674291cbe7ed70147a36ae047e60a18d
+      internalID: -513009764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_115
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68ee80bf86961f4ebdc0c5d8bdb1eba
+      internalID: 2066580898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_116
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806e6e4bec0b5a54abfd0a87ba7d9b5f
+      internalID: 418849647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_117
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23033207cac4a474bab2af75e4239422
+      internalID: 1629660495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_118
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b4cdbd50589364b8a71a0aabe3a497
+      internalID: 690353698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_119
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25c8af9a3892704289d5e01b6f39bdc
+      internalID: -1475638884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_120
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36486167dd89e3f44860b0d25e04df5f
+      internalID: 845116667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_121
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642828fc8ae61974091158fc328482fe
+      internalID: 1319629381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_122
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22081a50f1c7c7a4299df78b555eff69
+      internalID: -2068546302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_123
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36f4aca9e420534fbd6c27d715b5595
+      internalID: 522070263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_124
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b5f59bf1df32e43b2047f6c8d94c8b
+      internalID: 1708617652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_125
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0794a3daf090d640a3c0a2f24ed71b3
+      internalID: 768255043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_126
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1f730f5c3ba34489dbca2d59bb06e7
+      internalID: -894921780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_127
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f2a214b53f17c4690b5dbcda11bdc4
+      internalID: -1392225672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_128
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4c802728f66ae48b72c71303c3a068
+      internalID: 1163343178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_129
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8f2f5fffd3f4b4ab725b8e09119806
+      internalID: -1804608003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_130
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720f4b74bf1ae6e478f395cc52efc638
+      internalID: 1080861950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_131
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7593c9cdce22d394d904927af6b0a95a
+      internalID: -655960863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_132
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8a564ab6177684cbcfc882c9586869
+      internalID: -423172035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_133
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e3a86c7f2ae3c49a925b1f802a51f8
+      internalID: -1536890603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_134
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc97fc4766c3c44a87295c44ccbb1b7
+      internalID: -42838120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_135
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f75e46dd3942df42886c329c5a6dea5
+      internalID: -1979658928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_136
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a9f325ecd1a504d92fc606864fbb5f
+      internalID: 1163070720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_137
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da36489614996424b9ed51b690c26b56
+      internalID: 381789406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_138
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000a8a52e754e1848987f9676558f728
+      internalID: 1950838960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_139
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ff55df40ebf154a86b620ed1a2cc8b
+      internalID: -1142874468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_140
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9080277cc65c67549a28dd56a34f4bf5
+      internalID: -282839866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_141
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9908d44c439ef5a458e1be28423edd6e
+      internalID: -2072242820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_142
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4da120e63a703640a407c298363b495
+      internalID: 1301717196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_143
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edbf0559bdb55046a0b4ec1322659f5
+      internalID: 1112573284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_144
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6105c9038acf940810a54b4dc72567
+      internalID: 1966470992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_145
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f2c1da3141af0458839b19233153c1
+      internalID: 1038874584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_146
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db470134d8509d4493461c452378f0d
+      internalID: -218914387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_147
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291119910187a7940b57407edcb4b97a
+      internalID: -416130729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_148
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98334b09818b3544a9aa2aa77a89312
+      internalID: 674493171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_149
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c150d40bacc2b474ab6a97e598a9f666
+      internalID: 459184461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_150
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22929974783d6754093ed78592da4ae0
+      internalID: 1634167260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_151
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44612e3cdcb84144d8eda150af276af9
+      internalID: -265369678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_152
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12885b127bba4a44b32e0da47172e5b
+      internalID: -359505552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_153
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea2fb14db44a554aa1348cf955049c1
+      internalID: -1125288405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_154
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2919f3debcc844ebdf09a0cf80f218
+      internalID: -1835266791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_155
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8350028c83720a47a259ff87898ea64
+      internalID: -517555878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_156
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f111a65e4c6d124ca63fafd62dd0ece
+      internalID: 158582895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_157
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dcc294d00b25745afeb6e8f08c5b10
+      internalID: -696666593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_158
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691f50a1c90011b42a3314c849c4aedc
+      internalID: -1428110132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_159
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6117a39e39ec8864584dd5689caff1f8
+      internalID: 894906869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_160
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8ead688e674354dadb7fd9acf5e8d2
+      internalID: -2080404041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_161
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b996e7409664d6448ce42699c0c58da
+      internalID: -118387400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_162
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e119e35e7bd934c8cc0a82f76ecd47
+      internalID: -479107942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_163
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841a1166e2577df4b8bce48614e2b941
+      internalID: -1775329216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_164
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e77164954a44c4894ad262e461bd2b
+      internalID: -1858543227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_165
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb9269ef6dabd94faaaf4f2b7b7c5a3
+      internalID: -1296550362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_166
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d510b13017771f34ab791af44fe0bac0
+      internalID: -1860786402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_167
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa210461ec61c934fa3a13fa7f4bedca
+      internalID: 1791992000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_168
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8e69d042e398344933f7a2c009b25f
+      internalID: 327300119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_169
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988778e7fa5f3d74d90e5c42b1540af6
+      internalID: -67719720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_170
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bcb5c295eeb274f8d3f6c1489422ed
+      internalID: -1367702382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_171
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a9555de178a954aa51536e08601e44
+      internalID: -1046250107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_172
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4046d76ec795048b0484e6727468e7
+      internalID: 1796269508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_173
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba387a3ab43b1844a8467c08faf169ea
+      internalID: -1818329943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_174
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1ec6b5bbc10844db6af2cd6b5a25d5
+      internalID: 1434100769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_175
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ddd17da49a3ca44976df2cebee131b
+      internalID: 1274963980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c3e2fd6c76a5679448428a8728987619
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Streaming_0: -2003673626012024057
+      Streaming_1: -376821394984915738
+      Streaming_10: 7160487169468684727
+      Streaming_100: 1958731720
+      Streaming_101: 9126888
+      Streaming_102: -2038295146
+      Streaming_103: 627199209
+      Streaming_104: -1611582083
+      Streaming_105: -1652148071
+      Streaming_106: 1932200621
+      Streaming_107: 132261860
+      Streaming_108: 120641746
+      Streaming_109: 995421370
+      Streaming_11: 2569135330729947000
+      Streaming_110: 400702672
+      Streaming_111: -1436337372
+      Streaming_112: -1188300789
+      Streaming_113: 911156605
+      Streaming_114: -513009764
+      Streaming_115: 2066580898
+      Streaming_116: 418849647
+      Streaming_117: 1629660495
+      Streaming_118: 690353698
+      Streaming_119: -1475638884
+      Streaming_12: -5686337898624521698
+      Streaming_120: 845116667
+      Streaming_121: 1319629381
+      Streaming_122: -2068546302
+      Streaming_123: 522070263
+      Streaming_124: 1708617652
+      Streaming_125: 768255043
+      Streaming_126: -894921780
+      Streaming_127: -1392225672
+      Streaming_128: 1163343178
+      Streaming_129: -1804608003
+      Streaming_13: -6394772597240429747
+      Streaming_130: 1080861950
+      Streaming_131: -655960863
+      Streaming_132: -423172035
+      Streaming_133: -1536890603
+      Streaming_134: -42838120
+      Streaming_135: -1979658928
+      Streaming_136: 1163070720
+      Streaming_137: 381789406
+      Streaming_138: 1950838960
+      Streaming_139: -1142874468
+      Streaming_14: -7389735361732854633
+      Streaming_140: -282839866
+      Streaming_141: -2072242820
+      Streaming_142: 1301717196
+      Streaming_143: 1112573284
+      Streaming_144: 1966470992
+      Streaming_145: 1038874584
+      Streaming_146: -218914387
+      Streaming_147: -416130729
+      Streaming_148: 674493171
+      Streaming_149: 459184461
+      Streaming_15: -868242309
+      Streaming_150: 1634167260
+      Streaming_151: -265369678
+      Streaming_152: -359505552
+      Streaming_153: -1125288405
+      Streaming_154: -1835266791
+      Streaming_155: -517555878
+      Streaming_156: 158582895
+      Streaming_157: -696666593
+      Streaming_158: -1428110132
+      Streaming_159: 894906869
+      Streaming_16: 832783809
+      Streaming_160: -2080404041
+      Streaming_161: -118387400
+      Streaming_162: -479107942
+      Streaming_163: -1775329216
+      Streaming_164: -1858543227
+      Streaming_165: -1296550362
+      Streaming_166: -1860786402
+      Streaming_167: 1791992000
+      Streaming_168: 327300119
+      Streaming_169: -67719720
+      Streaming_17: -727117609
+      Streaming_170: -1367702382
+      Streaming_171: -1046250107
+      Streaming_172: 1796269508
+      Streaming_173: -1818329943
+      Streaming_174: 1434100769
+      Streaming_175: 1274963980
+      Streaming_18: 2071151313
+      Streaming_19: 576067158
+      Streaming_2: -5883519242198707238
+      Streaming_20: 623346223
+      Streaming_21: 419236420
+      Streaming_22: 174316372
+      Streaming_23: -792864872
+      Streaming_24: -269180373
+      Streaming_25: 1258193121
+      Streaming_26: -1037774487
+      Streaming_27: -2084924896
+      Streaming_28: -334914636
+      Streaming_29: -1479505714
+      Streaming_3: 4565973782612803233
+      Streaming_30: -20136155
+      Streaming_31: -1960281720
+      Streaming_32: 1669323103
+      Streaming_33: -1112466715
+      Streaming_34: 1538193634
+      Streaming_35: -1392498380
+      Streaming_36: 791936892
+      Streaming_37: 2092691662
+      Streaming_38: -827123343
+      Streaming_39: -1511943339
+      Streaming_4: -5135204276647532993
+      Streaming_40: 1996946626
+      Streaming_41: -1345638949
+      Streaming_42: -709371135
+      Streaming_43: 986120279
+      Streaming_44: 236802991
+      Streaming_45: -36060315
+      Streaming_46: -612365011
+      Streaming_47: -428980455
+      Streaming_48: 1794894671
+      Streaming_49: 378202472
+      Streaming_5: 410621168302985577
+      Streaming_50: 2109368657
+      Streaming_51: 1731295335
+      Streaming_52: 1235665050
+      Streaming_53: 1244479899
+      Streaming_54: 68805922
+      Streaming_55: -1821558243
+      Streaming_56: -474822669
+      Streaming_57: 627324967
+      Streaming_58: 1938978732
+      Streaming_59: -545640214
+      Streaming_6: 1616205452802309937
+      Streaming_60: -2050175028
+      Streaming_61: -1824126159
+      Streaming_62: 116365198
+      Streaming_63: -822586458
+      Streaming_64: 878564555
+      Streaming_65: -1119701937
+      Streaming_66: 1253467466
+      Streaming_67: -1523136091
+      Streaming_68: 1147642526
+      Streaming_69: -185548552
+      Streaming_7: -2473311813417452264
+      Streaming_70: -1731561258
+      Streaming_71: -426624428
+      Streaming_72: 1295768514
+      Streaming_73: 77368846
+      Streaming_74: -2025142482
+      Streaming_75: 2011483157
+      Streaming_76: 437909996
+      Streaming_77: -1958751864
+      Streaming_78: 2007636449
+      Streaming_79: -1033584013
+      Streaming_8: -1236872709526105137
+      Streaming_80: -1811538930
+      Streaming_81: 1615463641
+      Streaming_82: 1794933997
+      Streaming_83: 271172700
+      Streaming_84: -871679623
+      Streaming_85: 20876030
+      Streaming_86: -341462995
+      Streaming_87: 173853893
+      Streaming_88: -671492083
+      Streaming_89: -1318092719
+      Streaming_9: 6056588182438205219
+      Streaming_90: 1366002520
+      Streaming_91: -76172396
+      Streaming_92: 536620387
+      Streaming_93: -834938583
+      Streaming_94: 1049348067
+      Streaming_95: -1748097131
+      Streaming_96: 1624519458
+      Streaming_97: 2082953834
+      Streaming_98: -1974608103
+      Streaming_99: 1602085723
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

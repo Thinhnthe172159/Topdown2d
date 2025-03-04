@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: bf465ab3b533452418a46a693997805e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3760720700168698406
+    second: Ground_Roof_0
+  - first:
+      213: 3569356335974493157
+    second: Ground_Roof_1
+  - first:
+      213: 5430141692035774246
+    second: Ground_Roof_2
+  - first:
+      213: -186800923972722462
+    second: Ground_Roof_3
+  - first:
+      213: -8499935260423400836
+    second: Ground_Roof_4
+  - first:
+      213: -5546497869452175355
+    second: Ground_Roof_5
+  - first:
+      213: -920566835044149074
+    second: Ground_Roof_6
+  - first:
+      213: 8819559683635682531
+    second: Ground_Roof_7
+  - first:
+      213: 6702328800708133539
+    second: Ground_Roof_8
+  - first:
+      213: -2709609217281667583
+    second: Ground_Roof_9
+  - first:
+      213: 8376160818235079999
+    second: Ground_Roof_10
+  - first:
+      213: -6558644018446040537
+    second: Ground_Roof_11
+  - first:
+      213: 8418760615238606654
+    second: Ground_Roof_12
+  - first:
+      213: 3114077156010958344
+    second: Ground_Roof_13
+  - first:
+      213: 6777871017125543470
+    second: Ground_Roof_14
+  - first:
+      213: 4276380952064363786
+    second: Ground_Roof_15
+  - first:
+      213: 2362668746590455967
+    second: Ground_Roof_16
+  - first:
+      213: 2988029298662033833
+    second: Ground_Roof_17
+  - first:
+      213: 1793760540454134025
+    second: Ground_Roof_18
+  - first:
+      213: 6079622146061179691
+    second: Ground_Roof_19
+  - first:
+      213: 8332223858684962842
+    second: Ground_Roof_20
+  - first:
+      213: -3731452650476870159
+    second: Ground_Roof_21
+  - first:
+      213: 902721645772620204
+    second: Ground_Roof_22
+  - first:
+      213: 2136183754030357557
+    second: Ground_Roof_23
+  - first:
+      213: -3065396380573783790
+    second: Ground_Roof_24
+  - first:
+      213: -7397644393959521911
+    second: Ground_Roof_25
+  - first:
+      213: -7047903580553554878
+    second: Ground_Roof_26
+  - first:
+      213: -5294902976032770928
+    second: Ground_Roof_27
+  - first:
+      213: -8227658670417377937
+    second: Ground_Roof_28
+  - first:
+      213: 3138857731641395002
+    second: Ground_Roof_29
+  - first:
+      213: 5390756991147763274
+    second: Ground_Roof_30
+  - first:
+      213: 1723502739885313406
+    second: Ground_Roof_31
+  - first:
+      213: -3933387388048805540
+    second: Ground_Roof_32
+  - first:
+      213: 4884078294804778734
+    second: Ground_Roof_33
+  - first:
+      213: -136929888041513447
+    second: Ground_Roof_34
+  - first:
+      213: -2572624710985503292
+    second: Ground_Roof_35
+  - first:
+      213: 5828821277495763258
+    second: Ground_Roof_36
+  - first:
+      213: 4911680601133692894
+    second: Ground_Roof_37
+  - first:
+      213: -4344575474119842320
+    second: Ground_Roof_38
+  - first:
+      213: 2802655233834970327
+    second: Ground_Roof_39
+  - first:
+      213: 6239855146619766552
+    second: Ground_Roof_40
+  - first:
+      213: -4619175538203637329
+    second: Ground_Roof_41
+  - first:
+      213: -4610023685559701067
+    second: Ground_Roof_42
+  - first:
+      213: 1527061746831104034
+    second: Ground_Roof_43
+  - first:
+      213: 1466149164412902916
+    second: Ground_Roof_44
+  - first:
+      213: -5912051246503640581
+    second: Ground_Roof_45
+  - first:
+      213: -2065919722696758652
+    second: Ground_Roof_46
+  - first:
+      213: 3868832479142572975
+    second: Ground_Roof_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ground_Roof_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 576
+        width: 163
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a73093d83c03430800000000000000
+      internalID: 3760720700168698406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 552
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebac822da6e88130800000000000000
+      internalID: 3569356335974493157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 552
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627b4d9491dbb5b40800000000000000
+      internalID: 5430141692035774246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 552
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e024e2ac89586df0800000000000000
+      internalID: -186800923972722462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 552
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7255ac4ae92a0a80800000000000000
+      internalID: -8499935260423400836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 552
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50897d70391e603b0800000000000000
+      internalID: -5546497869452175355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 513
+        width: 354
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea81035475d7933f0800000000000000
+      internalID: -920566835044149074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_7
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 515
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec1672edce556a70800000000000000
+      internalID: 8819559683635682531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_8
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 515
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a20416a884730d50800000000000000
+      internalID: 6702328800708133539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 445
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e4dc3e5c8856ad0800000000000000
+      internalID: -2709609217281667583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 444
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d7278a2e91e3470800000000000000
+      internalID: 8376160818235079999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_11
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 444
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7228840b3040bf4a0800000000000000
+      internalID: -6558644018446040537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_12
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 445
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f9850dc2275d470800000000000000
+      internalID: 8418760615238606654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_13
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 444
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e113f9cac673b20800000000000000
+      internalID: 3114077156010958344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_14
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 445
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2efe2587c5df0e50800000000000000
+      internalID: 6777871017125543470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_15
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 446
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d0b0491d1c85b30800000000000000
+      internalID: 4276380952064363786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_16
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 445
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98017205b2e9c020800000000000000
+      internalID: 2362668746590455967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 341
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9c53dd0dc977920800000000000000
+      internalID: 2988029298662033833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 341
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901a1e135b7b4e810800000000000000
+      internalID: 1793760540454134025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 341
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b139071282f5450800000000000000
+      internalID: 6079622146061179691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 341
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18a3f5147102a370800000000000000
+      internalID: 8332223858684962842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_21
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 340
+        width: 67
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5e220a597373cc0800000000000000
+      internalID: -3731452650476870159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 279
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca14553dd8c178c00800000000000000
+      internalID: 902721645772620204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_23
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 279
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c90f96ecf35ad10800000000000000
+      internalID: 2136183754030357557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 279
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219a128ab368575d0800000000000000
+      internalID: -3065396380573783790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_25
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 279
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981026b3e99465990800000000000000
+      internalID: -7397644393959521911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 279
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244d6ede801d03e90800000000000000
+      internalID: -7047903580553554878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_27
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 279
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09478610cc9b486b0800000000000000
+      internalID: -5294902976032770928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_28
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 279
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f650c90080c71dd80800000000000000
+      internalID: -8227658670417377937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_29
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 279
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3749fef9767f8b20800000000000000
+      internalID: 3138857731641395002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_30
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 279
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46e0d70ce0dfca40800000000000000
+      internalID: 5390756991147763274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_31
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 279
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7dc6444c9c1be710800000000000000
+      internalID: 1723502739885313406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_32
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 279
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c517953b20dc969c0800000000000000
+      internalID: -3933387388048805540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_33
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 279
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeec809055bb7c340800000000000000
+      internalID: 4884078294804778734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_34
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 279
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ec6280ef6891ef0800000000000000
+      internalID: -136929888041513447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 279
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd2159a4733c4cd0800000000000000
+      internalID: -2572624710985503292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 123
+        width: 98
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31af58c11224e050800000000000000
+      internalID: 5828821277495763258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_37
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4
+        width: 98
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed730c8cb7bc92440800000000000000
+      internalID: 4911680601133692894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_38
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 123
+        width: 98
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f56635ff97f4b3c0800000000000000
+      internalID: -4344575474119842320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_39
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 5
+        width: 98
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc6f98061805e620800000000000000
+      internalID: 2802655233834970327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_40
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 123
+        width: 98
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8170a28123b689650800000000000000
+      internalID: 6239855146619766552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_41
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 4
+        width: 98
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9c23a425465efb0800000000000000
+      internalID: -4619175538203637329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_42
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 123
+        width: 98
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1b31802e7e500c0800000000000000
+      internalID: -4610023685559701067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_43
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 6
+        width: 98
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22894f96196313510800000000000000
+      internalID: 1527061746831104034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_44
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 122
+        width: 98
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e1194a5eec85410800000000000000
+      internalID: 1466149164412902916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_45
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 6
+        width: 98
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1ce36f6bc24fda0800000000000000
+      internalID: -5912051246503640581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_46
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 6
+        width: 98
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48aaf2a35f06453e0800000000000000
+      internalID: -2065919722696758652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Roof_47
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 122
+        width: 98
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa379ce44aad0b530800000000000000
+      internalID: 3868832479142572975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ground_Roof_0: 3760720700168698406
+      Ground_Roof_1: 3569356335974493157
+      Ground_Roof_10: 8376160818235079999
+      Ground_Roof_11: -6558644018446040537
+      Ground_Roof_12: 8418760615238606654
+      Ground_Roof_13: 3114077156010958344
+      Ground_Roof_14: 6777871017125543470
+      Ground_Roof_15: 4276380952064363786
+      Ground_Roof_16: 2362668746590455967
+      Ground_Roof_17: 2988029298662033833
+      Ground_Roof_18: 1793760540454134025
+      Ground_Roof_19: 6079622146061179691
+      Ground_Roof_2: 5430141692035774246
+      Ground_Roof_20: 8332223858684962842
+      Ground_Roof_21: -3731452650476870159
+      Ground_Roof_22: 902721645772620204
+      Ground_Roof_23: 2136183754030357557
+      Ground_Roof_24: -3065396380573783790
+      Ground_Roof_25: -7397644393959521911
+      Ground_Roof_26: -7047903580553554878
+      Ground_Roof_27: -5294902976032770928
+      Ground_Roof_28: -8227658670417377937
+      Ground_Roof_29: 3138857731641395002
+      Ground_Roof_3: -186800923972722462
+      Ground_Roof_30: 5390756991147763274
+      Ground_Roof_31: 1723502739885313406
+      Ground_Roof_32: -3933387388048805540
+      Ground_Roof_33: 4884078294804778734
+      Ground_Roof_34: -136929888041513447
+      Ground_Roof_35: -2572624710985503292
+      Ground_Roof_36: 5828821277495763258
+      Ground_Roof_37: 4911680601133692894
+      Ground_Roof_38: -4344575474119842320
+      Ground_Roof_39: 2802655233834970327
+      Ground_Roof_4: -8499935260423400836
+      Ground_Roof_40: 6239855146619766552
+      Ground_Roof_41: -4619175538203637329
+      Ground_Roof_42: -4610023685559701067
+      Ground_Roof_43: 1527061746831104034
+      Ground_Roof_44: 1466149164412902916
+      Ground_Roof_45: -5912051246503640581
+      Ground_Roof_46: -2065919722696758652
+      Ground_Roof_47: 3868832479142572975
+      Ground_Roof_5: -5546497869452175355
+      Ground_Roof_6: -920566835044149074
+      Ground_Roof_7: 8819559683635682531
+      Ground_Roof_8: 6702328800708133539
+      Ground_Roof_9: -2709609217281667583
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

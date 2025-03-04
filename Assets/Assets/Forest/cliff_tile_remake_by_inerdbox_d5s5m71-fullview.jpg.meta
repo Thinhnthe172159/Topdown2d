@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 4b90aebe65f08044d9d125ef0f80e5dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1854889387388902452
+    second: cliff_tile_remake_by_inerdbox_d5s5m71-fullview_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cliff_tile_remake_by_inerdbox_d5s5m71-fullview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3ea070eeb1246e0800000000000000
+      internalID: -1854889387388902452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff_tile_remake_by_inerdbox_d5s5m71-fullview_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 133
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a1af8824f255b448031d94957b1fcd
+      internalID: -1992059234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff_tile_remake_by_inerdbox_d5s5m71-fullview_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 133
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2921119d2fdf5744a45c9a3d315c390
+      internalID: 1267669325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff_tile_remake_by_inerdbox_d5s5m71-fullview_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 133
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1612569b9ef37d4c8b55dee31cda4fd
+      internalID: -671073273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff_tile_remake_by_inerdbox_d5s5m71-fullview_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 133
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69de572054c2c24db81ee3b57b91a09
+      internalID: -1852826398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff_tile_remake_by_inerdbox_d5s5m71-fullview_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96102c2f874b51046b7fcbf6987545aa
+      internalID: -1005510406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff_tile_remake_by_inerdbox_d5s5m71-fullview_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 100
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1088824e004b344bfa9fb21cea3d87
+      internalID: 1906022463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff_tile_remake_by_inerdbox_d5s5m71-fullview_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 100
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32868af5681bd704aa0ff2965da82b66
+      internalID: -673437970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff_tile_remake_by_inerdbox_d5s5m71-fullview_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 100
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da9fea50a8c0d8408f872b2cb2ac4ea
+      internalID: -428589531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff_tile_remake_by_inerdbox_d5s5m71-fullview_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 100
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1003856431a094fa8d4a106bd3eefd
+      internalID: -49966879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff_tile_remake_by_inerdbox_d5s5m71-fullview_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021e69e0b386e2a459fac789e4a0bd97
+      internalID: -1852765172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff_tile_remake_by_inerdbox_d5s5m71-fullview_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 67
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174a7ae5804723f42b1a2627c98e23fc
+      internalID: 124387259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff_tile_remake_by_inerdbox_d5s5m71-fullview_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 67
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b110b152eb888a42a1e0b155d5d531c
+      internalID: -1719098755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff_tile_remake_by_inerdbox_d5s5m71-fullview_13
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 67
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919a93ec93bff0846aa4c01ee820d784
+      internalID: 626475756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff_tile_remake_by_inerdbox_d5s5m71-fullview_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 67
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca3dfb17ed95cc49b8b1b5a75645ba0
+      internalID: -602640243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff_tile_remake_by_inerdbox_d5s5m71-fullview_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06b87eded0a8034f90265a0d7502c98
+      internalID: 177103335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff_tile_remake_by_inerdbox_d5s5m71-fullview_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 34
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57926f383b22d17429cba91ed239250e
+      internalID: 2069824645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff_tile_remake_by_inerdbox_d5s5m71-fullview_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 34
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acb30c050eeee24da236ee81ff1b204
+      internalID: -547090815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff_tile_remake_by_inerdbox_d5s5m71-fullview_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 34
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82a8fd8455ec0a4086c9bfe41430f2b
+      internalID: 565106972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff_tile_remake_by_inerdbox_d5s5m71-fullview_19
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 34
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e06cd4d1005174fb29a9af130dddb1
+      internalID: -696325709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff_tile_remake_by_inerdbox_d5s5m71-fullview_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0193c11cf95bf2d45880ae1896104b8e
+      internalID: 1715382823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff_tile_remake_by_inerdbox_d5s5m71-fullview_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb89eeed1bdf28438d404450bb087c5
+      internalID: 1754487469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff_tile_remake_by_inerdbox_d5s5m71-fullview_22
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53004a628ae29404099fd4be32564151
+      internalID: -1893568654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff_tile_remake_by_inerdbox_d5s5m71-fullview_23
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7d16cd374c15d4e8d72cae3b7d4ed0
+      internalID: 1144219628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff_tile_remake_by_inerdbox_d5s5m71-fullview_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876a2709c8045a440abc2997ea1d2da6
+      internalID: 2002203770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cbddb42ff1a5b104ba285352cce4c6f7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cliff_tile_remake_by_inerdbox_d5s5m71-fullview_0: -1854889387388902452
+      cliff_tile_remake_by_inerdbox_d5s5m71-fullview_1: -1992059234
+      cliff_tile_remake_by_inerdbox_d5s5m71-fullview_10: -1852765172
+      cliff_tile_remake_by_inerdbox_d5s5m71-fullview_11: 124387259
+      cliff_tile_remake_by_inerdbox_d5s5m71-fullview_12: -1719098755
+      cliff_tile_remake_by_inerdbox_d5s5m71-fullview_13: 626475756
+      cliff_tile_remake_by_inerdbox_d5s5m71-fullview_14: -602640243
+      cliff_tile_remake_by_inerdbox_d5s5m71-fullview_15: 177103335
+      cliff_tile_remake_by_inerdbox_d5s5m71-fullview_16: 2069824645
+      cliff_tile_remake_by_inerdbox_d5s5m71-fullview_17: -547090815
+      cliff_tile_remake_by_inerdbox_d5s5m71-fullview_18: 565106972
+      cliff_tile_remake_by_inerdbox_d5s5m71-fullview_19: -696325709
+      cliff_tile_remake_by_inerdbox_d5s5m71-fullview_2: 1267669325
+      cliff_tile_remake_by_inerdbox_d5s5m71-fullview_20: 1715382823
+      cliff_tile_remake_by_inerdbox_d5s5m71-fullview_21: 1754487469
+      cliff_tile_remake_by_inerdbox_d5s5m71-fullview_22: -1893568654
+      cliff_tile_remake_by_inerdbox_d5s5m71-fullview_23: 1144219628
+      cliff_tile_remake_by_inerdbox_d5s5m71-fullview_24: 2002203770
+      cliff_tile_remake_by_inerdbox_d5s5m71-fullview_3: -671073273
+      cliff_tile_remake_by_inerdbox_d5s5m71-fullview_4: -1852826398
+      cliff_tile_remake_by_inerdbox_d5s5m71-fullview_5: -1005510406
+      cliff_tile_remake_by_inerdbox_d5s5m71-fullview_6: 1906022463
+      cliff_tile_remake_by_inerdbox_d5s5m71-fullview_7: -673437970
+      cliff_tile_remake_by_inerdbox_d5s5m71-fullview_8: -428589531
+      cliff_tile_remake_by_inerdbox_d5s5m71-fullview_9: -49966879
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

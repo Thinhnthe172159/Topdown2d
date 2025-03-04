@@ -1,0 +1,1840 @@
+fileFormatVersion: 2
+guid: 3c5dcb15de50a224f9376855de1b7a06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6958701289176171992
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_0
+  - first:
+      213: -5948131505973837161
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_1
+  - first:
+      213: 8402453504890650147
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_2
+  - first:
+      213: 8458999818925534084
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_3
+  - first:
+      213: -57979149276375393
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_4
+  - first:
+      213: 1697059306852072142
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_5
+  - first:
+      213: 4200724642271290342
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_6
+  - first:
+      213: 900795626124385207
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_7
+  - first:
+      213: 3280911570212736909
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_8
+  - first:
+      213: -3496815907450775479
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_9
+  - first:
+      213: 3012076768874798764
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_10
+  - first:
+      213: -709699101329918634
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_11
+  - first:
+      213: 6699077378539865801
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_12
+  - first:
+      213: -1682806237488417043
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_13
+  - first:
+      213: -8403880277339591681
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_14
+  - first:
+      213: 6709537040540230513
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_15
+  - first:
+      213: 4376170621747079863
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_16
+  - first:
+      213: 1872456269421892716
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_17
+  - first:
+      213: -3885363103847072871
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_18
+  - first:
+      213: 5915322504637945121
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_19
+  - first:
+      213: -1522407312874281231
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_20
+  - first:
+      213: -4203988825049894924
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_21
+  - first:
+      213: 2475372273567472048
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_22
+  - first:
+      213: -8110834352218608401
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_23
+  - first:
+      213: 6351240367071884445
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_24
+  - first:
+      213: 8073296049320753842
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_25
+  - first:
+      213: 3276721722356524347
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_26
+  - first:
+      213: -7360625242958960007
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_27
+  - first:
+      213: -8396005890838366227
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_28
+  - first:
+      213: -1909325415924954203
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_29
+  - first:
+      213: 4012391187332731457
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_30
+  - first:
+      213: -1976722773644140409
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_31
+  - first:
+      213: -906969674694992225
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_32
+  - first:
+      213: -6977354510208002339
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_33
+  - first:
+      213: 8223882485197241408
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_34
+  - first:
+      213: -1357298492418701864
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_35
+  - first:
+      213: -1254030304997109798
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_36
+  - first:
+      213: -9005420981877203189
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_37
+  - first:
+      213: 1659193718887694801
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_38
+  - first:
+      213: -1778926951417443821
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_39
+  - first:
+      213: -9198309096001405237
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_40
+  - first:
+      213: -8687808531645143189
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_41
+  - first:
+      213: -7580243033928048448
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_42
+  - first:
+      213: 2411916824226217984
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_43
+  - first:
+      213: -6244525640059775003
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_44
+  - first:
+      213: -1985317188482848237
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_45
+  - first:
+      213: -3556602768567116562
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_46
+  - first:
+      213: -293732146652898645
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_47
+  - first:
+      213: -3157351965057503174
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_48
+  - first:
+      213: -8801206751720378054
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_49
+  - first:
+      213: -4406673490127903853
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_50
+  - first:
+      213: -3103950130753004623
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_51
+  - first:
+      213: -2993350098190708033
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_52
+  - first:
+      213: -3619568165569458962
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_53
+  - first:
+      213: 694365128754718640
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_54
+  - first:
+      213: -3456686266480159367
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_55
+  - first:
+      213: 742843944379910130
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_56
+  - first:
+      213: 3359700797710230503
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_57
+  - first:
+      213: 673714522746411373
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_58
+  - first:
+      213: -556480603270566098
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_59
+  - first:
+      213: -4503048764882949034
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_60
+  - first:
+      213: 5552869362518550186
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_61
+  - first:
+      213: 7735239641359114910
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_62
+  - first:
+      213: 5473674688262602835
+    second: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 135
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5066724f5429060800000000000000
+      internalID: 6958701289176171992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 480
+        width: 74
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792ce1de8edf37da0800000000000000
+      internalID: -5948131505973837161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 491
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e3eb0d1f28b9470800000000000000
+      internalID: 8402453504890650147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 491
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b66228487646570800000000000000
+      internalID: 8458999818925534084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 488
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96900b5544023ff0800000000000000
+      internalID: -57979149276375393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 482
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca30bbb27a2d8710800000000000000
+      internalID: 1697059306852072142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 480
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e36fc54ec8fb4a30800000000000000
+      internalID: 4200724642271290342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_7
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 487
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb9e5e69d4408c00800000000000000
+      internalID: 900795626124385207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_8
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 484
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fcff9a0b3288d20800000000000000
+      internalID: 3280911570212736909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 491
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94816778570d87fc0800000000000000
+      internalID: -3496815907450775479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_10
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 493
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae1df4dcdb0dc920800000000000000
+      internalID: 3012076768874798764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655f0df6d64a626f0800000000000000
+      internalID: -709699101329918634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_12
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 486
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c649bee167e7fc50800000000000000
+      internalID: 6699077378539865801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_13
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 484
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6f0b494a875a8e0800000000000000
+      internalID: -1682806237488417043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_14
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 480
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb2346d96b6f5b80800000000000000
+      internalID: -8403880277339591681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 450
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173e9b4c3601d1d50800000000000000
+      internalID: 6709537040540230513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_16
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 449
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba2cb99ef74bbc30800000000000000
+      internalID: 4376170621747079863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_17
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 456
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64585c6e0d4cf910800000000000000
+      internalID: 1872456269421892716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 453
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b39c3b7da641ac0800000000000000
+      internalID: -3885363103847072871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_19
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 445
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12591dc2a72771250800000000000000
+      internalID: 5915322504637945121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_20
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 449
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6eba07d925fdae0800000000000000
+      internalID: -1522407312874281231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_21
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 453
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff6033ff6e68a5c0800000000000000
+      internalID: -4203988825049894924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_22
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 449
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b917dcb7f94a5220800000000000000
+      internalID: 2475372273567472048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_23
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 447
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec69f33127807f80800000000000000
+      internalID: -8110834352218608401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_24
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 449
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94f07aa673242850800000000000000
+      internalID: 6351240367071884445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_25
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 449
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baf3529bfb1a0070800000000000000
+      internalID: 8073296049320753842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_26
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 452
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35edd0bb01497d20800000000000000
+      internalID: 3276721722356524347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_27
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 449
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a68acf65ec9d990800000000000000
+      internalID: -7360625242958960007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7fd7050256b7b80800000000000000
+      internalID: -8396005890838366227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 423
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab0b2776a6b085e0800000000000000
+      internalID: -1909325415924954203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 421
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14210ecb680eea730800000000000000
+      internalID: 4012391187332731457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_31
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 421
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78024894c154194e0800000000000000
+      internalID: -1976722773644140409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_32
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 420
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ed0cdd2ebc963f0800000000000000
+      internalID: -906969674694992225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_33
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 418
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd615136a057b2f90800000000000000
+      internalID: -6977354510208002339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_34
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 419
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cfcbc5c89112270800000000000000
+      internalID: 8223882485197241408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_35
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 417
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5c5316638e92de0800000000000000
+      internalID: -1357298492418701864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_36
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 417
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf821de41ac89ee0800000000000000
+      internalID: -1254030304997109798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_37
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 416
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f1c5a6451560380800000000000000
+      internalID: -9005420981877203189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 418
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d14cd385e3a60710800000000000000
+      internalID: 1659193718887694801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_39
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 417
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a0563ec5bff47e0800000000000000
+      internalID: -1778926951417443821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_40
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 419
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce7796ac9a095080800000000000000
+      internalID: -9198309096001405237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 419
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67eea2ab24be6780800000000000000
+      internalID: -8687808531645143189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_42
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 418
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0e69b5f119dc690800000000000000
+      internalID: -7580243033928048448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_43
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 417
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000cacf9299d87120800000000000000
+      internalID: 2411916824226217984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 354
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e71b69e30df659a0800000000000000
+      internalID: -6244525640059775003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 352
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31aa006298cb274e0800000000000000
+      internalID: -1985317188482848237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_46
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 225
+        width: 11
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecd26c20a864aec0800000000000000
+      internalID: -3556602768567116562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_47
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 309
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa14ab3b247cebf0800000000000000
+      internalID: -293732146652898645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 352
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30bddbbd15de24d0800000000000000
+      internalID: -3157351965057503174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_49
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 265
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31ffe01715dbd580800000000000000
+      internalID: -8801206751720378054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_50
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 258
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393abcbeec958d2c0800000000000000
+      internalID: -4406673490127903853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_51
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 231
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb90ff2dcd8ce4d0800000000000000
+      internalID: -3103950130753004623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_52
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 128
+        width: 85
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb256f4f1fb7576d0800000000000000
+      internalID: -2993350098190708033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_53
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 231
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec8be24ee5b4cdc0800000000000000
+      internalID: -3619568165569458962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7e7dbd761e2a900800000000000000
+      internalID: 694365128754718640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_55
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 170
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9759a7aa7226700d0800000000000000
+      internalID: -3456686266480159367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_56
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 158
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f78054b1ac1f4a00800000000000000
+      internalID: 742843944379910130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_57
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 178
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e36d17331e00ae20800000000000000
+      internalID: 3359700797710230503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 95
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d695258f9c3895900800000000000000
+      internalID: 673714522746411373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_59
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 64
+        width: 35
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fa9a5f6dbf648f0800000000000000
+      internalID: -556480603270566098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 64
+        width: 94
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ce3eaa105f181c0800000000000000
+      internalID: -4503048764882949034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_61
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 6
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6611dc341cf0d40800000000000000
+      internalID: 5552869362518550186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_62
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 64
+        width: 13
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92eab38877195b60800000000000000
+      internalID: 7735239641359114910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35080f1d02666fb40800000000000000
+      internalID: 5473674688262602835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_64
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b30ab16a56fe934d83809a912dcd8f7
+      internalID: -272176040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mafa_tilee_by_redface5x_d4j3q4w-375w-2x_65
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 16
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89ffa4f23ec59f4d9cf95b83710e14a
+      internalID: 1609550842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a57462fb5533ba24fb52eb09d4d88d4c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_0: 6958701289176171992
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_1: -5948131505973837161
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_10: 3012076768874798764
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_11: -709699101329918634
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_12: 6699077378539865801
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_13: -1682806237488417043
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_14: -8403880277339591681
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_15: 6709537040540230513
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_16: 4376170621747079863
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_17: 1872456269421892716
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_18: -3885363103847072871
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_19: 5915322504637945121
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_2: 8402453504890650147
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_20: -1522407312874281231
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_21: -4203988825049894924
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_22: 2475372273567472048
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_23: -8110834352218608401
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_24: 6351240367071884445
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_25: 8073296049320753842
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_26: 3276721722356524347
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_27: -7360625242958960007
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_28: -8396005890838366227
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_29: -1909325415924954203
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_3: 8458999818925534084
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_30: 4012391187332731457
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_31: -1976722773644140409
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_32: -906969674694992225
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_33: -6977354510208002339
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_34: 8223882485197241408
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_35: -1357298492418701864
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_36: -1254030304997109798
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_37: -9005420981877203189
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_38: 1659193718887694801
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_39: -1778926951417443821
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_4: -57979149276375393
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_40: -9198309096001405237
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_41: -8687808531645143189
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_42: -7580243033928048448
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_43: 2411916824226217984
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_44: -6244525640059775003
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_45: -1985317188482848237
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_46: -3556602768567116562
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_47: -293732146652898645
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_48: -3157351965057503174
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_49: -8801206751720378054
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_5: 1697059306852072142
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_50: -4406673490127903853
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_51: -3103950130753004623
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_52: -2993350098190708033
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_53: -3619568165569458962
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_54: 694365128754718640
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_55: -3456686266480159367
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_56: 742843944379910130
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_57: 3359700797710230503
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_58: 673714522746411373
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_59: -556480603270566098
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_6: 4200724642271290342
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_60: -4503048764882949034
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_61: 5552869362518550186
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_62: 7735239641359114910
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_63: 5473674688262602835
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_64: -272176040
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_65: 1609550842
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_7: 900795626124385207
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_8: 3280911570212736909
+      mafa_tilee_by_redface5x_d4j3q4w-375w-2x_9: -3496815907450775479
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

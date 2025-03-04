@@ -1,0 +1,1742 @@
+fileFormatVersion: 2
+guid: a88884ce543eda4428eca3f543648100
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5573325032859025560
+    second: Furniture_and_Decorations2_0
+  - first:
+      213: -114247424035402033
+    second: Furniture_and_Decorations2_1
+  - first:
+      213: -517904861547162567
+    second: Furniture_and_Decorations2_2
+  - first:
+      213: 2118883455598462208
+    second: Furniture_and_Decorations2_3
+  - first:
+      213: -626545446017207169
+    second: Furniture_and_Decorations2_4
+  - first:
+      213: -5866440413888595818
+    second: Furniture_and_Decorations2_5
+  - first:
+      213: -8437333764869496286
+    second: Furniture_and_Decorations2_6
+  - first:
+      213: -4439936906537837941
+    second: Furniture_and_Decorations2_7
+  - first:
+      213: -7672643424242719103
+    second: Furniture_and_Decorations2_8
+  - first:
+      213: -274130730091148970
+    second: Furniture_and_Decorations2_9
+  - first:
+      213: -6091647664677219010
+    second: Furniture_and_Decorations2_10
+  - first:
+      213: 606961687516691875
+    second: Furniture_and_Decorations2_11
+  - first:
+      213: -3795118038062616041
+    second: Furniture_and_Decorations2_12
+  - first:
+      213: -2513197447353069761
+    second: Furniture_and_Decorations2_13
+  - first:
+      213: 1355950010342215832
+    second: Furniture_and_Decorations2_14
+  - first:
+      213: 8903366022894755111
+    second: Furniture_and_Decorations2_15
+  - first:
+      213: 2917092911358884155
+    second: Furniture_and_Decorations2_16
+  - first:
+      213: 3086466527784773017
+    second: Furniture_and_Decorations2_17
+  - first:
+      213: -1574051848181695423
+    second: Furniture_and_Decorations2_18
+  - first:
+      213: -8924364814016994866
+    second: Furniture_and_Decorations2_19
+  - first:
+      213: 5807450855383138835
+    second: Furniture_and_Decorations2_20
+  - first:
+      213: 574283825540980657
+    second: Furniture_and_Decorations2_21
+  - first:
+      213: -6403349017824798608
+    second: Furniture_and_Decorations2_22
+  - first:
+      213: -8110681719750163066
+    second: Furniture_and_Decorations2_23
+  - first:
+      213: -5427911385426328041
+    second: Furniture_and_Decorations2_24
+  - first:
+      213: -7462796449680528166
+    second: Furniture_and_Decorations2_25
+  - first:
+      213: -2664250983389827812
+    second: Furniture_and_Decorations2_26
+  - first:
+      213: 1200391538625949479
+    second: Furniture_and_Decorations2_27
+  - first:
+      213: -6861495369160329436
+    second: Furniture_and_Decorations2_28
+  - first:
+      213: 3436425583133673709
+    second: Furniture_and_Decorations2_29
+  - first:
+      213: 4390864644740791370
+    second: Furniture_and_Decorations2_30
+  - first:
+      213: 1769699177435456309
+    second: Furniture_and_Decorations2_31
+  - first:
+      213: -2618246709632729629
+    second: Furniture_and_Decorations2_32
+  - first:
+      213: 7715266581916840502
+    second: Furniture_and_Decorations2_33
+  - first:
+      213: 3456262377780752795
+    second: Furniture_and_Decorations2_34
+  - first:
+      213: 6099068212001059164
+    second: Furniture_and_Decorations2_35
+  - first:
+      213: -2880649413883146390
+    second: Furniture_and_Decorations2_36
+  - first:
+      213: -2886541167481074112
+    second: Furniture_and_Decorations2_37
+  - first:
+      213: 4440858505226073731
+    second: Furniture_and_Decorations2_38
+  - first:
+      213: -7494329847149984441
+    second: Furniture_and_Decorations2_39
+  - first:
+      213: -8193469517244005215
+    second: Furniture_and_Decorations2_40
+  - first:
+      213: -6188228239158626484
+    second: Furniture_and_Decorations2_41
+  - first:
+      213: 4548207845523639967
+    second: Furniture_and_Decorations2_42
+  - first:
+      213: 8750279568851407360
+    second: Furniture_and_Decorations2_43
+  - first:
+      213: -7339421764598506702
+    second: Furniture_and_Decorations2_44
+  - first:
+      213: -3036540633179402860
+    second: Furniture_and_Decorations2_45
+  - first:
+      213: 4820697789393547230
+    second: Furniture_and_Decorations2_46
+  - first:
+      213: 4556592951142885263
+    second: Furniture_and_Decorations2_47
+  - first:
+      213: -479097304047000726
+    second: Furniture_and_Decorations2_48
+  - first:
+      213: 8355701833412607189
+    second: Furniture_and_Decorations2_49
+  - first:
+      213: 1480609214550686044
+    second: Furniture_and_Decorations2_50
+  - first:
+      213: -3775138502948830927
+    second: Furniture_and_Decorations2_51
+  - first:
+      213: -8556819436095148212
+    second: Furniture_and_Decorations2_52
+  - first:
+      213: 1971494323547235928
+    second: Furniture_and_Decorations2_53
+  - first:
+      213: -8031440861777752246
+    second: Furniture_and_Decorations2_54
+  - first:
+      213: 2146446581746521238
+    second: Furniture_and_Decorations2_55
+  - first:
+      213: -7943964433170606227
+    second: Furniture_and_Decorations2_56
+  - first:
+      213: 4683407709866863629
+    second: Furniture_and_Decorations2_57
+  - first:
+      213: 2790891257191146707
+    second: Furniture_and_Decorations2_58
+  - first:
+      213: -4350695361017381959
+    second: Furniture_and_Decorations2_59
+  - first:
+      213: -7280129405853512400
+    second: Furniture_and_Decorations2_60
+  - first:
+      213: -1699975466299944304
+    second: Furniture_and_Decorations2_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 423
+        width: 163
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890ca51b69d685d40800000000000000
+      internalID: 5573325032859025560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 377
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcecdd9b29c1a6ef0800000000000000
+      internalID: -114247424035402033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 377
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934980cb54800d8f0800000000000000
+      internalID: -517904861547162567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 377
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005066bc649c76d10800000000000000
+      internalID: 2118883455598462208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 377
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7471868c301e47f0800000000000000
+      internalID: -626545446017207169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 377
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698bc2a7687369ea0800000000000000
+      internalID: -5866440413888595818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_6
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 377
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2226b8dc4a198ea80800000000000000
+      internalID: -8437333764869496286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_7
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 377
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a5aa448ec2262c0800000000000000
+      internalID: -4439936906537837941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 377
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186a6c1057b458590800000000000000
+      internalID: -7672643424242719103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 377
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65906eaad87123cf0800000000000000
+      internalID: -274130730091148970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_10
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 377
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35931259be167ba0800000000000000
+      internalID: -6091647664677219010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_11
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 377
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad34b0607c5c6800800000000000000
+      internalID: 606961687516691875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 377
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712b9947048055bc0800000000000000
+      internalID: -3795118038062616041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_13
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 371
+        width: 70
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f0a14bc345f1dd0800000000000000
+      internalID: -2513197447353069761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_14
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 371
+        width: 70
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89092aba95d41d210800000000000000
+      internalID: 1355950010342215832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_15
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 371
+        width: 70
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d9cebc93c1f8b70800000000000000
+      internalID: 8903366022894755111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 338
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b393b562c889b7820800000000000000
+      internalID: 2917092911358884155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 338
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995aeb744f455da20800000000000000
+      internalID: 3086466527784773017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 338
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c351b0f28d72ae0800000000000000
+      internalID: -1574051848181695423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 338
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1a5862c79462480800000000000000
+      internalID: -8924364814016994866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 338
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31286a5a8c5389050800000000000000
+      internalID: 5807450855383138835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 338
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf5f9db81448f700800000000000000
+      internalID: 574283825540980657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_22
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 338
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078d4b3aefbb227a0800000000000000
+      internalID: -6403349017824798608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_23
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 338
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6858908b2f1117f80800000000000000
+      internalID: -8110681719750163066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_24
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 338
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7168d5f6a5f2ca4b0800000000000000
+      internalID: -5427911385426328041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_25
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 338
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adceeb92b22de6890800000000000000
+      internalID: -7462796449680528166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_26
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 338
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d609ea8dda60bd0800000000000000
+      internalID: -2664250983389827812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_27
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 338
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f2f239eb5a8a010800000000000000
+      internalID: 1200391538625949479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_28
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 332
+        width: 70
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427f535c05217c0a0800000000000000
+      internalID: -6861495369160329436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_29
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 332
+        width: 70
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de84fb36cd2a0bf20800000000000000
+      internalID: 3436425583133673709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_30
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 332
+        width: 70
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cb89e612c7fec30800000000000000
+      internalID: 4390864644740791370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 263
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533675e860c3f8810800000000000000
+      internalID: 1769699177435456309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_32
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 263
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed710a5d7e1aabd0800000000000000
+      internalID: -2618246709632729629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 263
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632789a3412221b60800000000000000
+      internalID: 7715266581916840502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 263
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b913b2e025c17ff20800000000000000
+      internalID: 3456262377780752795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_35
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 263
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51333d793e34a450800000000000000
+      internalID: 6099068212001059164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_36
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 263
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fce03de90e508d0800000000000000
+      internalID: -2880649413883146390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_37
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 243
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ecfba0a12f0f7d0800000000000000
+      internalID: -2886541167481074112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_38
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 242
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386b5c5284911ad30800000000000000
+      internalID: 4440858505226073731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 243
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745840fe5bacef790800000000000000
+      internalID: -7494329847149984441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_40
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 242
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a40eaa82e2fa4e80800000000000000
+      internalID: -8193469517244005215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_41
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 243
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47b8eff33ffe1aa0800000000000000
+      internalID: -6188228239158626484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_42
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 242
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ec41520fa7e1f30800000000000000
+      internalID: 4548207845523639967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_43
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 242
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0021fba28ec3f6970800000000000000
+      internalID: 8750279568851407360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_44
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 241
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bd5508ac2252a90800000000000000
+      internalID: -7339421764598506702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_45
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 180
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d4d45e16a0cd5d0800000000000000
+      internalID: -3036540633179402860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_46
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 180
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf205a291f86e240800000000000000
+      internalID: 4820697789393547230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_47
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 180
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87abeea5254c3f30800000000000000
+      internalID: 4556592951142885263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_48
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 180
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a636e635a87e959f0800000000000000
+      internalID: -479097304047000726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_49
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 154
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc73ad0c8a65f370800000000000000
+      internalID: 8355701833412607189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_50
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 153
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59b67c6c3e2c8410800000000000000
+      internalID: 1480609214550686044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_51
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 154
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131c5d978830c9bc0800000000000000
+      internalID: -3775138502948830927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_52
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 153
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fe3601f02104980800000000000000
+      internalID: -8556819436095148212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_53
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 153
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8566bbf44a72c5b10800000000000000
+      internalID: 1971494323547235928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_54
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 152
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f0e2fa6179a8090800000000000000
+      internalID: -8031440861777752246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_55
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 153
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6945a523bc5b9cd10800000000000000
+      internalID: 2146446581746521238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_56
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 152
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67578cdf6e51c190800000000000000
+      internalID: -7943964433170606227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_57
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 92
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ca0f49f7ecef040800000000000000
+      internalID: 4683407709866863629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_58
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 92
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d42f97cfcc3bb620800000000000000
+      internalID: 2790891257191146707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_59
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 19
+        width: 72
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb7e90ce993f93c0800000000000000
+      internalID: -4350695361017381959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_60
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 19
+        width: 72
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dc93d80e8c7fa90800000000000000
+      internalID: -7280129405853512400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furniture_and_Decorations2_61
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 19
+        width: 72
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092105cf1597868e0800000000000000
+      internalID: -1699975466299944304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Furniture_and_Decorations2_0: 5573325032859025560
+      Furniture_and_Decorations2_1: -114247424035402033
+      Furniture_and_Decorations2_10: -6091647664677219010
+      Furniture_and_Decorations2_11: 606961687516691875
+      Furniture_and_Decorations2_12: -3795118038062616041
+      Furniture_and_Decorations2_13: -2513197447353069761
+      Furniture_and_Decorations2_14: 1355950010342215832
+      Furniture_and_Decorations2_15: 8903366022894755111
+      Furniture_and_Decorations2_16: 2917092911358884155
+      Furniture_and_Decorations2_17: 3086466527784773017
+      Furniture_and_Decorations2_18: -1574051848181695423
+      Furniture_and_Decorations2_19: -8924364814016994866
+      Furniture_and_Decorations2_2: -517904861547162567
+      Furniture_and_Decorations2_20: 5807450855383138835
+      Furniture_and_Decorations2_21: 574283825540980657
+      Furniture_and_Decorations2_22: -6403349017824798608
+      Furniture_and_Decorations2_23: -8110681719750163066
+      Furniture_and_Decorations2_24: -5427911385426328041
+      Furniture_and_Decorations2_25: -7462796449680528166
+      Furniture_and_Decorations2_26: -2664250983389827812
+      Furniture_and_Decorations2_27: 1200391538625949479
+      Furniture_and_Decorations2_28: -6861495369160329436
+      Furniture_and_Decorations2_29: 3436425583133673709
+      Furniture_and_Decorations2_3: 2118883455598462208
+      Furniture_and_Decorations2_30: 4390864644740791370
+      Furniture_and_Decorations2_31: 1769699177435456309
+      Furniture_and_Decorations2_32: -2618246709632729629
+      Furniture_and_Decorations2_33: 7715266581916840502
+      Furniture_and_Decorations2_34: 3456262377780752795
+      Furniture_and_Decorations2_35: 6099068212001059164
+      Furniture_and_Decorations2_36: -2880649413883146390
+      Furniture_and_Decorations2_37: -2886541167481074112
+      Furniture_and_Decorations2_38: 4440858505226073731
+      Furniture_and_Decorations2_39: -7494329847149984441
+      Furniture_and_Decorations2_4: -626545446017207169
+      Furniture_and_Decorations2_40: -8193469517244005215
+      Furniture_and_Decorations2_41: -6188228239158626484
+      Furniture_and_Decorations2_42: 4548207845523639967
+      Furniture_and_Decorations2_43: 8750279568851407360
+      Furniture_and_Decorations2_44: -7339421764598506702
+      Furniture_and_Decorations2_45: -3036540633179402860
+      Furniture_and_Decorations2_46: 4820697789393547230
+      Furniture_and_Decorations2_47: 4556592951142885263
+      Furniture_and_Decorations2_48: -479097304047000726
+      Furniture_and_Decorations2_49: 8355701833412607189
+      Furniture_and_Decorations2_5: -5866440413888595818
+      Furniture_and_Decorations2_50: 1480609214550686044
+      Furniture_and_Decorations2_51: -3775138502948830927
+      Furniture_and_Decorations2_52: -8556819436095148212
+      Furniture_and_Decorations2_53: 1971494323547235928
+      Furniture_and_Decorations2_54: -8031440861777752246
+      Furniture_and_Decorations2_55: 2146446581746521238
+      Furniture_and_Decorations2_56: -7943964433170606227
+      Furniture_and_Decorations2_57: 4683407709866863629
+      Furniture_and_Decorations2_58: 2790891257191146707
+      Furniture_and_Decorations2_59: -4350695361017381959
+      Furniture_and_Decorations2_6: -8437333764869496286
+      Furniture_and_Decorations2_60: -7280129405853512400
+      Furniture_and_Decorations2_61: -1699975466299944304
+      Furniture_and_Decorations2_7: -4439936906537837941
+      Furniture_and_Decorations2_8: -7672643424242719103
+      Furniture_and_Decorations2_9: -274130730091148970
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

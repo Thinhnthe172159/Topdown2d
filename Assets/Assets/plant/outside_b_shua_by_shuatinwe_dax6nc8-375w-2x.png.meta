@@ -1,0 +1,2132 @@
+fileFormatVersion: 2
+guid: de798892f93ee8b4bb906cfda9e2902c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4709117513863011714
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_0
+  - first:
+      213: 5975148743274590615
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_1
+  - first:
+      213: -7937532756891733606
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_2
+  - first:
+      213: -5752401617065939646
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_3
+  - first:
+      213: 1980654165690479929
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_4
+  - first:
+      213: -2034628803457952855
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_5
+  - first:
+      213: 2347032166641332328
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_6
+  - first:
+      213: -733857665094438985
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_7
+  - first:
+      213: 2844953224373922601
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_8
+  - first:
+      213: -7183176418754324073
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_9
+  - first:
+      213: -8027696006173613774
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_10
+  - first:
+      213: 666610212443085015
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_11
+  - first:
+      213: 3219769928543669848
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_12
+  - first:
+      213: -595438783039876095
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_13
+  - first:
+      213: -3879296968791492559
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_14
+  - first:
+      213: -4013442079591503281
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_15
+  - first:
+      213: 7041627065633825257
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_16
+  - first:
+      213: 1367934705003984758
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_17
+  - first:
+      213: 6583956168683222630
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_18
+  - first:
+      213: 6970833500097359622
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_19
+  - first:
+      213: -6577559498147815553
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_20
+  - first:
+      213: 7291491034788455599
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_21
+  - first:
+      213: -3086995856120344630
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_22
+  - first:
+      213: -332883375395977139
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_23
+  - first:
+      213: 9197297620517815574
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_24
+  - first:
+      213: 6221442833899430382
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_25
+  - first:
+      213: 7130771638192653907
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_26
+  - first:
+      213: -1131478848919485046
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_27
+  - first:
+      213: -4624160769360721619
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_28
+  - first:
+      213: 103746320085070764
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_29
+  - first:
+      213: -1883706945680759708
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_30
+  - first:
+      213: 2776641141591746790
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_31
+  - first:
+      213: 6284536183565819985
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_32
+  - first:
+      213: -7521765879403781850
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_33
+  - first:
+      213: -5833750654217444317
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_34
+  - first:
+      213: 7101748085661939071
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_35
+  - first:
+      213: 4838977042300938970
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_36
+  - first:
+      213: -5901042924851175948
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_37
+  - first:
+      213: -4514189744761862689
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_38
+  - first:
+      213: -7322364320647235983
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_39
+  - first:
+      213: -8875194245300908023
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_40
+  - first:
+      213: -1804532781797854649
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_41
+  - first:
+      213: -8032228396192229345
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_42
+  - first:
+      213: 5162519221317955614
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_43
+  - first:
+      213: 1686322928840686250
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_44
+  - first:
+      213: -1963630073851017337
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_45
+  - first:
+      213: -8872127509687253540
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_46
+  - first:
+      213: 460629783172408445
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_47
+  - first:
+      213: 1320503486005667567
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_48
+  - first:
+      213: -5196177117897080208
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_49
+  - first:
+      213: -7704571366973062003
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_50
+  - first:
+      213: -3453150791236557850
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_51
+  - first:
+      213: -5431901681036876038
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_52
+  - first:
+      213: 6521358816164321499
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_53
+  - first:
+      213: -904315471039197492
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_54
+  - first:
+      213: -6501138169356407772
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_55
+  - first:
+      213: 811812541335634810
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_56
+  - first:
+      213: -3640207066087759324
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_57
+  - first:
+      213: 3453531363498228013
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_58
+  - first:
+      213: 1127775220755537118
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_59
+  - first:
+      213: -3501248173681468773
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_60
+  - first:
+      213: -891734451575723529
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_61
+  - first:
+      213: -7931722375158367762
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_62
+  - first:
+      213: -5066658861123223583
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_63
+  - first:
+      213: 8409940517989425649
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_64
+  - first:
+      213: -3236597103449715406
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_65
+  - first:
+      213: 7321022814126633415
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_66
+  - first:
+      213: 3835875253409951705
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_67
+  - first:
+      213: -7935660547980813873
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_68
+  - first:
+      213: -5080064819532357422
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_69
+  - first:
+      213: -3078281050907022149
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_70
+  - first:
+      213: -1314580787758514322
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_71
+  - first:
+      213: 920101898760965603
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_72
+  - first:
+      213: -9057523900426586738
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_73
+  - first:
+      213: -6065958329207390955
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_74
+  - first:
+      213: -4534205986624702226
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_75
+  - first:
+      213: -3743192088241348647
+    second: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 479
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72ef94329ad5aeb0800000000000000
+      internalID: -4709117513863011714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 479
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791f003df1efbe250800000000000000
+      internalID: 5975148743274590615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 479
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91f070330838d190800000000000000
+      internalID: -7937532756891733606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 479
+        width: 98
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24de661f43d5b20b0800000000000000
+      internalID: -5752401617065939646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 223
+        width: 385
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935f0e04872bc7b10800000000000000
+      internalID: 1980654165690479929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 457
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a35c1812eb83c3e0800000000000000
+      internalID: -2034628803457952855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 452
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86072190255529020800000000000000
+      internalID: 2347032166641332328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf295c7750d0d5f0800000000000000
+      internalID: -733857665094438985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 451
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92be86562ed4b7720800000000000000
+      internalID: 2844953224373922601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 422
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7999f21fa1b305c90800000000000000
+      internalID: -7183176418754324073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 422
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2312333d305e79090800000000000000
+      internalID: -8027696006173613774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 419
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d85154d476404900800000000000000
+      internalID: 666610212443085015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_12
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 418
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e8451e0bbeeac20800000000000000
+      internalID: 3219769928543669848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 383
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104da63e4939cb7f0800000000000000
+      internalID: -595438783039876095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 383
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138fee4d5f7f92ac0800000000000000
+      internalID: -3879296968791492559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 383
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ae75751b36d48c0800000000000000
+      internalID: -4013442079591503281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 388
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e161ef0282e8b160800000000000000
+      internalID: 7041627065633825257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677f0b7dd51ebf210800000000000000
+      internalID: 1367934705003984758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_18
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 347
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666fa1b8049ee5b50800000000000000
+      internalID: 6583956168683222630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 341
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f22b1a2206db060800000000000000
+      internalID: 6970833500097359622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 343
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f17ef5c70d7b4a0800000000000000
+      internalID: -6577559498147815553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 97
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4e283d674903560800000000000000
+      internalID: 7291491034788455599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 290
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf08dcdf99c825d0800000000000000
+      internalID: -3086995856120344630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_23
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 220
+        width: 63
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48c3e1755c516bf0800000000000000
+      internalID: -332883375395977139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_24
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 222
+        width: 65
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615828cd47d53af70800000000000000
+      internalID: 9197297620517815574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_25
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 264
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1a9f87b41075650800000000000000
+      internalID: 6221442833899430382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_26
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 220
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35647e4460795f260800000000000000
+      internalID: 7130771638192653907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8549435bfd2c40f0800000000000000
+      internalID: -1131478848919485046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 229
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2905f5b74ea3dfb0800000000000000
+      internalID: -4624160769360721619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 223
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3bc6b7ab4907100800000000000000
+      internalID: 103746320085070764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46423c1638abbd5e0800000000000000
+      internalID: -1883706945680759708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 158
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8af41386c988620800000000000000
+      internalID: 2776641141591746790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_32
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 159
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150a78fac58273750800000000000000
+      internalID: 6284536183565819985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_33
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 191
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621eb72e8c15d9790800000000000000
+      internalID: -7521765879403781850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_34
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 161
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324aa2340ba5a0fa0800000000000000
+      internalID: -5833750654217444317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_35
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 159
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75b03ad14a7e8260800000000000000
+      internalID: 7101748085661939071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_36
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 159
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada2e926bff772340800000000000000
+      internalID: 4838977042300938970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_37
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 191
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdd9e399b84b1ea0800000000000000
+      internalID: -5901042924851175948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_38
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 127
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd502c628506a51c0800000000000000
+      internalID: -4514189744761862689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_39
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 125
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176b3d7227cb16a90800000000000000
+      internalID: -7322364320647235983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_40
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 159
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9009f305bd9f4d480800000000000000
+      internalID: -8875194245300908023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_41
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 192
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742346beef205f6e0800000000000000
+      internalID: -1804532781797854649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_42
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 159
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18182a84dac78090800000000000000
+      internalID: -8032228396192229345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_43
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 159
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1078cc21e3f4a740800000000000000
+      internalID: 5162519221317955614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_44
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 179
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa352ee4c5076710800000000000000
+      internalID: 1686322928840686250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 67
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78706d10ad8cfb4e0800000000000000
+      internalID: -1963630073851017337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_46
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 159
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5ce17590fdfd480800000000000000
+      internalID: -8872127509687253540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_47
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 129
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74e4f6e85c746600800000000000000
+      internalID: 460629783172408445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_48
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe668089cee535210800000000000000
+      internalID: 1320503486005667567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 95
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0724bb9117873e7b0800000000000000
+      internalID: -5196177117897080208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_50
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 30
+        width: 62
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84ccec892dd31590800000000000000
+      internalID: -7704571366973062003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_51
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 66
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e36c74a6a1f310d0800000000000000
+      internalID: -3453150791236557850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 66
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af623f653320e94b0800000000000000
+      internalID: -5431901681036876038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_53
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 125
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8165aaa45808a50800000000000000
+      internalID: 6521358816164321499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_54
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 99
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce81dfced93373f0800000000000000
+      internalID: -904315471039197492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_55
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 79
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c27cb874157c5a0800000000000000
+      internalID: -6501138169356407772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_56
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 81
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7384868433244b00800000000000000
+      internalID: 811812541335634810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_57
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 78
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422e8f4c5f26b7dc0800000000000000
+      internalID: -3640207066087759324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_58
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 106
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d297bfd3a786def20800000000000000
+      internalID: 3453531363498228013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_59
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 63
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc1f9b8699a6af00800000000000000
+      internalID: 1127775220755537118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_60
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 64
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a1b312651196fc0800000000000000
+      internalID: -3501248173681468773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_61
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 65
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9e9dbad3cef93f0800000000000000
+      internalID: -891734451575723529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_62
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 69
+        width: 130
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9faab168cdce190800000000000000
+      internalID: -7931722375158367762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_63
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 72
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef3aa03c9c9fa9b0800000000000000
+      internalID: -5066658861123223583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1ace4e75c16b470800000000000000
+      internalID: 8409940517989425649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_65
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 30
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d42d7251c4513d0800000000000000
+      internalID: -3236597103449715406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_66
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 26
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c17c84067f799560800000000000000
+      internalID: 7321022814126633415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_67
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 29
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df263a3834cb3530800000000000000
+      internalID: 3835875253409951705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_68
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 18
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9958bc6ceded190800000000000000
+      internalID: -7935660547980813873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_69
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 18
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0a0d346fbff79b0800000000000000
+      internalID: -5080064819532357422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_70
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 18
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbceed191bfb745d0800000000000000
+      internalID: -3078281050907022149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_71
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 37
+        width: 130
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fb91d0dbba1cde0800000000000000
+      internalID: -1314580787758514322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_72
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 5
+        width: 130
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed4fc05dcbd4cc00800000000000000
+      internalID: 920101898760965603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_73
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 55
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85767a50063d4280800000000000000
+      internalID: -9057523900426586738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_74
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 5
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d7545d90361dba0800000000000000
+      internalID: -6065958329207390955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_75
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8f8ccada34311c0800000000000000
+      internalID: -4534205986624702226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_76
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 9
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df5256c0a28d0cc0800000000000000
+      internalID: -3743192088241348647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_0: -4709117513863011714
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_1: 5975148743274590615
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_10: -8027696006173613774
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_11: 666610212443085015
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_12: 3219769928543669848
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_13: -595438783039876095
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_14: -3879296968791492559
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_15: -4013442079591503281
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_16: 7041627065633825257
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_17: 1367934705003984758
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_18: 6583956168683222630
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_19: 6970833500097359622
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_2: -7937532756891733606
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_20: -6577559498147815553
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_21: 7291491034788455599
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_22: -3086995856120344630
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_23: -332883375395977139
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_24: 9197297620517815574
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_25: 6221442833899430382
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_26: 7130771638192653907
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_27: -1131478848919485046
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_28: -4624160769360721619
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_29: 103746320085070764
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_3: -5752401617065939646
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_30: -1883706945680759708
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_31: 2776641141591746790
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_32: 6284536183565819985
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_33: -7521765879403781850
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_34: -5833750654217444317
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_35: 7101748085661939071
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_36: 4838977042300938970
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_37: -5901042924851175948
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_38: -4514189744761862689
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_39: -7322364320647235983
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_4: 1980654165690479929
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_40: -8875194245300908023
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_41: -1804532781797854649
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_42: -8032228396192229345
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_43: 5162519221317955614
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_44: 1686322928840686250
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_45: -1963630073851017337
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_46: -8872127509687253540
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_47: 460629783172408445
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_48: 1320503486005667567
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_49: -5196177117897080208
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_5: -2034628803457952855
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_50: -7704571366973062003
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_51: -3453150791236557850
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_52: -5431901681036876038
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_53: 6521358816164321499
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_54: -904315471039197492
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_55: -6501138169356407772
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_56: 811812541335634810
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_57: -3640207066087759324
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_58: 3453531363498228013
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_59: 1127775220755537118
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_6: 2347032166641332328
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_60: -3501248173681468773
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_61: -891734451575723529
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_62: -7931722375158367762
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_63: -5066658861123223583
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_64: 8409940517989425649
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_65: -3236597103449715406
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_66: 7321022814126633415
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_67: 3835875253409951705
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_68: -7935660547980813873
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_69: -5080064819532357422
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_7: -733857665094438985
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_70: -3078281050907022149
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_71: -1314580787758514322
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_72: 920101898760965603
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_73: -9057523900426586738
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_74: -6065958329207390955
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_75: -4534205986624702226
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_76: -3743192088241348647
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_8: 2844953224373922601
+      outside_b_shua_by_shuatinwe_dax6nc8-375w-2x_9: -7183176418754324073
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 0093cfaf61c3ca9459f1eee69d8e3ce9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1029496182652567875
+    second: Streaming_water2_0
+  - first:
+      213: 7371243183189418573
+    second: Streaming_water2_1
+  - first:
+      213: 8786608176942093493
+    second: Streaming_water2_2
+  - first:
+      213: 4339538704610501537
+    second: Streaming_water2_3
+  - first:
+      213: 4262743138359221604
+    second: Streaming_water2_4
+  - first:
+      213: -4022113966004963621
+    second: Streaming_water2_5
+  - first:
+      213: -5653387485774471826
+    second: Streaming_water2_6
+  - first:
+      213: -3706810935816606108
+    second: Streaming_water2_7
+  - first:
+      213: -8862936679099565834
+    second: Streaming_water2_8
+  - first:
+      213: -351039080670996362
+    second: Streaming_water2_9
+  - first:
+      213: -5007564070971416524
+    second: Streaming_water2_10
+  - first:
+      213: 1978141498976775964
+    second: Streaming_water2_11
+  - first:
+      213: 1905375312499142611
+    second: Streaming_water2_12
+  - first:
+      213: -8791866391967166665
+    second: Streaming_water2_13
+  - first:
+      213: 3352476519998957797
+    second: Streaming_water2_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Streaming_water2_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 432
+        width: 163
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34180a8d251894e00800000000000000
+      internalID: 1029496182652567875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_water2_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 394
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42660fde9aeb4660800000000000000
+      internalID: 7371243183189418573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_water2_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 394
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b41d2f559d40f970800000000000000
+      internalID: 8786608176942093493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_water2_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 394
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a32e51c573293c30800000000000000
+      internalID: 4339538704610501537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_water2_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 394
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d92a2ac4e482b30800000000000000
+      internalID: 4262743138359221604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_water2_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 394
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6f22278a49e28c0800000000000000
+      internalID: -4022113966004963621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_water2_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 394
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d16ccd8022b81b0800000000000000
+      internalID: -5653387485774471826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_water2_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 394
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e2e19e713ce8cc0800000000000000
+      internalID: -3706810935816606108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_water2_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 394
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f87d775c06800580800000000000000
+      internalID: -8862936679099565834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_water2_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 394
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6785356e0dbd02bf0800000000000000
+      internalID: -351039080670996362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_water2_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 394
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4306db7320f818ab0800000000000000
+      internalID: -5007564070971416524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_water2_11
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 394
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f28f17635c37b10800000000000000
+      internalID: 1978141498976775964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_water2_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 394
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df6f4960c0417a10800000000000000
+      internalID: 1905375312499142611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_water2_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 394
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f0a1a09140df580800000000000000
+      internalID: -8791866391967166665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streaming_water2_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4
+        width: 602
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8206cf1a3668e20800000000000000
+      internalID: 3352476519998957797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Streaming_water2_0: 1029496182652567875
+      Streaming_water2_1: 7371243183189418573
+      Streaming_water2_10: -5007564070971416524
+      Streaming_water2_11: 1978141498976775964
+      Streaming_water2_12: 1905375312499142611
+      Streaming_water2_13: -8791866391967166665
+      Streaming_water2_14: 3352476519998957797
+      Streaming_water2_2: 8786608176942093493
+      Streaming_water2_3: 4339538704610501537
+      Streaming_water2_4: 4262743138359221604
+      Streaming_water2_5: -4022113966004963621
+      Streaming_water2_6: -5653387485774471826
+      Streaming_water2_7: -3706810935816606108
+      Streaming_water2_8: -8862936679099565834
+      Streaming_water2_9: -351039080670996362
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

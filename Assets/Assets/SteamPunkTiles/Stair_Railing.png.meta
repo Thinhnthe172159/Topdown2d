@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: 39fec7aec48b4424a97f5ad9822bb67e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5945413213387363861
+    second: Stair_Railing_0
+  - first:
+      213: -4406307608704413271
+    second: Stair_Railing_1
+  - first:
+      213: 7075320609597973128
+    second: Stair_Railing_2
+  - first:
+      213: 9142420019927305535
+    second: Stair_Railing_3
+  - first:
+      213: -5978474483175267637
+    second: Stair_Railing_4
+  - first:
+      213: -2309111015740995599
+    second: Stair_Railing_5
+  - first:
+      213: 8868450638895545916
+    second: Stair_Railing_6
+  - first:
+      213: 6313619029422188586
+    second: Stair_Railing_7
+  - first:
+      213: 2572193478772455349
+    second: Stair_Railing_8
+  - first:
+      213: -5016075191996616443
+    second: Stair_Railing_9
+  - first:
+      213: 7086398720234036836
+    second: Stair_Railing_10
+  - first:
+      213: -8055412900796986220
+    second: Stair_Railing_11
+  - first:
+      213: 5673613360785009608
+    second: Stair_Railing_12
+  - first:
+      213: 1326182519885098929
+    second: Stair_Railing_13
+  - first:
+      213: 2800530763450329387
+    second: Stair_Railing_14
+  - first:
+      213: -1808798221527261731
+    second: Stair_Railing_15
+  - first:
+      213: 5392935160727626983
+    second: Stair_Railing_16
+  - first:
+      213: 4059961475767964563
+    second: Stair_Railing_17
+  - first:
+      213: -2335826156202833988
+    second: Stair_Railing_18
+  - first:
+      213: -8917985582520413546
+    second: Stair_Railing_19
+  - first:
+      213: -7295218042436695171
+    second: Stair_Railing_20
+  - first:
+      213: 256601304501147441
+    second: Stair_Railing_21
+  - first:
+      213: 6627643630181838009
+    second: Stair_Railing_22
+  - first:
+      213: 6812055464683379828
+    second: Stair_Railing_23
+  - first:
+      213: -3181850937223218432
+    second: Stair_Railing_24
+  - first:
+      213: 5956697550489619554
+    second: Stair_Railing_25
+  - first:
+      213: -1559070896124348199
+    second: Stair_Railing_26
+  - first:
+      213: 3458708347643577690
+    second: Stair_Railing_27
+  - first:
+      213: 7736641352391926608
+    second: Stair_Railing_28
+  - first:
+      213: 73064388755536867
+    second: Stair_Railing_29
+  - first:
+      213: -442654004803210117
+    second: Stair_Railing_30
+  - first:
+      213: 5204005031218503409
+    second: Stair_Railing_31
+  - first:
+      213: 8513363151352656170
+    second: Stair_Railing_32
+  - first:
+      213: -7655345000371848104
+    second: Stair_Railing_33
+  - first:
+      213: 7707431602278960621
+    second: Stair_Railing_34
+  - first:
+      213: -3347287262880718279
+    second: Stair_Railing_35
+  - first:
+      213: -1243716215103122554
+    second: Stair_Railing_36
+  - first:
+      213: -5618163692587252511
+    second: Stair_Railing_37
+  - first:
+      213: 4015828558483646283
+    second: Stair_Railing_38
+  - first:
+      213: -6349930048658787020
+    second: Stair_Railing_39
+  - first:
+      213: -8283961266094271714
+    second: Stair_Railing_40
+  - first:
+      213: 49209857503774188
+    second: Stair_Railing_41
+  - first:
+      213: -1751386802358591020
+    second: Stair_Railing_42
+  - first:
+      213: -1154467872735613344
+    second: Stair_Railing_43
+  - first:
+      213: 4392489079452517861
+    second: Stair_Railing_44
+  - first:
+      213: 4767525021818984325
+    second: Stair_Railing_45
+  - first:
+      213: 8208002192053818351
+    second: Stair_Railing_46
+  - first:
+      213: -7541434092296352789
+    second: Stair_Railing_47
+  - first:
+      213: -29147885909226386
+    second: Stair_Railing_48
+  - first:
+      213: -6428839245705071227
+    second: Stair_Railing_49
+  - first:
+      213: 5856909770637359087
+    second: Stair_Railing_50
+  - first:
+      213: -4068982549232847938
+    second: Stair_Railing_51
+  - first:
+      213: -4590766608953387387
+    second: Stair_Railing_52
+  - first:
+      213: 771012259872037279
+    second: Stair_Railing_53
+  - first:
+      213: -4083909572472838978
+    second: Stair_Railing_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stair_Railing_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 480
+        width: 163
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5161ed241d9528250800000000000000
+      internalID: 5945413213387363861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 455
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a192145396a9d2c0800000000000000
+      internalID: -4406307608704413271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 455
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88266179b96903260800000000000000
+      internalID: 7075320609597973128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 455
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dcf2bc19660ee70800000000000000
+      internalID: 9142420019927305535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 455
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2e9930221380da0800000000000000
+      internalID: -5978474483175267637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 455
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f701dfe3c364ffd0800000000000000
+      internalID: -2309111015740995599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 455
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e74777ed0131b70800000000000000
+      internalID: 8868450638895545916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 406
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a282bd76e0b7e9750800000000000000
+      internalID: 6313619029422188586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 406
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7fec3475442b320800000000000000
+      internalID: 2572193478772455349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 406
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501746e6032536ab0800000000000000
+      internalID: -5016075191996616443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 406
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e15583712f75260800000000000000
+      internalID: 7086398720234036836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 406
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c85e865ac653090800000000000000
+      internalID: -8055412900796986220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_12
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 406
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb2082aa49bcbe40800000000000000
+      internalID: 5673613360785009608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_13
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 406
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf6515b9fb876210800000000000000
+      internalID: 1326182519885098929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_14
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 406
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29a20a34eb7dd620800000000000000
+      internalID: 2800530763450329387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 298
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd5287d99bd5e6e0800000000000000
+      internalID: -1808798221527261731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_16
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 298
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e462e7a4fd87da40800000000000000
+      internalID: 5392935160727626983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 298
+        width: 66
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3939bec9371e75830800000000000000
+      internalID: 4059961475767964563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_18
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 298
+        width: 66
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7c6769c7a759fd0800000000000000
+      internalID: -2335826156202833988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 298
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692d0d9bc53fc3480800000000000000
+      internalID: -8917985582520413546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_20
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 298
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b4a8597dd22ca90800000000000000
+      internalID: -7295218042436695171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_21
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 298
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13751b3e681af8300800000000000000
+      internalID: 256601304501147441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_22
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 298
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc6ed254ce1afb50800000000000000
+      internalID: 6627643630181838009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_23
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 197
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c16b27a58498e50800000000000000
+      internalID: 6812055464683379828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_24
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 197
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bf0964e6bc7d3d0800000000000000
+      internalID: -3181850937223218432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 197
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c8f5bbcd07aa250800000000000000
+      internalID: 5956697550489619554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_26
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 197
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8bbd0c7411d5ae0800000000000000
+      internalID: -1559070896124348199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_27
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 197
+        width: 66
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5549facaeccfff20800000000000000
+      internalID: 3458708347643577690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_28
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 197
+        width: 66
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0532bebc1521e5b60800000000000000
+      internalID: 7736641352391926608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_29
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 197
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb3189aca3930100800000000000000
+      internalID: 73064388755536867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_30
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 197
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74fc4527806bd9f0800000000000000
+      internalID: -442654004803210117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 123
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fedf1ff007583840800000000000000
+      internalID: 5204005031218503409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 123
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2176403eaa852670800000000000000
+      internalID: 8513363151352656170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_33
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 123
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cf5cb2840c2c590800000000000000
+      internalID: -7655345000371848104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_34
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 123
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded0570e43c46fa60800000000000000
+      internalID: 7707431602278960621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_35
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 123
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9322ec618fb0c81d0800000000000000
+      internalID: -3347287262880718279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_36
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 123
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683926d11be6dbee0800000000000000
+      internalID: -1243716215103122554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_37
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 123
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4075d43e54802b0800000000000000
+      internalID: -5618163692587252511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_38
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 78
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4769431cc61bb730800000000000000
+      internalID: 4015828558483646283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_39
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 81
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4353d1d934480e7a0800000000000000
+      internalID: -6349930048658787020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_40
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 81
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e131b596e15790d80800000000000000
+      internalID: -8283961266094271714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_41
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 78
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5c5fbca14dea000800000000000000
+      internalID: 49209857503774188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 11
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1eb158bf2d1b7e0800000000000000
+      internalID: -1751386802358591020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_43
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 11
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e2efc16918affe0800000000000000
+      internalID: -1154467872735613344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_44
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 52
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5cc8c9b8145fc30800000000000000
+      internalID: 4392489079452517861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_45
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 46
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5879e477fb6a92240800000000000000
+      internalID: 4767525021818984325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_46
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 16
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3defc718ea8e170800000000000000
+      internalID: 8208002192053818351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_47
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 48
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebc7a736a1775790800000000000000
+      internalID: -7541434092296352789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_48
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 15
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c4d66f622789ff0800000000000000
+      internalID: -29147885909226386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_49
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 48
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585b8a974cc28c6a0800000000000000
+      internalID: -6428839245705071227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_50
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 15
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7ba58b76ce74150800000000000000
+      internalID: 5856909770637359087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_51
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 46
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb376bb0ee11887c0800000000000000
+      internalID: -4068982549232847938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_52
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 16
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586db9297125a40c0800000000000000
+      internalID: -4590766608953387387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_53
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 11
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99d42bb09f23ba00800000000000000
+      internalID: 771012259872037279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stair_Railing_54
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 11
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb460fd91e90357c0800000000000000
+      internalID: -4083909572472838978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Stair_Railing_0: 5945413213387363861
+      Stair_Railing_1: -4406307608704413271
+      Stair_Railing_10: 7086398720234036836
+      Stair_Railing_11: -8055412900796986220
+      Stair_Railing_12: 5673613360785009608
+      Stair_Railing_13: 1326182519885098929
+      Stair_Railing_14: 2800530763450329387
+      Stair_Railing_15: -1808798221527261731
+      Stair_Railing_16: 5392935160727626983
+      Stair_Railing_17: 4059961475767964563
+      Stair_Railing_18: -2335826156202833988
+      Stair_Railing_19: -8917985582520413546
+      Stair_Railing_2: 7075320609597973128
+      Stair_Railing_20: -7295218042436695171
+      Stair_Railing_21: 256601304501147441
+      Stair_Railing_22: 6627643630181838009
+      Stair_Railing_23: 6812055464683379828
+      Stair_Railing_24: -3181850937223218432
+      Stair_Railing_25: 5956697550489619554
+      Stair_Railing_26: -1559070896124348199
+      Stair_Railing_27: 3458708347643577690
+      Stair_Railing_28: 7736641352391926608
+      Stair_Railing_29: 73064388755536867
+      Stair_Railing_3: 9142420019927305535
+      Stair_Railing_30: -442654004803210117
+      Stair_Railing_31: 5204005031218503409
+      Stair_Railing_32: 8513363151352656170
+      Stair_Railing_33: -7655345000371848104
+      Stair_Railing_34: 7707431602278960621
+      Stair_Railing_35: -3347287262880718279
+      Stair_Railing_36: -1243716215103122554
+      Stair_Railing_37: -5618163692587252511
+      Stair_Railing_38: 4015828558483646283
+      Stair_Railing_39: -6349930048658787020
+      Stair_Railing_4: -5978474483175267637
+      Stair_Railing_40: -8283961266094271714
+      Stair_Railing_41: 49209857503774188
+      Stair_Railing_42: -1751386802358591020
+      Stair_Railing_43: -1154467872735613344
+      Stair_Railing_44: 4392489079452517861
+      Stair_Railing_45: 4767525021818984325
+      Stair_Railing_46: 8208002192053818351
+      Stair_Railing_47: -7541434092296352789
+      Stair_Railing_48: -29147885909226386
+      Stair_Railing_49: -6428839245705071227
+      Stair_Railing_5: -2309111015740995599
+      Stair_Railing_50: 5856909770637359087
+      Stair_Railing_51: -4068982549232847938
+      Stair_Railing_52: -4590766608953387387
+      Stair_Railing_53: 771012259872037279
+      Stair_Railing_54: -4083909572472838978
+      Stair_Railing_6: 8868450638895545916
+      Stair_Railing_7: 6313619029422188586
+      Stair_Railing_8: 2572193478772455349
+      Stair_Railing_9: -5016075191996616443
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

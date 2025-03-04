@@ -1,0 +1,3887 @@
+fileFormatVersion: 2
+guid: e91c04534b7fea94884e65709a250a55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4872184569348993693
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_0
+  - first:
+      213: 6035636183743629764
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_1
+  - first:
+      213: -2768550559752448761
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_2
+  - first:
+      213: 7068824012673895025
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_3
+  - first:
+      213: -182939278899722936
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_4
+  - first:
+      213: -5954928684610007070
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_5
+  - first:
+      213: 3083157769438578410
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_6
+  - first:
+      213: -765972328563366460
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_7
+  - first:
+      213: -886444350366696580
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_8
+  - first:
+      213: 6468826019554217524
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_9
+  - first:
+      213: 4867711844590155366
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_10
+  - first:
+      213: 8168502868865970789
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_11
+  - first:
+      213: -1615067163607845910
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_12
+  - first:
+      213: 272364348309669236
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_13
+  - first:
+      213: -8598022609981978437
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_14
+  - first:
+      213: -3161959783450979086
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_15
+  - first:
+      213: 9142544948631701646
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_16
+  - first:
+      213: 4405326194705641741
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_17
+  - first:
+      213: -1864520883741467029
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_18
+  - first:
+      213: 553655376294054598
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_19
+  - first:
+      213: 8068507989291914187
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_20
+  - first:
+      213: -2043163237874576381
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_21
+  - first:
+      213: 5529550729976508864
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_22
+  - first:
+      213: 1080686039652157669
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_23
+  - first:
+      213: 479013936569376564
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_24
+  - first:
+      213: 1535188395517264137
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_25
+  - first:
+      213: -2587059975743380003
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_26
+  - first:
+      213: 6848038270901703494
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_27
+  - first:
+      213: -4512101470751955024
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_28
+  - first:
+      213: 8748287575415835796
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_29
+  - first:
+      213: -6649928960321016759
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_30
+  - first:
+      213: -8483649124381068499
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_31
+  - first:
+      213: 2669495808599380644
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_32
+  - first:
+      213: 9067588418930183837
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_33
+  - first:
+      213: 5704919557353381647
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_34
+  - first:
+      213: -2098729185193563078
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_35
+  - first:
+      213: -5298649991680383876
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_36
+  - first:
+      213: -682485063988278960
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_37
+  - first:
+      213: 8441448904486271618
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_38
+  - first:
+      213: 8013961636576784326
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_39
+  - first:
+      213: 2831087116859420032
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_40
+  - first:
+      213: 262941005510482841
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_41
+  - first:
+      213: -4766701016784982864
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_42
+  - first:
+      213: 4416742888171903687
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_43
+  - first:
+      213: -505725755575587709
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_44
+  - first:
+      213: -3531059908636984528
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_45
+  - first:
+      213: 4087115733097911389
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_46
+  - first:
+      213: -566028273509489401
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_47
+  - first:
+      213: 7821813687701156911
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_48
+  - first:
+      213: 898097729139869132
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_49
+  - first:
+      213: 1458952492414858499
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_50
+  - first:
+      213: 8845674427672750225
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_51
+  - first:
+      213: 327018715845813025
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_52
+  - first:
+      213: 3271827851666686892
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_53
+  - first:
+      213: -4757428002186540002
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_54
+  - first:
+      213: -4383934765413983471
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_55
+  - first:
+      213: -96429801607841731
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_56
+  - first:
+      213: -3696545059183057326
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_57
+  - first:
+      213: -4986870301965305111
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_58
+  - first:
+      213: -3299212048062983960
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_59
+  - first:
+      213: -8755002676952694990
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_60
+  - first:
+      213: -4514949065280214873
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_61
+  - first:
+      213: 6009736497938544127
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_62
+  - first:
+      213: 7083150071635784562
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_63
+  - first:
+      213: -5734894129217178065
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_64
+  - first:
+      213: 1541226887011275362
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_65
+  - first:
+      213: 1302832705082364861
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_66
+  - first:
+      213: 7190607583912120718
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_67
+  - first:
+      213: 426843722542715812
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_68
+  - first:
+      213: 8629566115501839439
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_69
+  - first:
+      213: -7513583860859612593
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_70
+  - first:
+      213: 7988996528148699513
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_71
+  - first:
+      213: 5840590312073715289
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_72
+  - first:
+      213: -3940986295305901748
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_73
+  - first:
+      213: 3891688513150966689
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_74
+  - first:
+      213: -2677800199302330275
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_75
+  - first:
+      213: 5250634265664977504
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_76
+  - first:
+      213: -3195372678206165428
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_77
+  - first:
+      213: -2847310194692577742
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_78
+  - first:
+      213: 6660666492284408596
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_79
+  - first:
+      213: 2696980977458071448
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_80
+  - first:
+      213: 7979428855642425335
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_81
+  - first:
+      213: -1211419644061853121
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_82
+  - first:
+      213: -20693774100293601
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_83
+  - first:
+      213: -6973221851564321450
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_84
+  - first:
+      213: -2778753710003600914
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_85
+  - first:
+      213: 221636133705556714
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_86
+  - first:
+      213: -6242930837680886716
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_87
+  - first:
+      213: 6952115829398262873
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_88
+  - first:
+      213: -4812039424821192881
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_89
+  - first:
+      213: 5545865990199982196
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_90
+  - first:
+      213: -6934033926157840723
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_91
+  - first:
+      213: 203139191052867502
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_92
+  - first:
+      213: -2432534199079396403
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_93
+  - first:
+      213: 172999523962819930
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_94
+  - first:
+      213: 7901928937303872367
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_95
+  - first:
+      213: 6423277328462296065
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_96
+  - first:
+      213: 2358205599178446849
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_97
+  - first:
+      213: 370547990758514593
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_98
+  - first:
+      213: 1686530990293843195
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_99
+  - first:
+      213: -9108463681595579710
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_100
+  - first:
+      213: 6185653740044657814
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_101
+  - first:
+      213: 708848648060872691
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_102
+  - first:
+      213: 8075613795926307783
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_103
+  - first:
+      213: -6420296009545331769
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_104
+  - first:
+      213: -2101812764517662314
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_105
+  - first:
+      213: -1807871997201511085
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_106
+  - first:
+      213: -3823714985828908017
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_107
+  - first:
+      213: -5620802118936674411
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_108
+  - first:
+      213: 7094503741530632236
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_109
+  - first:
+      213: -1696715827883935212
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_110
+  - first:
+      213: 4131499171953875898
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_111
+  - first:
+      213: -2641886913433484817
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_112
+  - first:
+      213: 1470287140216580951
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_113
+  - first:
+      213: 5682086248669714699
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_114
+  - first:
+      213: 6054413671408557690
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_115
+  - first:
+      213: -8132771897433497595
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_116
+  - first:
+      213: -4075657099726755843
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_117
+  - first:
+      213: 3030254493996434757
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_118
+  - first:
+      213: 9071469478784529780
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_119
+  - first:
+      213: -8366883787842096301
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_120
+  - first:
+      213: -2699721158486849103
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_121
+  - first:
+      213: -5131964867787244185
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_122
+  - first:
+      213: 9098070129723740854
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_123
+  - first:
+      213: 5408781136995554683
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_124
+  - first:
+      213: -3444106813380927676
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_125
+  - first:
+      213: 4851185520291808204
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_126
+  - first:
+      213: 3428903720500889842
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_127
+  - first:
+      213: 2957746416407642491
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_128
+  - first:
+      213: 1858128911463348848
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_129
+  - first:
+      213: -2341394906122176732
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_130
+  - first:
+      213: 834182456820050986
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_131
+  - first:
+      213: 714214898067209510
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_132
+  - first:
+      213: 4102868494405661554
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_133
+  - first:
+      213: 1197179253731808361
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_134
+  - first:
+      213: 8285648127254632011
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_135
+  - first:
+      213: 370889711976466278
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_136
+  - first:
+      213: 3219672177980339546
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_137
+  - first:
+      213: -5709428549191404569
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_138
+  - first:
+      213: 9187643218490926147
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_139
+  - first:
+      213: 6330333297379732690
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_140
+  - first:
+      213: -7184072099718027957
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_141
+  - first:
+      213: -7831214566562375583
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_142
+  - first:
+      213: 5724076551964689787
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_143
+  - first:
+      213: -3362925998417272027
+    second: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_144
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92bf284d0a7d9340800000000000000
+      internalID: 4872184569348993693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 719
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c988858123e2c350800000000000000
+      internalID: 6035636183743629764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 719
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7051f3f2fe12499d0800000000000000
+      internalID: -2768550559752448761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 719
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17acd2fbcf1891260800000000000000
+      internalID: 7068824012673895025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 719
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84547b1f1b1167df0800000000000000
+      internalID: -182939278899722936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 719
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef490379e7db5da0800000000000000
+      internalID: -5954928684610007070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 719
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae64fd1f7a399ca20800000000000000
+      internalID: 3083157769438578410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 719
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5a338b938be55f0800000000000000
+      internalID: -765972328563366460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_8
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 747
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bbd375f87b2b3f0800000000000000
+      internalID: -886444350366696580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_9
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 725
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e4551ddf2e5c950800000000000000
+      internalID: 6468826019554217524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_10
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 725
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666f1c5e1269d8340800000000000000
+      internalID: 4867711844590155366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_11
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 732
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562f385a41a5c5170800000000000000
+      internalID: 8168502868865970789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_12
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 732
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3b1c0c8f02699e0800000000000000
+      internalID: -1615067163607845910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_13
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 728
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4758a768ee1a7c300800000000000000
+      internalID: 272364348309669236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_14
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 728
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb84f319dffada880800000000000000
+      internalID: -8598022609981978437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_15
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 728
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4555964567e14d0800000000000000
+      internalID: -3161959783450979086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_16
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 728
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e880c360138d0ee70800000000000000
+      internalID: 9142544948631701646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 538
+        width: 343
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01372b65dcd22d30800000000000000
+      internalID: 4405326194705641741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_18
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 723
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6eda488224ef16e0800000000000000
+      internalID: -1864520883741467029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_19
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 724
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca0eff91aafea700800000000000000
+      internalID: 553655376294054598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 673
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc35529744919ff60800000000000000
+      internalID: 8068507989291914187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 575
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304595c3cd935a3e0800000000000000
+      internalID: -2043163237874576381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 673
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c170c39719ecbc40800000000000000
+      internalID: 5529550729976508864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 673
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8c0333a3e5ffe00800000000000000
+      internalID: 1080686039652157669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_24
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 623
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fddab23acc5a600800000000000000
+      internalID: 479013936569376564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 673
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901cb1246b51e4510800000000000000
+      internalID: 1535188395517264137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_26
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 671
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd56f2da8aae81cd0800000000000000
+      internalID: -2587059975743380003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_27
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 527
+        width: 133
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6435061668e190f50800000000000000
+      internalID: 6848038270901703494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_28
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 611
+        width: 42
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7ef455e9bc161c0800000000000000
+      internalID: -4512101470751955024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_29
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 548
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ccf9d0339286970800000000000000
+      internalID: 8748287575415835796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 625
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cab7ae7d4b6b3a0800000000000000
+      internalID: -6649928960321016759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_31
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 591
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d237636d116044a80800000000000000
+      internalID: -8483649124381068499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 535
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2d5f85b44fb0520800000000000000
+      internalID: 2669495808599380644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_33
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 533
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e87c7ff9b86dd70800000000000000
+      internalID: 9067588418930183837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_34
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 533
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f1a388c12fb2f40800000000000000
+      internalID: 5704919557353381647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_35
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 543
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ceac4fce0dfd2e0800000000000000
+      internalID: -2098729185193563078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_36
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 500
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74a3c0f7e96776b0800000000000000
+      internalID: -5298649991680383876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_37
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 464
+        width: 54
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059087443735786f0800000000000000
+      internalID: -682485063988278960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_38
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 482
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ab38dcd0d062570800000000000000
+      internalID: 8441448904486271618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_39
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 482
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf64cf06af473f60800000000000000
+      internalID: 8013961636576784326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_40
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 481
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d2798abba0a4720800000000000000
+      internalID: 2831087116859420032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_41
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 482
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b165e837726a300800000000000000
+      internalID: 262941005510482841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_42
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 482
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bca9082ea649ddb0800000000000000
+      internalID: -4766701016784982864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_43
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 481
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca18b1814c6b4d30800000000000000
+      internalID: 4416742888171903687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_44
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 486
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ca621da1d4bf8f0800000000000000
+      internalID: -505725755575587709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_45
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 486
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bb111b8b72ffec0800000000000000
+      internalID: -3531059908636984528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_46
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 464
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d541633da1a58b830800000000000000
+      internalID: 4087115733097911389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_47
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 491
+        width: 97
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705a3a0c8401528f0800000000000000
+      internalID: -566028273509489401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 442
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2437b27b1aac8c60800000000000000
+      internalID: 7821813687701156911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_49
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 440
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc587f6502fa67c00800000000000000
+      internalID: 898097729139869132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 437
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305fe8edf8d3f3410800000000000000
+      internalID: 1458952492414858499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_51
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 433
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198e03c860622ca70800000000000000
+      internalID: 8845674427672750225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_52
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 437
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123e4e81acdc98400800000000000000
+      internalID: 327018715845813025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_53
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 433
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca382d0a81ed76d20800000000000000
+      internalID: 3271827851666686892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_54
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 436
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ccc2d10783afdb0800000000000000
+      internalID: -4757428002186540002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_55
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 436
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b9305de822923c0800000000000000
+      internalID: -4383934765413983471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_56
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 436
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3837693b9969aef0800000000000000
+      internalID: -96429801607841731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_57
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 456
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2562b239adb33bcc0800000000000000
+      internalID: -3696545059183057326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_58
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 442
+        width: 97
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eab966c1e31bcab0800000000000000
+      internalID: -4986870301965305111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_59
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 393
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0548c4f18d632d0800000000000000
+      internalID: -3299212048062983960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_60
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 393
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ff3a8837bff7680800000000000000
+      internalID: -8755002676952694990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 387
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8adf01fbda751c0800000000000000
+      internalID: -4514949065280214873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_62
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 388
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5b351018fd66350800000000000000
+      internalID: 6009736497938544127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_63
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 389
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27332a646776c4260800000000000000
+      internalID: 7083150071635784562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_64
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 389
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26798b9c209960b0800000000000000
+      internalID: -5734894129217178065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_65
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 388
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262969e10b9836510800000000000000
+      internalID: 1541226887011275362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_66
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 389
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3123c4177941210800000000000000
+      internalID: 1302832705082364861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_67
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 391
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81df46008b2ac360800000000000000
+      internalID: 7190607583912120718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_68
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 387
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a393c8aa147ce500800000000000000
+      internalID: 426843722542715812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_69
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 387
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f441c3029a062c770800000000000000
+      internalID: 8629566115501839439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_70
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 387
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42da5789436ab790800000000000000
+      internalID: -7513583860859612593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_71
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 389
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979d12cc30e9ede60800000000000000
+      internalID: 7988996528148699513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_72
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 389
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95eddbda1f1fd0150800000000000000
+      internalID: 5840590312073715289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_73
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 287
+        width: 137
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49eb9b38ddce49c0800000000000000
+      internalID: -3940986295305901748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_74
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 336
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abd4da651e020630800000000000000
+      internalID: 3891688513150966689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_75
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 341
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d584d1508ea86dad0800000000000000
+      internalID: -2677800199302330275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_76
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 343
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a747aab000ed840800000000000000
+      internalID: 5250634265664977504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_77
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 346
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e688e9a71c7a3d0800000000000000
+      internalID: -3195372678206165428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_78
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 342
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2362000b6725c78d0800000000000000
+      internalID: -2847310194692577742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_79
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 342
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41395ff82e07f6c50800000000000000
+      internalID: 6660666492284408596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_80
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 342
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897cf57e8e99d6520800000000000000
+      internalID: 2696980977458071448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_81
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 340
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f781137440acbe60800000000000000
+      internalID: 7979428855642425335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_82
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 143
+        width: 44
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a53c9804c203fe0800000000000000
+      internalID: -1211419644061853121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_83
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 143
+        width: 44
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1890b14f1b76bff0800000000000000
+      internalID: -20693774100293601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_84
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 143
+        width: 68
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6555485fba32a3f90800000000000000
+      internalID: -6973221851564321450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_85
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 305
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1cfe42932ef69d0800000000000000
+      internalID: -2778753710003600914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae229eaa3e8631300800000000000000
+      internalID: 221636133705556714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 289
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ce2b6ca77ac59a0800000000000000
+      internalID: -6242930837680886716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_88
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95457a05380ea7060800000000000000
+      internalID: 6952115829398262873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f479b5e63a3383db0800000000000000
+      internalID: -4812039424821192881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_90
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4783acd1cbfd6fc40800000000000000
+      internalID: 5545865990199982196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_91
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daecadad1ec55cf90800000000000000
+      internalID: -6934033926157840723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_92
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 145
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea79aaa9402b1d200800000000000000
+      internalID: 203139191052867502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_93
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 257
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb12e7b807ed3ed0800000000000000
+      internalID: -2432534199079396403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_94
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 249
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a559d14862e966200800000000000000
+      internalID: 172999523962819930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_95
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 243
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f639064908a49ad60800000000000000
+      internalID: 7901928937303872367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_96
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 243
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104b0d0c2b0142950800000000000000
+      internalID: 6423277328462296065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_97
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 243
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1085e568f770ab020800000000000000
+      internalID: 2358205599178446849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_98
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 241
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af55613f63742500800000000000000
+      internalID: 370547990758514593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcf6230003c76710800000000000000
+      internalID: 1686530990293843195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_100
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 197
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2e2f05a8c389180800000000000000
+      internalID: -9108463681595579710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 197
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694ade6bd4bd7d550800000000000000
+      internalID: 6185653740044657814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_102
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 198
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f72f2bf61656d900800000000000000
+      internalID: 708848648060872691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_103
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 197
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c37e6106f7521070800000000000000
+      internalID: 8075613795926307783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_104
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 199
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb4136abc686e6a0800000000000000
+      internalID: -6420296009545331769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_105
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 199
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6910b823d6cd4d2e0800000000000000
+      internalID: -2101812764517662314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_106
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 195
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d8d6f3ff529e6e0800000000000000
+      internalID: -1807871997201511085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_107
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 170
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f048453ba7f6feac0800000000000000
+      internalID: -3823714985828908017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_108
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 143
+        width: 39
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f340cc046eef1b0800000000000000
+      internalID: -5620802118936674411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_109
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 209
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20fc9b809db47260800000000000000
+      internalID: 7094503741530632236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_110
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 204
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41af132b1fd0478e0800000000000000
+      internalID: -1696715827883935212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_111
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 157
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb91267b98065930800000000000000
+      internalID: 4131499171953875898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_112
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 157
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe14b0c79d1265bd0800000000000000
+      internalID: -2641886913433484817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_113
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 124
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b2f663d52876410800000000000000
+      internalID: 1470287140216580951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_114
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 148
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0917139653dade40800000000000000
+      internalID: 5682086248669714699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 145
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e539f0829950450800000000000000
+      internalID: 6054413671408557690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 153
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500623e6c07922f80800000000000000
+      internalID: -8132771897433497595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_117
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 153
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7ec78267b5077c0800000000000000
+      internalID: -4075657099726755843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_118
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 150
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54540b54860ad0a20800000000000000
+      internalID: 3030254493996434757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_119
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 148
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475ffb1ad6554ed70800000000000000
+      internalID: 9071469478784529780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_120
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 156
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35372bc468bd2eb80800000000000000
+      internalID: -8366883787842096301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_121
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 109
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b909cbf8e9a88ad0800000000000000
+      internalID: -2699721158486849103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_122
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 103
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76db1cf942997c8b0800000000000000
+      internalID: -5131964867787244185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_123
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 102
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b296cf4496d24e70800000000000000
+      internalID: 9098070129723740854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_124
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 109
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75147289c9df0b40800000000000000
+      internalID: 5408781136995554683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_125
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 110
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f5de3d9131430d0800000000000000
+      internalID: -3444106813380927676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_126
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 113
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3038c278fd25340800000000000000
+      internalID: 4851185520291808204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_127
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 113
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8887544c9e59f20800000000000000
+      internalID: 3428903720500889842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_128
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 100
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7189a5e1b60c0920800000000000000
+      internalID: 2957746416407642491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_129
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 110
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07af7a2766669c910800000000000000
+      internalID: 1858128911463348848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_130
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 5
+        width: 385
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427bda5fcb1b18fd0800000000000000
+      internalID: -2341394906122176732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_131
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 29
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c2f98568c939b00800000000000000
+      internalID: 834182456820050986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_132
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 49
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d769c6aa669e900800000000000000
+      internalID: 714214898067209510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_133
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 56
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273f031682150f830800000000000000
+      internalID: 4102868494405661554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_134
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 56
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964d627303c3d9010800000000000000
+      internalID: 1197179253731808361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_135
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 56
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4694ee82198cf270800000000000000
+      internalID: 8285648127254632011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_136
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 56
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667443d5a3aa52500800000000000000
+      internalID: 370889711976466278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_137
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55f9bd89c29eac20800000000000000
+      internalID: 3219672177980339546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_138
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 40
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3f8fefbf804c0b0800000000000000
+      internalID: -5709428549191404569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_139
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 5
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344ad2934d0118f70800000000000000
+      internalID: 9187643218490926147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_140
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 5
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc652c289cd9d750800000000000000
+      internalID: 6330333297379732690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_141
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b452387fc7c0d4c90800000000000000
+      internalID: -7184072099718027957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_142
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1685f20e7dfe15390800000000000000
+      internalID: -7831214566562375583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_143
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b758ffaeb41007f40800000000000000
+      internalID: 5724076551964689787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_144
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523a96a3f9c7451d0800000000000000
+      internalID: -3362925998417272027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_0: 4872184569348993693
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_1: 6035636183743629764
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_10: 4867711844590155366
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_100: -9108463681595579710
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_101: 6185653740044657814
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_102: 708848648060872691
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_103: 8075613795926307783
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_104: -6420296009545331769
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_105: -2101812764517662314
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_106: -1807871997201511085
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_107: -3823714985828908017
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_108: -5620802118936674411
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_109: 7094503741530632236
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_11: 8168502868865970789
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_110: -1696715827883935212
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_111: 4131499171953875898
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_112: -2641886913433484817
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_113: 1470287140216580951
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_114: 5682086248669714699
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_115: 6054413671408557690
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_116: -8132771897433497595
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_117: -4075657099726755843
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_118: 3030254493996434757
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_119: 9071469478784529780
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_12: -1615067163607845910
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_120: -8366883787842096301
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_121: -2699721158486849103
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_122: -5131964867787244185
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_123: 9098070129723740854
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_124: 5408781136995554683
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_125: -3444106813380927676
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_126: 4851185520291808204
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_127: 3428903720500889842
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_128: 2957746416407642491
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_129: 1858128911463348848
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_13: 272364348309669236
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_130: -2341394906122176732
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_131: 834182456820050986
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_132: 714214898067209510
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_133: 4102868494405661554
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_134: 1197179253731808361
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_135: 8285648127254632011
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_136: 370889711976466278
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_137: 3219672177980339546
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_138: -5709428549191404569
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_139: 9187643218490926147
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_14: -8598022609981978437
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_140: 6330333297379732690
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_141: -7184072099718027957
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_142: -7831214566562375583
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_143: 5724076551964689787
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_144: -3362925998417272027
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_15: -3161959783450979086
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_16: 9142544948631701646
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_17: 4405326194705641741
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_18: -1864520883741467029
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_19: 553655376294054598
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_2: -2768550559752448761
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_20: 8068507989291914187
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_21: -2043163237874576381
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_22: 5529550729976508864
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_23: 1080686039652157669
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_24: 479013936569376564
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_25: 1535188395517264137
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_26: -2587059975743380003
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_27: 6848038270901703494
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_28: -4512101470751955024
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_29: 8748287575415835796
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_3: 7068824012673895025
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_30: -6649928960321016759
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_31: -8483649124381068499
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_32: 2669495808599380644
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_33: 9067588418930183837
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_34: 5704919557353381647
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_35: -2098729185193563078
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_36: -5298649991680383876
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_37: -682485063988278960
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_38: 8441448904486271618
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_39: 8013961636576784326
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_4: -182939278899722936
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_40: 2831087116859420032
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_41: 262941005510482841
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_42: -4766701016784982864
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_43: 4416742888171903687
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_44: -505725755575587709
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_45: -3531059908636984528
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_46: 4087115733097911389
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_47: -566028273509489401
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_48: 7821813687701156911
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_49: 898097729139869132
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_5: -5954928684610007070
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_50: 1458952492414858499
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_51: 8845674427672750225
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_52: 327018715845813025
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_53: 3271827851666686892
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_54: -4757428002186540002
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_55: -4383934765413983471
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_56: -96429801607841731
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_57: -3696545059183057326
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_58: -4986870301965305111
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_59: -3299212048062983960
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_6: 3083157769438578410
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_60: -8755002676952694990
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_61: -4514949065280214873
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_62: 6009736497938544127
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_63: 7083150071635784562
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_64: -5734894129217178065
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_65: 1541226887011275362
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_66: 1302832705082364861
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_67: 7190607583912120718
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_68: 426843722542715812
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_69: 8629566115501839439
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_7: -765972328563366460
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_70: -7513583860859612593
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_71: 7988996528148699513
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_72: 5840590312073715289
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_73: -3940986295305901748
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_74: 3891688513150966689
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_75: -2677800199302330275
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_76: 5250634265664977504
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_77: -3195372678206165428
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_78: -2847310194692577742
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_79: 6660666492284408596
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_8: -886444350366696580
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_80: 2696980977458071448
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_81: 7979428855642425335
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_82: -1211419644061853121
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_83: -20693774100293601
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_84: -6973221851564321450
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_85: -2778753710003600914
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_86: 221636133705556714
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_87: -6242930837680886716
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_88: 6952115829398262873
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_89: -4812039424821192881
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_9: 6468826019554217524
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_90: 5545865990199982196
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_91: -6934033926157840723
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_92: 203139191052867502
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_93: -2432534199079396403
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_94: 172999523962819930
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_95: 7901928937303872367
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_96: 6423277328462296065
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_97: 2358205599178446849
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_98: 370547990758514593
+      starbird_fancy_interior_tiles___rpg_maker_mz_edits_by_starbirdresources_de8u0m7-414w-2x_99: 1686530990293843195
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

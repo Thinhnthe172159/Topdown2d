@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: 2694766dcaaf21942a3dc171f143500e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2229510944716738450
+    second: Gears_0
+  - first:
+      213: 6198666113524724733
+    second: Gears_1
+  - first:
+      213: -3699809108838799437
+    second: Gears_2
+  - first:
+      213: -7588988268096953372
+    second: Gears_3
+  - first:
+      213: 3030986410670448077
+    second: Gears_4
+  - first:
+      213: -8863389756845616966
+    second: Gears_5
+  - first:
+      213: -5189610622820882193
+    second: Gears_6
+  - first:
+      213: -5323000765955103109
+    second: Gears_7
+  - first:
+      213: -2434802345596169201
+    second: Gears_8
+  - first:
+      213: -3094927315547379220
+    second: Gears_9
+  - first:
+      213: 3747755794833906490
+    second: Gears_10
+  - first:
+      213: 8245748648517223660
+    second: Gears_11
+  - first:
+      213: -8178626633462096952
+    second: Gears_12
+  - first:
+      213: -3074989612251932693
+    second: Gears_13
+  - first:
+      213: 6866703738474805302
+    second: Gears_14
+  - first:
+      213: -3607825720065641292
+    second: Gears_15
+  - first:
+      213: 2211530063454290299
+    second: Gears_16
+  - first:
+      213: 1387729667480100113
+    second: Gears_17
+  - first:
+      213: 3258494171582920012
+    second: Gears_18
+  - first:
+      213: 7543332362265157598
+    second: Gears_19
+  - first:
+      213: -8164274958194093506
+    second: Gears_20
+  - first:
+      213: 65035679032605533
+    second: Gears_21
+  - first:
+      213: 3340188691255838663
+    second: Gears_22
+  - first:
+      213: -7415957605413538713
+    second: Gears_23
+  - first:
+      213: 8611304982534309766
+    second: Gears_24
+  - first:
+      213: -4689991264329703283
+    second: Gears_25
+  - first:
+      213: 6051780415729521234
+    second: Gears_26
+  - first:
+      213: -4329246962136537294
+    second: Gears_27
+  - first:
+      213: 7497208640512863545
+    second: Gears_28
+  - first:
+      213: 6731890359672329132
+    second: Gears_29
+  - first:
+      213: 161108057620477659
+    second: Gears_30
+  - first:
+      213: 838059321957446610
+    second: Gears_31
+  - first:
+      213: 160107589157245314
+    second: Gears_32
+  - first:
+      213: 812479055920753214
+    second: Gears_33
+  - first:
+      213: -7652602698380534160
+    second: Gears_34
+  - first:
+      213: -1991346686642735730
+    second: Gears_35
+  - first:
+      213: 2948110095505615498
+    second: Gears_36
+  - first:
+      213: -1714234148448283260
+    second: Gears_37
+  - first:
+      213: 2074268205267709542
+    second: Gears_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gears_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 187
+        width: 163
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fcfaa4460d0fe10800000000000000
+      internalID: 2229510944716738450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 154
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df374e10df5160650800000000000000
+      internalID: 6198666113524724733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 154
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7a8eac733a7acc0800000000000000
+      internalID: -3699809108838799437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 154
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3697bd06f7ea690800000000000000
+      internalID: -7588988268096953372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 154
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd5c07e41a301a20800000000000000
+      internalID: 3030986410670448077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 154
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab09165f9f9eef480800000000000000
+      internalID: -8863389756845616966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 107
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8ea2062accaf7b0800000000000000
+      internalID: -5189610622820882193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 107
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b762d1e7107e026b0800000000000000
+      internalID: -5323000765955103109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 109
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04d374ba28d53ed0800000000000000
+      internalID: -2434802345596169201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 109
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9252f010c9c05d0800000000000000
+      internalID: -3094927315547379220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_10
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 107
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b9cf7f904b20430800000000000000
+      internalID: 3747755794833906490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 107
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4c60e35b8ce6270800000000000000
+      internalID: 8245748648517223660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 113
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb51f9b86eaf7e80800000000000000
+      internalID: -8178626633462096952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 113
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be715b95d317355d0800000000000000
+      internalID: -3074989612251932693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_14
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 115
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63833a53bae6b4f50800000000000000
+      internalID: 6866703738474805302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_15
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 115
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b438f76f9d6eedc0800000000000000
+      internalID: -3607825720065641292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_16
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 117
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b714a4220eee0be10800000000000000
+      internalID: 2211530063454290299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 58
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d1c62b7c4324310800000000000000
+      internalID: 1387729667480100113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 58
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4571ef4f2f783d20800000000000000
+      internalID: 3258494171582920012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 60
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfd58331dc4fa860800000000000000
+      internalID: 7543332362265157598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_20
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 60
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3259348e2ba2be80800000000000000
+      internalID: -8164274958194093506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 58
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bf6720b9d07e000800000000000000
+      internalID: 65035679032605533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_22
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 58
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7c419eaebba5e20800000000000000
+      internalID: 3340188691255838663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_23
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 60
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76438fb69d9351990800000000000000
+      internalID: -7415957605413538713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_24
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 62
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6874288c140818770800000000000000
+      internalID: 8611304982534309766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 7
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8061f13bcdc9eeb0800000000000000
+      internalID: -4689991264329703283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_26
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 8
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2525932793e3cf350800000000000000
+      internalID: 6051780415729521234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 10
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237a9e443dc6be3c0800000000000000
+      internalID: -4329246962136537294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_28
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 10
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d22c0698f6b0860800000000000000
+      internalID: 7497208640512863545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_29
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 7
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca355237d9a7c6d50800000000000000
+      internalID: 6731890359672329132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_30
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 5
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6fbe0ccee5c3200800000000000000
+      internalID: 161108057620477659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_31
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 15
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d37af9538261ab00800000000000000
+      internalID: 838059321957446610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_32
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 17
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281df890101d83200800000000000000
+      internalID: 160107589157245314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_33
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 12
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ae99b8561864b00800000000000000
+      internalID: 812479055920753214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_34
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 13
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e15db146e7cc590800000000000000
+      internalID: -7652602698380534160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_35
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 14
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8532063db05d54e0800000000000000
+      internalID: -1991346686642735730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_36
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 13
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8aea59138ac9e820800000000000000
+      internalID: 2948110095505615498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_37
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 6
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48555e7df11d538e0800000000000000
+      internalID: -1714234148448283260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gears_38
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 7
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e6ed751f749cc10800000000000000
+      internalID: 2074268205267709542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gears_0: 2229510944716738450
+      Gears_1: 6198666113524724733
+      Gears_10: 3747755794833906490
+      Gears_11: 8245748648517223660
+      Gears_12: -8178626633462096952
+      Gears_13: -3074989612251932693
+      Gears_14: 6866703738474805302
+      Gears_15: -3607825720065641292
+      Gears_16: 2211530063454290299
+      Gears_17: 1387729667480100113
+      Gears_18: 3258494171582920012
+      Gears_19: 7543332362265157598
+      Gears_2: -3699809108838799437
+      Gears_20: -8164274958194093506
+      Gears_21: 65035679032605533
+      Gears_22: 3340188691255838663
+      Gears_23: -7415957605413538713
+      Gears_24: 8611304982534309766
+      Gears_25: -4689991264329703283
+      Gears_26: 6051780415729521234
+      Gears_27: -4329246962136537294
+      Gears_28: 7497208640512863545
+      Gears_29: 6731890359672329132
+      Gears_3: -7588988268096953372
+      Gears_30: 161108057620477659
+      Gears_31: 838059321957446610
+      Gears_32: 160107589157245314
+      Gears_33: 812479055920753214
+      Gears_34: -7652602698380534160
+      Gears_35: -1991346686642735730
+      Gears_36: 2948110095505615498
+      Gears_37: -1714234148448283260
+      Gears_38: 2074268205267709542
+      Gears_4: 3030986410670448077
+      Gears_5: -8863389756845616966
+      Gears_6: -5189610622820882193
+      Gears_7: -5323000765955103109
+      Gears_8: -2434802345596169201
+      Gears_9: -3094927315547379220
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1996 @@
+fileFormatVersion: 2
+guid: b2eda8d81eea4104ca6a52d0ecdfaf20
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5997636675982044247
+    second: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ca3cba7c2eb3350800000000000000
+      internalID: 5997636675982044247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecbcf03155e1ea43927209a969706cd
+      internalID: 1952144876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c4765227c92e4468dcc42d46b7d73e
+      internalID: 159888295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efeba949fa910dd44b2ae9443ea0033e
+      internalID: 1284733934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec7738797a9160449e75a4f69b81112
+      internalID: -1292653713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa33529a73edb8c4485609919b1be804
+      internalID: -1673286279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59489172770dd140af541ecc65ad66d
+      internalID: 556886735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d1f71662964154cb31a737870d273c
+      internalID: 1075072621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c57c114418ac440991997b877bf05f
+      internalID: 1526317321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac62514727981441b98331dc48633f0
+      internalID: 1123635765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3f553b07e62874db66388b316cc794
+      internalID: -1034582794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720b387bad073cf45961023e7c097c8c
+      internalID: -1326678753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d49e8d9f92d4cd468ea4f0497a4d282
+      internalID: -918252011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400f224511640ae4cadf84a2c1bd225f
+      internalID: 1584241397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653045589750f4647a3762e047de3e72
+      internalID: 1506304600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a066bcb0b54cf4ba8ebb163fadff3a
+      internalID: 1647590624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05616d84d537ed04581fcc3d681e36d1
+      internalID: 1921312634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5efafa0a32bfdd4b9346c7adbc78a4f
+      internalID: -570810191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e3ac9d07558ba43890ea64aa44afd5
+      internalID: -937787620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edbeb6f010817941b8b48569f4bc70b
+      internalID: -476091355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc0d88896bb14d49a00f7fcda593a13
+      internalID: 1438178842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df11c4db625e425439114431ccbcde54
+      internalID: 827076140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d855f4136f7e64499a00fe3f11934f5
+      internalID: 273134115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c6a2d153001f04c9952aea49b2136e
+      internalID: -1999698574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b3e20817949be43a4c4b525d990b8a
+      internalID: 1453727410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2d524b70054c940b4aae0fb39dbcc5
+      internalID: 1979555546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f006634648846946996ff40513c8f8b
+      internalID: 913248768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d1a500542a2db4cbef573d069ccdb5
+      internalID: -458535324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63828ffb3afd8554c866dc7f1d403c24
+      internalID: -1089435744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d4a0706b74fa8438db8977953bdfd3
+      internalID: -579089404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5d3017dd58d8a4daef71137df4fa44
+      internalID: -863255232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4995cd53bba59634fbc387677b115a65
+      internalID: 1831864875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee69a8eaa4277534bbee7209f98426ef
+      internalID: -924790732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab2d42e2149074499fd07aecf63d744
+      internalID: 1246505611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8867a864edb23484a8040e9c9d60c931
+      internalID: -1523778435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e43bbbeead3ea4982b0a17e544d46f
+      internalID: 1259222033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b524247de3d3349b79fbd0a832fdb7
+      internalID: 121048210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebccd5b56d8b342429cf5e61de05d848
+      internalID: 698542935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7eb44d18f182942a21da5a1275c3c9
+      internalID: -2001475591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ccfb347e710e34ebcec72d74232759
+      internalID: 1177882456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7137bfb35964f428e61ad155643c6f
+      internalID: -1056143177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0163661669be75843a0c5eca3e9e828b
+      internalID: 1526804266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baa76d00eed4b64aa8fc5b86803cdf8
+      internalID: 971114932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eecdf668bd6f6145ae35ab5dc32b467
+      internalID: 1903560692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd0181d11bc4504fa7da52f165b0868
+      internalID: -805271932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524dc1ba43c51744ea251c562a7f9681
+      internalID: -647804591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6952da3ce1f286049a6acb8fefefc75e
+      internalID: -1149200533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97c358433ab9914b99d04224beacf13
+      internalID: 1843433871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6312a08ed2476c34780049596cf07f88
+      internalID: 772523894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6406ee9cdb874724f8fc6ca66e85c43d
+      internalID: 1144172382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87ca0b1bc4a73f4fae5dea589549fd5
+      internalID: 1020990316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df752ec720846d74e99d5435c3a2cdb2
+      internalID: -1875889359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94835a3c99cac514a9cb2c37b109861e
+      internalID: -1489701387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51f63aa49c678046af968976352ad70
+      internalID: -1294605058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8cbd901af06c24f936c1f70bbffed4
+      internalID: -1305216474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f0fa2710c4db04a8950ba2ff64501f
+      internalID: -2113135464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7784611d32f43e049bd544f3df513b52
+      internalID: -812800000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32832304509bd544a4a4a23673f71ba
+      internalID: 1864459098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d160a8ec62cb734b9ee9687746807de
+      internalID: -156712364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce3a375b2e5744489fe1b36bc8ae15c
+      internalID: 994118079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32cccc43d066504297886a6a0a467ac
+      internalID: 1261666759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_61
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473d6bc2c9e8882439a570d075273246
+      internalID: -747755048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_62
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1c3552bd912934b83a28a702436a83
+      internalID: -453273750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a83572ffacc6664593914ce40e0cfbf
+      internalID: 1627694399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a226bfba975151249b55d02d49a16767
+      internalID: -1675549190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947bcf3f76788674c81c895d1da3593e
+      internalID: -2087842113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8c15129b53ed049868bc4be01f2a9d
+      internalID: -1024620494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7791f28310b936a4186271ddd01b37bb
+      internalID: -2018069462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f271609ed88fd5045bc16f412ba2f757
+      internalID: 494943733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_69
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95130e003d3282149b34dd6dbc659cdf
+      internalID: -1658675856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_70
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aae96e4b876fa4181b07f56393b1ac
+      internalID: 479820456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_71
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d60c90a52f44c44d813191685953648
+      internalID: 1939716369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe51b7013e08264cbce62fd7e472777
+      internalID: -380193435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e609bf0e144f3b64183bad9345f62e8c
+      internalID: 2053518774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a270617546af5334292d2b8009ebee3c
+      internalID: 2136206844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb4303b2f17b4e4d96637ed94863ed2
+      internalID: -1042636830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc912937fe7b3042a5095746756c427
+      internalID: 521696104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_77
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e5782cbeb3a9a47babb531ba475e2b
+      internalID: -1689216834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e93235faf2e8384ca56aaa366d78d1f
+      internalID: 1088112020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_79
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97f21a6995b0704a961563a19d306e9
+      internalID: -1454119488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_80
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f263677d682dd049a07a887cee55aa9
+      internalID: -628679610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 60bcb2a3d9e4a0c42b3ac5ab304d3be3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_0: 5997636675982044247
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_1: 1952144876
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_10: -1034582794
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_11: -1326678753
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_12: -918252011
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_13: 1584241397
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_14: 1506304600
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_15: 1647590624
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_16: 1921312634
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_17: -570810191
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_18: -937787620
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_19: -476091355
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_2: 159888295
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_20: 1438178842
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_21: 827076140
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_22: 273134115
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_23: -1999698574
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_24: 1453727410
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_25: 1979555546
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_26: 913248768
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_27: -458535324
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_28: -1089435744
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_29: -579089404
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_3: 1284733934
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_30: -863255232
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_31: 1831864875
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_32: -924790732
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_33: 1246505611
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_34: -1523778435
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_35: 1259222033
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_36: 121048210
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_37: 698542935
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_38: -2001475591
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_39: 1177882456
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_4: -1292653713
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_40: -1056143177
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_41: 1526804266
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_42: 971114932
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_43: 1903560692
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_44: -805271932
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_45: -647804591
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_46: -1149200533
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_47: 1843433871
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_48: 772523894
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_49: 1144172382
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_5: -1673286279
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_50: 1020990316
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_51: -1875889359
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_52: -1489701387
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_53: -1294605058
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_54: -1305216474
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_55: -2113135464
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_56: -812800000
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_57: 1864459098
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_58: -156712364
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_59: 994118079
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_6: 556886735
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_60: 1261666759
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_61: -747755048
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_62: -453273750
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_63: 1627694399
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_64: -1675549190
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_65: -2087842113
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_66: -1024620494
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_67: -2018069462
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_68: 494943733
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_69: -1658675856
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_7: 1075072621
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_70: 479820456
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_71: 1939716369
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_72: -380193435
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_73: 2053518774
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_74: 2136206844
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_75: -1042636830
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_76: 521696104
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_77: -1689216834
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_78: 1088112020
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_79: -1454119488
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_8: 1526317321
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_80: -628679610
+      pixel_patterns_by_augustinasraginskis_db3pj2w-375w-2x_9: 1123635765
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

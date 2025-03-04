@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e935e8afe38f31943a4f8f6f94d7beb5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 174620
+  packageName: Day and Night 2D System
+  packageVersion: 1.0
+  assetPath: Assets/TwoTVGames/DayNightSystem2D/Sprites/Tilesets/Terrain/terrain_160.asset
+  uploadId: 378783
