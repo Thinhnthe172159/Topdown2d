@@ -1,11 +1,12 @@
 ﻿using UnityEngine;
 
-public class DoorController : MonoBehaviour {
+public class DoorController : MonoBehaviour
+{
     public Animator animator;
     private Transform player;
 
     private bool isOpen;
-    
+
     private bool objectiveCompleted = true;
 
     public int distance;
@@ -16,22 +17,27 @@ public class DoorController : MonoBehaviour {
 
     private AudioSource audioSrc;
     public AudioClip audioClip;
-    
-    private void Start() {
+
+    private void Start()
+    {
         isOpen = false;
-        
+
         player = GameObject.Find("Player").GetComponent<Transform>();
 
         audioSrc = GetComponent<AudioSource>();
     }
-    
-    private void Update() {
-        if (Vector2.Distance(transform.position, player.position) < distance && !isOpen && objectiveCompleted) {
+
+    private void Update()
+    {
+        if (Vector2.Distance(transform.position, player.position) < distance && !isOpen && objectiveCompleted)
+        {
             if (inChild) SetChildDoors(true);
             else SetDoor(true);
 
             isOpen = true;
-        } else if ((Vector2.Distance(transform.position, player.position) > distance || !objectiveCompleted) && isOpen) {
+        }
+        else if ((Vector2.Distance(transform.position, player.position) > distance || !objectiveCompleted) && isOpen)
+        {
             if (inChild) SetChildDoors(false);
             else SetDoor(false);
 
@@ -39,12 +45,14 @@ public class DoorController : MonoBehaviour {
         }
     }
 
-    private void SetDoor(bool state) {
+    private void SetDoor(bool state)
+    {
         PlayDoorSound();
         animator.SetBool("isOpen", state);
     }
 
-    private void SetChildDoors(bool state) {
+    private void SetChildDoors(bool state)
+    {
         PlayDoorSound();
         if (animatorChild1.gameObject.activeSelf)
             animatorChild1.SetBool("isOpen", state);
@@ -53,12 +61,14 @@ public class DoorController : MonoBehaviour {
         GetComponent<BoxCollider2D>().enabled = !state;
     }
 
-    public bool ObjectiveCompleted {
+    public bool ObjectiveCompleted
+    {
         get { return objectiveCompleted; }
         set { objectiveCompleted = value; }
     }
 
-    private void PlayDoorSound() {
+    private void PlayDoorSound()
+    {
         audioSrc.PlayOneShot(audioClip, 1f);
     }
 }
