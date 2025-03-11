@@ -1,13 +1,11 @@
 ﻿using System;
-using System.Runtime.CompilerServices;
 using UnityEngine;
 
 public class Train : MonoBehaviour
 {
-    public GameObject trainPrefab;
     public float speed;
-
     public float timeDuration = 60f;
+
     private float countDown = 0f;
     private bool isCountingDown = false;
     private Vector3 startPosition = new Vector3(191.8f, -72.43f, 0f);
@@ -17,7 +15,10 @@ public class Train : MonoBehaviour
     {
         if (!isCountingDown)
         {
+            // Di chuyển tàu sang trái
             transform.position += Vector3.left * speed * Time.deltaTime;
+
+            // Nếu tàu chạm điểm kết thúc, bắt đầu đếm ngược
             if (transform.position.x <= destroyPoint.x)
             {
                 isCountingDown = true;
@@ -27,10 +28,12 @@ public class Train : MonoBehaviour
         else
         {
             countDown += Time.deltaTime;
+
+            // Khi hết thời gian chờ, đặt lại vị trí tàu
             if (countDown >= timeDuration)
             {
-                Instantiate(trainPrefab, startPosition, Quaternion.identity);
-                Destroy(gameObject);
+                transform.position = startPosition;
+                isCountingDown = false; // Reset trạng thái để tàu chạy tiếp
             }
         }
     }

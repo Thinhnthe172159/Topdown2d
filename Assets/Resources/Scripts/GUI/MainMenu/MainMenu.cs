@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 public class MainMenu : MonoBehaviour {
     public void PlayTutorial() {
         PlayMenuSound();
-        SceneManager.LoadScene("Villages 1");
+        SceneManager.LoadScene("Tutorial");
     }
 
     public void PlayLevel1() {
