@@ -1,11 +1,11 @@
 ﻿using UnityEngine;
 
 public class PlayerAim : MonoBehaviour {
-    public GameObject aimPoint;
+    private GameObject aimPoint;
     private Rigidbody2D aimRb2D;
 
     void Start() {
-        //aimPoint = GameObject.Find("AimPoint").gameObject;
+        aimPoint = GameObject.Find("AimPoint");
         aimRb2D = aimPoint.GetComponent<Rigidbody2D>();
     }
 

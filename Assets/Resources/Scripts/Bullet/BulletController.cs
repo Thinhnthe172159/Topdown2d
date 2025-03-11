@@ -27,7 +27,7 @@ public class BulletController : MonoBehaviour {
         }
         
         if (!other.CompareTag("Player") &&
-            !other.CompareTag("PlayerChild") &&
+           // !other.CompareTag("PlayerChild") &&
             !other.CompareTag("Bullet") &&
             !other.CompareTag("Hole") &&
             !other.CompareTag("EnemyBullet") &&

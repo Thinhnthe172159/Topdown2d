@@ -25,13 +25,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5254710512587555449}
-  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -8.45, y: 2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!82 &5254710512587555448
 AudioSource:
@@ -44,7 +43,6 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 0}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -143,8 +141,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sounds:
-  - name: 
-    clip: {fileID: 0}
-    volume: 0
-    loop: 0
+  - name: MainTheme
+    clip: {fileID: 8300000, guid: 1c8d5b57833fa4836a36ad3ac816517e, type: 3}
+    volume: 0.75
+    loop: 1
+    source: {fileID: 0}
+  - name: Boos1Figth
+    clip: {fileID: 8300000, guid: 22f4e207921ac4f28976529d6fd0d2a5, type: 3}
+    volume: 0.75
+    loop: 1
     source: {fileID: 0}

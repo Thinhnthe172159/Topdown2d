@@ -50,7 +50,7 @@ public class PlayerSwitch : MonoBehaviour
             player2Controller.enabled = true;
 
             player1Active = false;
-            cameraMovement.SetTarget(player2Controller.gameObject);
+           // cameraMovement.SetTarget(player2Controller.gameObject);
         }
         else
         {
@@ -70,7 +70,7 @@ public class PlayerSwitch : MonoBehaviour
             playerController.enabled = true;
 
             player1Active = true;
-            cameraMovement.SetTarget(playerController.gameObject);
+           // cameraMovement.SetTarget(playerController.gameObject);
         }
     }
 }
