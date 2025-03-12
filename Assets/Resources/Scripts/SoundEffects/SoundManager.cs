@@ -42,9 +42,9 @@ public class SoundManager : MonoBehaviour {
         sound1 = Resources.Load<AudioClip>("Sounds/Inventory/cloth-inventory");
         sound2 = Resources.Load<AudioClip>("Sounds/Inventory/leather_inventory");
         sound3 = Resources.Load<AudioClip>("Sounds/Guns/shotgun-load");
-        sound4 = Resources.Load<AudioClip>("Sounds/Guns/Shoot2");
+        sound4 = Resources.Load<AudioClip>("Sounds/Guns/bowsound");
         sound5 = Resources.Load<AudioClip>("Sounds/Movement/wood02");
-        sound6 = Resources.Load<AudioClip>("Sounds/Explosions/explodemini");
+        sound6 = Resources.Load<AudioClip>("Sounds/Explosions/arrowhit");
         sound8 = Resources.Load<AudioClip>("Sounds/Mix/metal_slide");
         gameOver = Resources.Load<AudioClip>("Sounds/Mix/gameOver");
 
