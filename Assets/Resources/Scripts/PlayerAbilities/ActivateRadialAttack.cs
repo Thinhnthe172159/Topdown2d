@@ -5,7 +5,7 @@ public class ActivateRadialAttack : MonoBehaviour {
     public GameObject bullet;
     public Transform shootPoint;
     private bool wait;
-    public float waitTime;
+    private float waitTime = 6f;
     
     void Start() {
         wait = true;
@@ -18,7 +18,7 @@ public class ActivateRadialAttack : MonoBehaviour {
     }
 
     IEnumerator Attack() {
-        wait = false;
+        wait = false; 
 
         for (int i = 0; i <= 360; i += 20) {
             shootPoint.transform.rotation = Quaternion.Euler(0, 0, i);

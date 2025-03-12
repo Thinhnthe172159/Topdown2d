@@ -244,7 +244,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -258,7 +258,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 600
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -1859,7 +1859,77 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Arrow_impact_pack_0: 6462517220497613105
+      Arrow_impact_pack_1: 2185792063082478084
+      Arrow_impact_pack_10: -1145221247841416786
+      Arrow_impact_pack_11: 9031504345025512979
+      Arrow_impact_pack_12: -5606538139466911519
+      Arrow_impact_pack_13: 4258532582030632986
+      Arrow_impact_pack_14: -4728192174595285676
+      Arrow_impact_pack_15: -3471528080960213939
+      Arrow_impact_pack_16: -4995228646219920854
+      Arrow_impact_pack_17: 6665102481412503728
+      Arrow_impact_pack_18: -4485970745731703491
+      Arrow_impact_pack_19: -8494556519402155370
+      Arrow_impact_pack_2: -3642613463254091277
+      Arrow_impact_pack_20: 6343635013558044504
+      Arrow_impact_pack_21: 347115174372661835
+      Arrow_impact_pack_22: 8108311304331640109
+      Arrow_impact_pack_23: 1153969053079417962
+      Arrow_impact_pack_24: -2937606455425996931
+      Arrow_impact_pack_25: 1935535982171575491
+      Arrow_impact_pack_26: 797989746404784950
+      Arrow_impact_pack_27: 6967067208670566985
+      Arrow_impact_pack_28: -791410345456138416
+      Arrow_impact_pack_29: -2392989384039360567
+      Arrow_impact_pack_3: -2524227205295649064
+      Arrow_impact_pack_30: 3376171392966103066
+      Arrow_impact_pack_31: 339461557230102929
+      Arrow_impact_pack_32: 2310499534504224453
+      Arrow_impact_pack_33: -3460184865344462985
+      Arrow_impact_pack_34: -1348701706636309439
+      Arrow_impact_pack_35: -5645306703248960283
+      Arrow_impact_pack_36: 4658106864699597499
+      Arrow_impact_pack_37: 3157692971125454545
+      Arrow_impact_pack_38: 7187523725375218968
+      Arrow_impact_pack_39: 2611850873208401801
+      Arrow_impact_pack_4: -2511603583180650830
+      Arrow_impact_pack_40: -4971001632232504007
+      Arrow_impact_pack_41: -1392186061985354866
+      Arrow_impact_pack_42: 5422796638733396325
+      Arrow_impact_pack_43: 8532757063276775606
+      Arrow_impact_pack_44: -7070950432660494402
+      Arrow_impact_pack_45: 1167264526048425198
+      Arrow_impact_pack_46: -8792048233172637352
+      Arrow_impact_pack_47: 5627423352925900702
+      Arrow_impact_pack_48: -804987920094261727
+      Arrow_impact_pack_49: -2527201374162319731
+      Arrow_impact_pack_5: -6095885908242921149
+      Arrow_impact_pack_50: -4542970546754624990
+      Arrow_impact_pack_51: -6605400129549143609
+      Arrow_impact_pack_52: -1448130901318875008
+      Arrow_impact_pack_53: 6773360837251404362
+      Arrow_impact_pack_54: 4304670038205141925
+      Arrow_impact_pack_55: 5684127523225561342
+      Arrow_impact_pack_56: 6362592431976099756
+      Arrow_impact_pack_57: -2814198224475309987
+      Arrow_impact_pack_58: 4988637479470345694
+      Arrow_impact_pack_59: -5545949602568514625
+      Arrow_impact_pack_6: -6753593025868895508
+      Arrow_impact_pack_60: -8983938369688528690
+      Arrow_impact_pack_61: 725090293748255421
+      Arrow_impact_pack_62: 2144012818658972301
+      Arrow_impact_pack_63: 7808382921172808054
+      Arrow_impact_pack_64: -2621826625069821210
+      Arrow_impact_pack_65: -5149307486688510724
+      Arrow_impact_pack_66: 3742705569336479468
+      Arrow_impact_pack_67: -5120727544940719958
+      Arrow_impact_pack_68: -2318898077178138653
+      Arrow_impact_pack_69: 135791736407585688
+      Arrow_impact_pack_7: 6852799620829409212
+      Arrow_impact_pack_8: -7667028909180035860
+      Arrow_impact_pack_9: -695775715959745032
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
