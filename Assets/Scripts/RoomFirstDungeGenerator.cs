@@ -18,7 +18,15 @@ public class RoomFirstDungeGenerator : SimpleRamdomWalkDungenonGenerator
     private GameObject playerPrefab;
     private Vector2Int playerStartPosition;
     private Transform spawnedObjectsParent;
-    [SerializeField] private GameObject shopPrefab;
+    [SerializeField] private GameObject miniBoss;
+    [SerializeField] private GameObject[] enemyPrefabs;
+    [SerializeField] private int minEnemiesPerRoom = 1;
+    [SerializeField] private int maxEnemiesPerRoom = 4;
+    [SerializeField] private GameObject bossPrefab;
+    [SerializeField]
+    private GameObject horizontalDoorPrefab;
+    [SerializeField]
+    private GameObject verticalDoorPrefab;
     protected override void RunProceduralGeneration()
     {
         CreateRooms();
@@ -27,24 +35,19 @@ public class RoomFirstDungeGenerator : SimpleRamdomWalkDungenonGenerator
     private void CreateRooms()
     {
         ClearSpawnedObjects();
-        var roomList = ProceduralRenerationAlgorithms.BinarySpacePartitioning(new BoundsInt((Vector3Int)startPosition,
-            new Vector3Int(dungeonWidth, dungeonHeight, 0)), minRoomWidth, minRoomHeight);
+        var roomList = ProceduralRenerationAlgorithms.BinarySpacePartitioning(
+            new BoundsInt((Vector3Int)startPosition, new Vector3Int(dungeonWidth, dungeonHeight, 0)),
+            minRoomWidth, minRoomHeight);
 
         BoundsInt bossRoom = SelectBossRoom(roomList);
         roomList.Remove(bossRoom);
         BoundsInt spawnRoom = SelectFarthestRoom(roomList, bossRoom);
         playerStartPosition = (Vector2Int)Vector3Int.RoundToInt(spawnRoom.center);
         BoundsInt shopRoom = SelectShopRoom(roomList, spawnRoom, bossRoom);
-        HashSet<Vector2Int> floor = new HashSet<Vector2Int>();
 
-        if (randomWalkRooms)
-        {
-            floor = CreateRoomsRandomly(roomList);
-        }
-        else
-        {
-            floor = CreateSimpleRooms(roomList);
-        }
+        HashSet<Vector2Int> floor = randomWalkRooms ?
+            CreateRoomsRandomly(roomList) :
+            CreateSimpleRooms(roomList);
 
         HashSet<Vector2Int> bossRoomFloor = CreateSimpleRooms(new List<BoundsInt> { bossRoom });
         floor.UnionWith(bossRoomFloor);
@@ -58,13 +61,81 @@ public class RoomFirstDungeGenerator : SimpleRamdomWalkDungenonGenerator
 
         HashSet<Vector2Int> corridors = ConnectRooms(roomCenter, bossRoom);
         floor.UnionWith(corridors);
+
         titlemapVisualizer.PainFloorTiles(floor);
         WallGenerator.CreateWalls(floor, titlemapVisualizer);
+
         SpawnShopNPC(shopRoom);
         SpawnObjectsInRooms(roomList, spawnRoom, shopRoom, floor, corridors);
         SpawnBossRoomObjects(bossRoom);
         SpawnPlayer();
+        SpawnEnemiesInRooms(roomList, bossRoom, spawnRoom, floor, corridors);
+        SpawnBoss(bossRoom);
     }
+
+    private void SpawnBoss(BoundsInt bossRoom)
+    {
+        if (bossPrefab == null) return;
+
+        // Chọn vị trí chính giữa phòng boss
+        Vector3 bossPosition = new Vector3(
+            bossRoom.center.x + 0.5f,
+            bossRoom.center.y + 0.5f,
+            0
+        );
+
+        Instantiate(bossPrefab, bossPosition, Quaternion.identity, spawnedObjectsParent);
+    }
+
+    private void SpawnEnemiesInRooms(List<BoundsInt> roomList, BoundsInt bossRoom, BoundsInt spawnRoom, HashSet<Vector2Int> floor, HashSet<Vector2Int> corridors)
+    {
+        foreach (var room in roomList)
+        {
+            if (room == bossRoom || room == spawnRoom) continue; // Bỏ qua phòng boss và phòng spawn
+
+            int enemyCount = Random.Range(minEnemiesPerRoom, maxEnemiesPerRoom + 1);
+            HashSet<Vector2Int> spawnedPositions = new HashSet<Vector2Int>();
+
+            for (int i = 0; i < enemyCount; i++)
+            {
+                Vector2Int randomPosition;
+                int attempts = 10;
+                do
+                {
+                    int x = Random.Range(room.xMin + 1, room.xMax - 1);
+                    int y = Random.Range(room.yMin + 1, room.yMax - 1);
+                    randomPosition = new Vector2Int(x, y);
+                    attempts--;
+                } while (
+                    spawnedPositions.Contains(randomPosition) || // Tránh trùng lặp
+                    !floor.Contains(randomPosition) ||          // Đảm bảo vị trí nằm trên sàn
+                    corridors.Contains(randomPosition)          // Không spawn trong hành lang
+                    && attempts > 0
+                );
+
+                if (attempts == 0)
+                {
+                    Debug.LogWarning($"Không tìm được vị trí hợp lệ để spawn quái vật trong phòng [{room.xMin}, {room.yMin}]!");
+                    continue;
+                }
+
+                spawnedPositions.Add(randomPosition);
+                SpawnEnemy(randomPosition);
+            }
+        }
+    }
+
+
+    private void SpawnEnemy(Vector2Int position)
+    {
+        if (enemyPrefabs == null || enemyPrefabs.Length == 0) return;
+
+        GameObject enemyPrefab = enemyPrefabs[Random.Range(0, enemyPrefabs.Length)];
+        Vector3 spawnPosition = new Vector3(position.x + 0.5f, position.y + 0.5f, 0);
+        Instantiate(enemyPrefab, spawnPosition, Quaternion.identity, spawnedObjectsParent);
+    }
+
+
     private BoundsInt SelectShopRoom(List<BoundsInt> roomList, BoundsInt spawnRoom, BoundsInt bossRoom)
     {
         if (roomList == null || roomList.Count == 0)
@@ -98,7 +169,7 @@ public class RoomFirstDungeGenerator : SimpleRamdomWalkDungenonGenerator
 
     private void SpawnShopNPC(BoundsInt shopRoom)
     {
-        if (shopPrefab == null)
+        if (miniBoss == null)
         {
             return;
         }
@@ -110,8 +181,7 @@ public class RoomFirstDungeGenerator : SimpleRamdomWalkDungenonGenerator
             0
         );
 
-        shopPrefab.transform.position = shopPosition;
-        Debug.Log($"Moved existing Shop NPC to: {shopPosition}");
+        miniBoss.transform.position = shopPosition;
     }
 
 
@@ -246,28 +316,134 @@ public class RoomFirstDungeGenerator : SimpleRamdomWalkDungenonGenerator
         return farthestRoom;
     }
 
-    private HashSet<Vector2Int> ConnectRooms(List<Vector2Int> roomCenter, BoundsInt bossRoom)
+    private HashSet<Vector2Int> ConnectRooms(List<Vector2Int> roomCenters, BoundsInt bossRoom)
     {
         HashSet<Vector2Int> corridors = new HashSet<Vector2Int>();
-        var currentRoomCenter = roomCenter[Random.Range(0, roomCenter.Count)];
-        roomCenter.Remove(currentRoomCenter);
-        while (roomCenter.Count > 0)
+
+        if (roomCenters.Count == 0) return corridors;
+
+        var currentRoomCenter = roomCenters[Random.Range(0, roomCenters.Count)];
+        if (roomCenters.Count > 1)
         {
-            Vector2Int closest = FindClosestPoinTo(currentRoomCenter, roomCenter);
-            roomCenter.Remove(closest);
-            HashSet<Vector2Int> newCorridor = CreateCorridor(currentRoomCenter, closest);
-            currentRoomCenter = closest;
-            corridors.UnionWith(newCorridor);
+            roomCenters.Remove(currentRoomCenter);
         }
 
+        while (roomCenters.Count > 0)
+        {
+            Vector2Int closest = FindClosestPoinTo(currentRoomCenter, roomCenters);
+            roomCenters.Remove(closest);
+
+            // Tạo hành lang giữa currentRoomCenter và closest
+            HashSet<Vector2Int> corridor = CreateCorridor(currentRoomCenter, closest);
+            corridors.UnionWith(corridor);
+
+            // Lấy điểm đầu và cuối của hành lang
+            var (start, end) = GetCorridorEndpoints(corridor);
+
+            // Chỉ đặt cửa ở điểm bắt đầu của hành lang
+            PlaceDoor(start, currentRoomCenter, closest);
+
+            Debug.Log($"✅ Corridor from {currentRoomCenter} to {closest}, total corridors: {corridors.Count}");
+
+            currentRoomCenter = closest;
+        }
+
+        // Nối bossRoom với hành lang gần nhất
         Vector2Int bossRoomCenter = (Vector2Int)Vector3Int.RoundToInt(bossRoom.center);
         if (!corridors.Contains(bossRoomCenter))
         {
-            Vector2Int closestToBoss = FindClosestPoinTo(bossRoomCenter, roomCenter);
+            Vector2Int closestToBoss = FindClosestPoinTo(bossRoomCenter, new List<Vector2Int>(corridors));
             HashSet<Vector2Int> bossCorridor = CreateCorridor(bossRoomCenter, closestToBoss);
             corridors.UnionWith(bossCorridor);
+
+            var (startBoss, endBoss) = GetCorridorEndpoints(bossCorridor);
+            // Chỉ đặt cửa ở điểm bắt đầu của hành lang boss
+            PlaceDoor(startBoss, bossRoomCenter, closestToBoss);
+
+            Debug.Log($"🔥 Boss room corridor from {bossRoomCenter} to {closestToBoss}");
         }
+
+        Debug.Log($"🚪 Total corridors: {corridors.Count}");
         return corridors;
+    }
+    private void PlaceDoor(Vector2Int position, Vector2Int roomA, Vector2Int roomB)
+    {
+        // Kiểm tra xem roomA và roomB có thẳng hàng không
+        if (roomA.x != roomB.x && roomA.y != roomB.y)
+        {
+            Debug.LogError("Rooms are not aligned! Cannot place door.");
+            return;
+        }
+
+        // Xác định hướng của hành lang
+        bool isVertical = roomA.x == roomB.x;
+
+        // Xác định vị trí đặt cửa
+        Vector2Int doorPosition = position;
+
+        // Nếu hành lang dọc, cửa sẽ được đặt ở vị trí x của hành lang và y của phòng
+        if (isVertical)
+        {
+            doorPosition.y = Mathf.RoundToInt((roomA.y + roomB.y) / 2f);
+        }
+        // Nếu hành lang ngang, cửa sẽ được đặt ở vị trí y của hành lang và x của phòng
+        else
+        {
+            doorPosition.x = Mathf.RoundToInt((roomA.x + roomB.x) / 2f);
+        }
+
+        // Kiểm tra xem đã có cửa ở vị trí này chưa
+        if (IsDoorAtPosition(doorPosition))
+        {
+            Debug.LogWarning($"🚪 Door already exists at {doorPosition}. Skipping.");
+            return;
+        }
+
+        // Chọn prefab cửa dựa trên hướng
+        GameObject doorPrefab = isVertical ? verticalDoorPrefab : horizontalDoorPrefab;
+
+        // Đặt cửa vào vị trí đã tính toán
+        Instantiate(doorPrefab, new Vector3(doorPosition.x + 0.5f, doorPosition.y + 0.5f, 0), Quaternion.identity);
+        Debug.Log($"🚪 Door placed at {doorPosition} {(isVertical ? "Vertical" : "Horizontal")}");
+    }
+
+    private bool IsDoorAtPosition(Vector2Int position)
+    {
+        // Kiểm tra xem có cửa ở vị trí này không (ví dụ: dùng Physics2D.OverlapCircle)
+        Collider2D[] colliders = Physics2D.OverlapCircleAll(new Vector2(position.x + 0.5f, position.y + 0.5f), 0.1f);
+        foreach (var collider in colliders)
+        {
+            if (collider.CompareTag("Door"))
+            {
+                return true;
+            }
+        }
+        return false;
+    }
+    private (Vector2Int start, Vector2Int end) GetCorridorEndpoints(HashSet<Vector2Int> corridor)
+    {
+        List<Vector2Int> corridorList = new List<Vector2Int>(corridor);
+        Vector2Int start = corridorList[0];
+        Vector2Int end = corridorList[0];
+        float minDist = float.MaxValue;
+        float maxDist = float.MinValue;
+
+        foreach (var pos in corridorList)
+        {
+            float dist = Vector2Int.Distance(start, pos);
+            if (dist < minDist)
+            {
+                minDist = dist;
+                start = pos;
+            }
+            if (dist > maxDist)
+            {
+                maxDist = dist;
+                end = pos;
+            }
+        }
+
+        return (start, end);
     }
 
     private void SpawnPlayer()
@@ -302,62 +478,84 @@ public class RoomFirstDungeGenerator : SimpleRamdomWalkDungenonGenerator
         }
         return floor;
     }
-
-    private HashSet<Vector2Int> CreateCorridor(Vector2Int currentRoomCenter, Vector2Int closest)
+    private HashSet<Vector2Int> CreateCorridor(Vector2Int start, Vector2Int end, int corridorWidth = 3)
     {
         HashSet<Vector2Int> corridor = new HashSet<Vector2Int>();
-        var position = currentRoomCenter;
-        corridor.Add(position);
+        int x = start.x;
+        int y = start.y;
 
-        Vector2Int lastDirection = Vector2Int.zero;
-        Vector2Int perpendicularDirection = Vector2Int.zero;
+        int dx = Mathf.Abs(end.x - start.x);
+        int dy = Mathf.Abs(end.y - start.y);
+        int sx = start.x < end.x ? 1 : -1;
+        int sy = start.y < end.y ? 1 : -1;
+        int err = dx - dy;
 
-        while (position.y != closest.y)
+        while (true)
         {
-            if (closest.y > position.y)
+            // Thêm ô chính
+            corridor.Add(new Vector2Int(x, y));
+
+            // Mở rộng hành lang theo chiều rộng (corridorWidth)
+            for (int i = 1; i <= corridorWidth / 2; i++)
             {
-                position += Vector2Int.up;
-                lastDirection = Vector2Int.up;
-            }
-            else if (closest.y < position.y)
-            {
-                position += Vector2Int.down;
-                lastDirection = Vector2Int.down;
+                corridor.Add(new Vector2Int(x + i, y)); // Mở rộng sang phải
+                corridor.Add(new Vector2Int(x - i, y)); // Mở rộng sang trái
+                corridor.Add(new Vector2Int(x, y + i)); // Mở rộng lên trên
+                corridor.Add(new Vector2Int(x, y - i)); // Mở rộng xuống dưới
             }
 
-            perpendicularDirection = GetPerpendicularDirection(lastDirection);
-            corridor.Add(position);
-            corridor.Add(position + perpendicularDirection);
-        }
+            if (x == end.x && y == end.y) break;
 
-        while (position.x != closest.x)
-        {
-            if (closest.x > position.x)
+            int e2 = 2 * err;
+            if (e2 > -dy)
             {
-                position += Vector2Int.right;
-                lastDirection = Vector2Int.right;
+                err -= dy;
+                x += sx;
             }
-            else if (closest.x < position.x)
+            if (e2 < dx)
             {
-                position += Vector2Int.left;
-                lastDirection = Vector2Int.left;
-            }
-
-            perpendicularDirection = GetPerpendicularDirection(lastDirection);
-            corridor.Add(position);
-
-            if (lastDirection == Vector2Int.right || lastDirection == Vector2Int.left)
-            {
-                corridor.Add(position + Vector2Int.up);
-            }
-            else
-            {
-                corridor.Add(position + Vector2Int.right);
+                err += dx;
+                y += sy;
             }
         }
 
         return corridor;
     }
+    //private HashSet<Vector2Int> CreateCorridor(Vector2Int currentRoomCenter, Vector2Int closest)
+    //{
+    //    HashSet<Vector2Int> corridor = new HashSet<Vector2Int>();
+    //    var position = currentRoomCenter;
+    //    corridor.Add(position);
+
+    //    Vector2Int lastDirection = Vector2Int.zero;
+    //    Vector2Int perpendicularDirection = Vector2Int.zero;
+
+    //    while (position.y != closest.y)
+    //    {
+    //        position += (closest.y > position.y) ? Vector2Int.up : Vector2Int.down;
+    //        lastDirection = (closest.y > position.y) ? Vector2Int.up : Vector2Int.down;
+
+    //        perpendicularDirection = GetPerpendicularDirection(lastDirection);
+    //        corridor.Add(position);
+    //        corridor.Add(position + perpendicularDirection);
+    //        corridor.Add(position - perpendicularDirection); // Mở rộng đường đi
+    //    }
+
+    //    while (position.x != closest.x)
+    //    {
+    //        position += (closest.x > position.x) ? Vector2Int.right : Vector2Int.left;
+    //        lastDirection = (closest.x > position.x) ? Vector2Int.right : Vector2Int.left;
+
+    //        perpendicularDirection = GetPerpendicularDirection(lastDirection);
+    //        corridor.Add(position);
+    //        corridor.Add(position + perpendicularDirection);
+    //        corridor.Add(position - perpendicularDirection); // Mở rộng đường đi
+    //    }
+
+    //    return corridor;
+    //}
+
+
 
     private Vector2Int GetPerpendicularDirection(Vector2Int direction)
     {
@@ -368,19 +566,21 @@ public class RoomFirstDungeGenerator : SimpleRamdomWalkDungenonGenerator
     }
 
 
-    private Vector2Int FindClosestPoinTo(Vector2Int currentRoomCenter, List<Vector2Int> roomCenter)
+    private Vector2Int FindClosestPoinTo(Vector2Int point, List<Vector2Int> points)
     {
-        Vector2Int closest = Vector2Int.zero;
-        float distance = float.MaxValue;
-        foreach (var position in roomCenter)
+        Vector2Int closest = points[0];
+        float minDist = Vector2Int.Distance(point, closest);
+
+        foreach (var p in points)
         {
-            float currentDistance = Vector2Int.Distance(currentRoomCenter, position);
-            if (currentDistance < distance)
+            float dist = Vector2Int.Distance(point, p);
+            if (dist < minDist)
             {
-                distance = currentDistance;
-                closest = position;
+                minDist = dist;
+                closest = p;
             }
         }
+
         return closest;
     }
 
