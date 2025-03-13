@@ -14,7 +14,9 @@ public class TitlemapVisualizer : MonoBehaviour
     private TileBase floorTile, wallTop, wallSiderRight, wallSiderLeft, wallBottom, wallFull,
         wallInnerCornerDownLeft, wallInnerCornerDownRight, wallDiagonalCornerDownLeft, wallDiagonalCornerDownRight, wallDiagonalCornerUpLeft, wallDiagonalCornerUpRight;
     [SerializeField]
-    public List<GameObject> bossRoomObjects;
+    public List<GameObject> supportItems;
+    [SerializeField]
+    public List<GameObject> obstacleObjects;
     [SerializeField]
     public List<GameObject> roomObjects;
     public void PainFloorTiles(IEnumerable<Vector2Int> floorPositions)
