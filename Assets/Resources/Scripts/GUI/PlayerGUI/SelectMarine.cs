@@ -18,7 +18,7 @@ public class SelectMarine : MonoBehaviour {
     public void SelectKevin() {
         forceField = player.GetComponent<ActivateForceShield>();
         forceField.enabled = true;
-       // sprite.color = new Color(255f/255f, 97f/255f, 193f/255f);
+        //sprite.color = new Color(255f/255f, 97f/255f, 193f/255f);
         Cursor.visible = false;
         Time.timeScale = 1;
         SoundManager.PlaySound("MenuSound");
@@ -27,7 +27,7 @@ public class SelectMarine : MonoBehaviour {
     public void SelectSebas() {
         turret = player.GetComponent<ActivateTurret>();
         turret.enabled = true;
-       // sprite.color = new Color(232f/255f, 255f/255f, 100f/255f);
+        //sprite.color = new Color(232f/255f, 255f/255f, 100f/255f);
         Cursor.visible = false;
         Time.timeScale = 1;
         SoundManager.PlaySound("MenuSound");
@@ -36,7 +36,7 @@ public class SelectMarine : MonoBehaviour {
     public void SelectMario() {
         bomb = player.GetComponent<ActivateBomb>();
         bomb.enabled = true;
-       // Cursor.visible = false;
+        Cursor.visible = false;
         Time.timeScale = 1;
         SoundManager.PlaySound("MenuSound");
     }

@@ -78,7 +78,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 6
-  m_Sprite: {fileID: -1991201162632322822, guid: 999ac13ba217f40839cad6b65ba6b4d0,
+  m_Sprite: {fileID: -6186231880139380768, guid: 86746387cb1953f4ca489cb16d5db475,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -128,7 +128,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.93333334, y: 0.4}
+    oldSize: {x: 1, y: 1}
     newSize: {x: 0.28, y: 0.12}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -203,26 +203,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Point Light 2D
-      objectReference: {fileID: 0}
-    - target: {fileID: 3284675095269402991, guid: d70b34be98e834ccfa15cc917c5ac86b,
-        type: 3}
-      propertyPath: m_LocalBounds.m_Center.x
-      value: 0.0024999976
-      objectReference: {fileID: 0}
-    - target: {fileID: 3284675095269402991, guid: d70b34be98e834ccfa15cc917c5ac86b,
-        type: 3}
-      propertyPath: m_LocalBounds.m_Center.y
-      value: -0.0024999976
-      objectReference: {fileID: 0}
-    - target: {fileID: 3284675095269402991, guid: d70b34be98e834ccfa15cc917c5ac86b,
-        type: 3}
-      propertyPath: m_LocalBounds.m_Extent.x
-      value: 1.0675001
-      objectReference: {fileID: 0}
-    - target: {fileID: 3284675095269402991, guid: d70b34be98e834ccfa15cc917c5ac86b,
-        type: 3}
-      propertyPath: m_LocalBounds.m_Extent.y
-      value: 1.0675001
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

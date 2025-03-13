@@ -8,8 +8,8 @@ public static class SaveSystem {
 
     public static void SaveGameData () {
         BinaryFormatter formatter = new BinaryFormatter();
-         
-        string path = Application.persistentDataPath + $"/Topdonw2dRPG{activeSaveSlot}.save";
+        
+        string path = Application.persistentDataPath + $"/GunnedDownData{activeSaveSlot}.save";
 
         GameData gameData = LoadGameData(activeSaveSlot);
 
@@ -22,7 +22,7 @@ public static class SaveSystem {
     }
 
     public static GameData LoadGameData(int slotToLoad) {
-        string path = Application.persistentDataPath + $"/Topdonw2dRPG{slotToLoad}.save";
+        string path = Application.persistentDataPath + $"/GunnedDownData{slotToLoad}.save";
         if (!File.Exists(path))
             return null;
         BinaryFormatter formatter = new BinaryFormatter();
@@ -34,7 +34,7 @@ public static class SaveSystem {
     }
 
     public static void DeleteFile (int slotToDelete) {
-        File.Delete(Application.persistentDataPath + $"/Topdonw2dRPG{slotToDelete}.save");
+        File.Delete(Application.persistentDataPath + $"/GunnedDownData{slotToDelete}.save");
     }
 
     public static int ActiveLevelForSaving {

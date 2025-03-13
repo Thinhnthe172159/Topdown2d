@@ -4,5 +4,21 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 09954ed0e4aa64b13b029a060f2a592e
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 9efd86d8a6bbe94429652e86e9405e01
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 8ce1e655bb3f7481bab8313a5b1fc2fa
+  - enabled: 1
+    path: Assets/Scenes/Dungeon.unity
+    guid: 0fe9764a12f4b384eb543c78ac47ab6e
+  - enabled: 1
+    path: Assets/Scenes/Villages 1.unity
+    guid: 399cee39887f45f4c958423a7cd521ef
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

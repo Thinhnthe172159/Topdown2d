@@ -14,12 +14,12 @@ public class MainMenu : MonoBehaviour {
     
     public void PlayLevel2() {
         PlayMenuSound();
-        SceneManager.LoadScene("Villages 1");
+        SceneManager.LoadScene("Dungeon");
     }
 
     public void PlayLevel3() {
         PlayMenuSound();
-        Debug.LogWarning("Scene for Level 3 does not exist");
+        SceneManager.LoadScene("Villages1");
     }
 
     public void QuitGame() {

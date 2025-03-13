@@ -7,8 +7,7 @@ public class PlayerHealth : MonoBehaviour
     private int health;
     private bool isKill;
     public int RESURRECTION_COUNT = 3;
-    private Text resurrection_count;
-    public Animator _animation;
+    public Text resurrection_count;
 
     [HideInInspector]
     public bool invinsible;
@@ -38,10 +37,10 @@ public class PlayerHealth : MonoBehaviour
     {
         if (health == 0 && !isKill)
         {
-            --RESURRECTION_COUNT;
+
             if (RESURRECTION_COUNT > 0)
             {
-               _animation.SetTrigger("IsDead");
+                RESURRECTION_COUNT--;
                 health = 100;
             }
             else
@@ -63,6 +62,11 @@ public class PlayerHealth : MonoBehaviour
             blood.transform.SetParent(transform);
             SoundManager.PlaySound("Hurt");
         }
+    }
+
+    public void AddView()
+    {
+
     }
 
     public void IncreaseHealth(int heal)

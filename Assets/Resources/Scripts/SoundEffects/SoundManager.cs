@@ -48,7 +48,7 @@ public class SoundManager : MonoBehaviour {
         sound8 = Resources.Load<AudioClip>("Sounds/Mix/metal_slide");
         gameOver = Resources.Load<AudioClip>("Sounds/Mix/gameOver");
 
-        reload1 = Resources.Load<AudioClip>("Sounds/Guns/reload1");
+        reload1 = Resources.Load<AudioClip>("Sounds/Guns/bowsound");
         energyShot = Resources.Load<AudioClip>("Sounds/PlayerAbilities/retro_shot");
         
         // Minotaur Enemy

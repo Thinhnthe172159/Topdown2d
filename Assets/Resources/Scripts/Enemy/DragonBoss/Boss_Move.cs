@@ -15,8 +15,8 @@ public class Boss_Move : StateMachineBehaviour {
     }
 
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex) {
-       // Vector2 target = new Vector2(player.position.x, animator.transform.position.y);
-       //animator.transform.position = Vector2.MoveTowards(rigidbody.position, target, speed * Time.deltaTime);
+        Vector2 target = new Vector2(player.position.x, animator.transform.position.y);
+        animator.transform.position = Vector2.MoveTowards(rigidbody.position, target, speed * Time.deltaTime);
         if (waitTime <= 0) animator.SetTrigger("Attack");
         else waitTime = -Time.deltaTime;
     }
