@@ -27,6 +27,8 @@ public class RoomFirstDungeGenerator : SimpleRamdomWalkDungenonGenerator
     private GameObject horizontalDoorPrefab;
     [SerializeField]
     private GameObject verticalDoorPrefab;
+    [SerializeField] private List<GameObject> itemsPrefab;
+    [SerializeField] private float itemSpawnChance = 0.1f;
     protected override void RunProceduralGeneration()
     {
         CreateRooms();
@@ -71,20 +73,31 @@ public class RoomFirstDungeGenerator : SimpleRamdomWalkDungenonGenerator
         SpawnPlayer();
         SpawnEnemiesInRooms(roomList, bossRoom, spawnRoom, floor, corridors);
         SpawnBoss(bossRoom);
+        SpawnItemsInCorridors(corridors);
     }
+    private void SpawnItemsInCorridors(HashSet<Vector2Int> corridors)
+    {
+        if (itemsPrefab == null || itemsPrefab.Count == 0) return;
 
+        foreach (var tile in corridors)
+        {
+            if (Random.value < itemSpawnChance) // Random theo tỷ lệ
+            {
+                GameObject randomItem = itemsPrefab[Random.Range(0, itemsPrefab.Count)];
+                Instantiate(randomItem, new Vector3(tile.x + 0.5f, tile.y + 0.5f, 0), Quaternion.identity, spawnedObjectsParent);
+            }
+        }
+    }
     private void SpawnBoss(BoundsInt bossRoom)
     {
         if (bossPrefab == null) return;
 
-        // Chọn vị trí chính giữa phòng boss
-        Vector3 bossPosition = new Vector3(
+        // Cập nhật vị trí của boss
+        bossPrefab.transform.position = new Vector3(
             bossRoom.center.x + 0.5f,
             bossRoom.center.y + 0.5f,
             0
         );
-
-        Instantiate(bossPrefab, bossPosition, Quaternion.identity, spawnedObjectsParent);
     }
 
     private void SpawnEnemiesInRooms(List<BoundsInt> roomList, BoundsInt bossRoom, BoundsInt spawnRoom, HashSet<Vector2Int> floor, HashSet<Vector2Int> corridors)
@@ -187,12 +200,22 @@ public class RoomFirstDungeGenerator : SimpleRamdomWalkDungenonGenerator
 
     private void SpawnBossRoomObjects(BoundsInt bossRoom)
     {
-        if (titlemapVisualizer.bossRoomObjects == null || titlemapVisualizer.bossRoomObjects.Count == 0) return;
 
-        int numberOfObjects = Random.Range(3, 6); // Spawn từ 3-6 vật chắn đạn
+        int numSupportItems = Random.Range(2, 4); // Spawn 2-4 vật phẩm hỗ trợ
+        int numObstacles = Random.Range(3, 6); // Spawn 3-6 vật chắn đạn
+
         HashSet<Vector2Int> usedPositions = new HashSet<Vector2Int>();
 
-        for (int i = 0; i < numberOfObjects; i++)
+        SpawnItemsInBossRoom(titlemapVisualizer.supportItems, bossRoom, numSupportItems, usedPositions);
+
+        SpawnItemsInBossRoom(titlemapVisualizer.obstacleObjects, bossRoom, numObstacles, usedPositions);
+    }
+
+    private void SpawnItemsInBossRoom(List<GameObject> itemList, BoundsInt bossRoom, int count, HashSet<Vector2Int> usedPositions)
+    {
+        if (itemList == null || itemList.Count == 0) return;
+
+        for (int i = 0; i < count; i++)
         {
             Vector2Int randomPosition;
             int attempts = 10;
@@ -209,7 +232,7 @@ public class RoomFirstDungeGenerator : SimpleRamdomWalkDungenonGenerator
 
             usedPositions.Add(randomPosition);
 
-            GameObject randomObject = titlemapVisualizer.bossRoomObjects[Random.Range(0, titlemapVisualizer.bossRoomObjects.Count)];
+            GameObject randomObject = itemList[Random.Range(0, itemList.Count)];
             GameObject spawnedObj = Instantiate(randomObject,
                 new Vector3(randomPosition.x + 0.5f, randomPosition.y + 0.5f, 0),
                 Quaternion.identity);
@@ -278,10 +301,11 @@ public class RoomFirstDungeGenerator : SimpleRamdomWalkDungenonGenerator
             {
                 DestroyImmediate(spawnedObjectsParent.gameObject);
             }
-            spawnedObjectsParent = null;
         }
-    }
 
+        // Tạo lại parent sau khi xóa
+        spawnedObjectsParent = new GameObject("SpawnedObjects").transform;
+    }
 
 
     private BoundsInt SelectBossRoom(List<BoundsInt> roomList)
@@ -333,22 +357,16 @@ public class RoomFirstDungeGenerator : SimpleRamdomWalkDungenonGenerator
             Vector2Int closest = FindClosestPoinTo(currentRoomCenter, roomCenters);
             roomCenters.Remove(closest);
 
-            // Tạo hành lang giữa currentRoomCenter và closest
             HashSet<Vector2Int> corridor = CreateCorridor(currentRoomCenter, closest);
             corridors.UnionWith(corridor);
 
-            // Lấy điểm đầu và cuối của hành lang
             var (start, end) = GetCorridorEndpoints(corridor);
 
-            // Chỉ đặt cửa ở điểm bắt đầu của hành lang
             PlaceDoor(start, currentRoomCenter, closest);
-
-            Debug.Log($"✅ Corridor from {currentRoomCenter} to {closest}, total corridors: {corridors.Count}");
 
             currentRoomCenter = closest;
         }
 
-        // Nối bossRoom với hành lang gần nhất
         Vector2Int bossRoomCenter = (Vector2Int)Vector3Int.RoundToInt(bossRoom.center);
         if (!corridors.Contains(bossRoomCenter))
         {
@@ -357,69 +375,46 @@ public class RoomFirstDungeGenerator : SimpleRamdomWalkDungenonGenerator
             corridors.UnionWith(bossCorridor);
 
             var (startBoss, endBoss) = GetCorridorEndpoints(bossCorridor);
-            // Chỉ đặt cửa ở điểm bắt đầu của hành lang boss
             PlaceDoor(startBoss, bossRoomCenter, closestToBoss);
 
-            Debug.Log($"🔥 Boss room corridor from {bossRoomCenter} to {closestToBoss}");
         }
 
-        Debug.Log($"🚪 Total corridors: {corridors.Count}");
         return corridors;
     }
     private void PlaceDoor(Vector2Int position, Vector2Int roomA, Vector2Int roomB)
     {
-        // Kiểm tra xem roomA và roomB có thẳng hàng không
+        if (spawnedObjectsParent == null)
+        {
+            spawnedObjectsParent = new GameObject("SpawnedObjects").transform;
+        }
+
         if (roomA.x != roomB.x && roomA.y != roomB.y)
         {
             Debug.LogError("Rooms are not aligned! Cannot place door.");
             return;
         }
 
-        // Xác định hướng của hành lang
         bool isVertical = roomA.x == roomB.x;
-
-        // Xác định vị trí đặt cửa
         Vector2Int doorPosition = position;
 
-        // Nếu hành lang dọc, cửa sẽ được đặt ở vị trí x của hành lang và y của phòng
         if (isVertical)
         {
             doorPosition.y = Mathf.RoundToInt((roomA.y + roomB.y) / 2f);
         }
-        // Nếu hành lang ngang, cửa sẽ được đặt ở vị trí y của hành lang và x của phòng
         else
         {
             doorPosition.x = Mathf.RoundToInt((roomA.x + roomB.x) / 2f);
         }
 
-        // Kiểm tra xem đã có cửa ở vị trí này chưa
-        if (IsDoorAtPosition(doorPosition))
-        {
-            Debug.LogWarning($"🚪 Door already exists at {doorPosition}. Skipping.");
-            return;
-        }
-
-        // Chọn prefab cửa dựa trên hướng
         GameObject doorPrefab = isVertical ? verticalDoorPrefab : horizontalDoorPrefab;
 
-        // Đặt cửa vào vị trí đã tính toán
-        Instantiate(doorPrefab, new Vector3(doorPosition.x + 0.5f, doorPosition.y + 0.5f, 0), Quaternion.identity);
-        Debug.Log($"🚪 Door placed at {doorPosition} {(isVertical ? "Vertical" : "Horizontal")}");
+        Instantiate(doorPrefab,
+                    new Vector3(doorPosition.x + 0.5f, doorPosition.y + 0.5f, 0),
+                    Quaternion.identity,
+                    spawnedObjectsParent);
     }
 
-    private bool IsDoorAtPosition(Vector2Int position)
-    {
-        // Kiểm tra xem có cửa ở vị trí này không (ví dụ: dùng Physics2D.OverlapCircle)
-        Collider2D[] colliders = Physics2D.OverlapCircleAll(new Vector2(position.x + 0.5f, position.y + 0.5f), 0.1f);
-        foreach (var collider in colliders)
-        {
-            if (collider.CompareTag("Door"))
-            {
-                return true;
-            }
-        }
-        return false;
-    }
+
     private (Vector2Int start, Vector2Int end) GetCorridorEndpoints(HashSet<Vector2Int> corridor)
     {
         List<Vector2Int> corridorList = new List<Vector2Int>(corridor);
